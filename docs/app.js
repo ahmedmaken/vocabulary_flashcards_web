@@ -4,11 +4,12 @@ const STORAGE_KEYS = {
   allWordsIndex: "allWordsSavedIndex",
   testPositions: "testSavedPositions",
   randomOrder: "allWordsSortRandom",
+  randomSeed: "allWordsRandomSeed",
   previewViews: "previewPageViews",
   previewViewsSession: "previewPageViewsSession",
 };
 
-const ASSET_VERSION = "20260512g";
+const ASSET_VERSION = "20260512i";
 
 const TOTAL_TESTS = 20;
 const PALETTE = [
@@ -26,6 +27,7 @@ const state = {
   selection: null,
   selectedIndex: 0,
   isRandomOrder: false,
+  randomSeed: 0,
   revealedCards: new Set(),
 };
 
@@ -116,33 +118,43 @@ function ensurePageViewsCounter() {
   }, 2200);
 }
 
-function stableShuffleKey(word) {
-  let hash = 1469598103934665603n;
-  const lowercased = word.toLowerCase();
-
-  for (let index = 0; index < lowercased.length; index += 1) {
-    hash ^= BigInt(lowercased.charCodeAt(index));
-    hash *= 1099511628211n;
-  }
-
-  return hash;
-}
-
-function stableRandomizedCards(cards) {
-  const alphabeticalCards = [...cards].sort((left, right) =>
+function alphabeticalCards(cards) {
+  return [...cards].sort((left, right) =>
     left.word.localeCompare(right.word, undefined, { sensitivity: "base" })
   );
+}
 
-  return alphabeticalCards.sort((left, right) => {
-    const leftKey = stableShuffleKey(left.word);
-    const rightKey = stableShuffleKey(right.word);
+function randomSeedValue() {
+  if (window.crypto?.getRandomValues) {
+    const values = new Uint32Array(1);
+    window.crypto.getRandomValues(values);
+    return values[0] || Math.floor(Math.random() * 4294967295);
+  }
 
-    if (leftKey === rightKey) {
-      return left.word.localeCompare(right.word, undefined, { sensitivity: "base" });
-    }
+  return Math.floor(Math.random() * 4294967295);
+}
 
-    return leftKey < rightKey ? -1 : 1;
-  });
+function randomGenerator(seed) {
+  let value = seed >>> 0;
+
+  return () => {
+    value += 0x6d2b79f5;
+    let next = Math.imul(value ^ (value >>> 15), value | 1);
+    next ^= next + Math.imul(next ^ (next >>> 7), next | 61);
+    return ((next ^ (next >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function randomizedCards(cards, seed) {
+  const shuffledCards = alphabeticalCards(cards);
+  const nextRandom = randomGenerator(seed || 1);
+
+  for (let index = shuffledCards.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(nextRandom() * (index + 1));
+    [shuffledCards[index], shuffledCards[swapIndex]] = [shuffledCards[swapIndex], shuffledCards[index]];
+  }
+
+  return shuffledCards;
 }
 
 function buildTests(cards) {
@@ -226,6 +238,22 @@ function statusLabel(position, totalCount) {
   return "In progress";
 }
 
+function progressLabel(position, totalCount) {
+  if (totalCount <= 0) {
+    return "0 / 0";
+  }
+
+  if (position <= 0) {
+    return `0 / ${totalCount}`;
+  }
+
+  if (position >= totalCount - 1) {
+    return `${totalCount} / ${totalCount}`;
+  }
+
+  return `${position + 1} / ${totalCount}`;
+}
+
 function selectedTest() {
   if (!state.selection || state.selection.mode !== "test") {
     return null;
@@ -241,8 +269,8 @@ function currentCards() {
 
   if (state.selection.mode === "allWords") {
     return state.isRandomOrder
-      ? stableRandomizedCards(state.allCards)
-      : [...state.allCards].sort((left, right) => left.word.localeCompare(right.word, undefined, { sensitivity: "base" }));
+      ? randomizedCards(state.allCards, state.randomSeed)
+      : alphabeticalCards(state.allCards);
   }
 
   return selectedTest()?.cards || [];
@@ -304,18 +332,17 @@ function renderChips(container, values) {
 
 function renderPicker() {
   const positions = getSavedPositions();
+  const allWordsPosition = Number.parseInt(localStorage.getItem(STORAGE_KEYS.allWordsIndex) || "0", 10) || 0;
   elements.testsGrid.textContent = "";
-  elements.allWordsCount.textContent = `${state.allCards.length} cards`;
-  elements.allWordsStatus.textContent = statusLabel(
-    Number.parseInt(localStorage.getItem(STORAGE_KEYS.allWordsIndex) || "0", 10) || 0,
-    state.allCards.length
-  );
+  elements.allWordsCount.textContent = progressLabel(allWordsPosition, state.allCards.length);
+  elements.allWordsStatus.textContent = statusLabel(allWordsPosition, state.allCards.length);
 
   state.tests.forEach((test) => {
+    const position = positions[test.index] || 0;
     const card = elements.testCardTemplate.content.firstElementChild.cloneNode(true);
     card.querySelector(".selection-title").textContent = `Test ${test.number}`;
-    card.querySelector(".selection-meta").textContent = `${test.cards.length} cards`;
-    card.querySelector(".selection-status").textContent = statusLabel(positions[test.index] || 0, test.cards.length);
+    card.querySelector(".selection-meta").textContent = progressLabel(position, test.cards.length);
+    card.querySelector(".selection-status").textContent = statusLabel(position, test.cards.length);
     card.addEventListener("click", () => selectTest(test.index));
     elements.testsGrid.appendChild(card);
   });
@@ -503,6 +530,11 @@ function speakCurrentWord() {
 function restoreLastSession() {
   const savedMode = localStorage.getItem(STORAGE_KEYS.mode) || "picker";
   const savedTestIndex = Number.parseInt(localStorage.getItem(STORAGE_KEYS.testIndex) || "-1", 10);
+  const savedRandomSeed = Number.parseInt(localStorage.getItem(STORAGE_KEYS.randomSeed) || "0", 10);
+
+  state.randomSeed = Number.isNaN(savedRandomSeed) || savedRandomSeed <= 0
+    ? randomSeedValue()
+    : savedRandomSeed;
 
   if (savedMode === "allWords") {
     state.selection = { mode: "allWords" };
@@ -530,6 +562,12 @@ function setupEvents() {
   elements.sortToggle.addEventListener("click", () => {
     state.isRandomOrder = !state.isRandomOrder;
     localStorage.setItem(STORAGE_KEYS.randomOrder, String(state.isRandomOrder));
+
+    if (state.isRandomOrder) {
+      state.randomSeed = randomSeedValue();
+      localStorage.setItem(STORAGE_KEYS.randomSeed, String(state.randomSeed));
+    }
+
     state.selectedIndex = 0;
     resetRevealedCards();
     saveProgress();
@@ -613,7 +651,7 @@ async function bootstrap() {
   }
 
   state.allCards = await response.json();
-  state.tests = buildTests(stableRandomizedCards(state.allCards));
+  state.tests = buildTests(randomizedCards(state.allCards, 1));
   state.isRandomOrder = localStorage.getItem(STORAGE_KEYS.randomOrder) === "true";
   restoreLastSession();
   setupEvents();
