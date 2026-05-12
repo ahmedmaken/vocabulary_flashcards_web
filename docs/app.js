@@ -61,6 +61,11 @@ function setLoadingState() {
   elements.allWordsStatus.textContent = "Please wait";
 }
 
+function setUnavailableState(message) {
+  elements.allWordsCount.textContent = message;
+  elements.allWordsStatus.textContent = "Try refresh";
+}
+
 function stableShuffleKey(word) {
   let hash = 1469598103934665603n;
   const lowercased = word.toLowerCase();
@@ -335,6 +340,20 @@ function renderScreen() {
   }
 
   const cards = currentCards();
+
+  if (!cards.length) {
+    elements.pickerScreen.classList.remove("hidden");
+    elements.studyScreen.classList.add("hidden");
+
+    if (state.allCards.length) {
+      setUnavailableState("Cards are not ready yet");
+    } else {
+      setLoadingState();
+    }
+
+    return;
+  }
+
   state.selectedIndex = clampIndex(state.selectedIndex, cards);
   elements.pickerScreen.classList.add("hidden");
   elements.studyScreen.classList.remove("hidden");
