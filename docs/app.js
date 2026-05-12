@@ -4,9 +4,11 @@ const STORAGE_KEYS = {
   allWordsIndex: "allWordsSavedIndex",
   testPositions: "testSavedPositions",
   randomOrder: "allWordsSortRandom",
+  previewViews: "previewPageViews",
+  previewViewsSession: "previewPageViewsSession",
 };
 
-const ASSET_VERSION = "20260512f";
+const ASSET_VERSION = "20260512g";
 
 const TOTAL_TESTS = 20;
 const PALETTE = [
@@ -65,6 +67,53 @@ function setLoadingState() {
 function setUnavailableState(message) {
   elements.allWordsCount.textContent = message;
   elements.allWordsStatus.textContent = "Try refresh";
+}
+
+function pageViewsValueElement() {
+  return document.getElementById("busuanzi_value_site_pv");
+}
+
+function setPageViewsText(value) {
+  const element = pageViewsValueElement();
+
+  if (!element) {
+    return;
+  }
+
+  element.textContent = value;
+}
+
+function isPreviewEnvironment() {
+  return location.protocol === "file:" || location.protocol.startsWith("vscode");
+}
+
+function incrementPreviewViews() {
+  const sessionKey = `${STORAGE_KEYS.previewViewsSession}:${location.pathname}`;
+  const alreadyCounted = sessionStorage.getItem(sessionKey) === "true";
+  const currentValue = Number.parseInt(localStorage.getItem(STORAGE_KEYS.previewViews) || "0", 10) || 0;
+  const nextValue = alreadyCounted ? currentValue : currentValue + 1;
+
+  if (!alreadyCounted) {
+    localStorage.setItem(STORAGE_KEYS.previewViews, String(nextValue));
+    sessionStorage.setItem(sessionKey, "true");
+  }
+
+  setPageViewsText(String(nextValue));
+}
+
+function ensurePageViewsCounter() {
+  if (isPreviewEnvironment()) {
+    incrementPreviewViews();
+    return;
+  }
+
+  window.setTimeout(() => {
+    const text = pageViewsValueElement()?.textContent?.trim() || "";
+
+    if (!/\d/.test(text)) {
+      incrementPreviewViews();
+    }
+  }, 2200);
 }
 
 function stableShuffleKey(word) {
@@ -553,6 +602,7 @@ function setupEvents() {
 
 async function bootstrap() {
   setLoadingState();
+  ensurePageViewsCounter();
 
   const response = await fetch(`./assets/flashcards.json?v=${ASSET_VERSION}`, {
     cache: "no-store",
