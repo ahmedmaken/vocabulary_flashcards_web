@@ -6,7 +6,7 @@ const STORAGE_KEYS = {
   randomOrder: "allWordsSortRandom",
 };
 
-const ASSET_VERSION = "20260512c";
+const ASSET_VERSION = "20260512d";
 
 const TOTAL_TESTS = 20;
 const PALETTE = [
@@ -275,7 +275,8 @@ function renderPicker() {
 function renderHeader(cards) {
   const activeTest = selectedTest();
   const isAllWordsSelected = state.selection?.mode === "allWords";
-  const shouldShowCounter = Boolean(state.selection && cards.length);
+  const totalCount = cards.length || state.allCards.length || 0;
+  const currentCount = state.selection && cards.length ? state.selectedIndex + 1 : 0;
 
   if (activeTest) {
     elements.headerBadge.textContent = cards.length
@@ -294,10 +295,8 @@ function renderHeader(cards) {
     elements.headerSubtitle.textContent = "Choose a test or all words";
   }
 
-  elements.pageCounter.classList.toggle("hidden", !shouldShowCounter);
-  elements.pageCounter.textContent = shouldShowCounter
-    ? `${state.selectedIndex + 1} / ${cards.length}`
-    : "";
+  elements.pageCounter.classList.remove("hidden");
+  elements.pageCounter.textContent = `${currentCount} / ${totalCount}`;
   elements.backButton.classList.toggle("hidden", !state.selection);
   elements.sortToggle.classList.toggle("hidden", !isAllWordsSelected);
   elements.sortToggle.textContent = state.isRandomOrder ? "Random order" : "Alphabetical order";
