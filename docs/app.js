@@ -6,7 +6,7 @@ const STORAGE_KEYS = {
   randomOrder: "allWordsSortRandom",
 };
 
-const ASSET_VERSION = "20260512b";
+const ASSET_VERSION = "20260512c";
 
 const TOTAL_TESTS = 20;
 const PALETTE = [
@@ -31,6 +31,7 @@ const elements = {
   body: document.body,
   headerBadge: document.getElementById("header-badge"),
   headerSubtitle: document.getElementById("header-subtitle"),
+  pageCounter: document.getElementById("page-counter"),
   backButton: document.getElementById("back-button"),
   sortToggle: document.getElementById("sort-toggle"),
   pickerScreen: document.getElementById("picker-screen"),
@@ -274,6 +275,7 @@ function renderPicker() {
 function renderHeader(cards) {
   const activeTest = selectedTest();
   const isAllWordsSelected = state.selection?.mode === "allWords";
+  const shouldShowCounter = Boolean(state.selection && cards.length);
 
   if (activeTest) {
     elements.headerBadge.textContent = cards.length
@@ -292,6 +294,10 @@ function renderHeader(cards) {
     elements.headerSubtitle.textContent = "Choose a test or all words";
   }
 
+  elements.pageCounter.classList.toggle("hidden", !shouldShowCounter);
+  elements.pageCounter.textContent = shouldShowCounter
+    ? `${state.selectedIndex + 1} / ${cards.length}`
+    : "";
   elements.backButton.classList.toggle("hidden", !state.selection);
   elements.sortToggle.classList.toggle("hidden", !isAllWordsSelected);
   elements.sortToggle.textContent = state.isRandomOrder ? "Random order" : "Alphabetical order";

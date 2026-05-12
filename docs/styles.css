@@ -82,7 +82,15 @@ button {
   margin-top: 8px;
 }
 
+.header-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+}
+
 .badge,
+.page-counter,
 .back-button,
 .sort-toggle,
 .nav-button,
@@ -102,6 +110,18 @@ button {
   font-weight: 800;
   letter-spacing: 0.02em;
   text-transform: uppercase;
+}
+
+.page-counter {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 0 10px;
+  color: #6f766d;
+  background: rgba(255, 255, 255, 0.46);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
 }
 
 .subtitle {
@@ -147,6 +167,15 @@ button {
 .main-panel {
   flex: 1;
   min-height: 0;
+}
+
+.footer-note {
+  text-align: center;
+  color: #7b7268;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding-bottom: 4px;
 }
 
 .picker-screen,
@@ -401,6 +430,14 @@ button {
   .nav-panel {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .header-actions {
+    align-items: stretch;
+  }
+
+  .page-counter {
+    justify-content: center;
   }
 
   .back-button,
