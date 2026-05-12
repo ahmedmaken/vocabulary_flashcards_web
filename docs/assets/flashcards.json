@@ -1,0 +1,8966 @@
+[
+  {
+    "word": "Abode",
+    "pos": "noun",
+    "definition": "The place someone calls home. This is usually a permanent place that they live and could be any type of shelter or habitat.",
+    "synonyms": [
+      "home",
+      "house",
+      "dwelling",
+      "residence"
+    ],
+    "antonyms": [
+      "outside",
+      "wilderness",
+      "street",
+      "nowhere"
+    ],
+    "sentence": "The fox returned to its warm abode."
+  },
+  {
+    "word": "Abstract",
+    "pos": "adjective",
+    "definition": "A thought of something that does not physically exist and cannot be referenced by a concrete object.",
+    "synonyms": [
+      "theoretical",
+      "general",
+      "vague",
+      "idea-based"
+    ],
+    "antonyms": [
+      "real",
+      "concrete",
+      "practical",
+      "clear"
+    ],
+    "sentence": "The painting used abstract shapes and colours."
+  },
+  {
+    "word": "Abundance",
+    "pos": "noun",
+    "definition": "A large amount of something that is more than you require.",
+    "synonyms": [
+      "plenty",
+      "lots",
+      "wealth",
+      "overflow"
+    ],
+    "antonyms": [
+      "lack",
+      "shortage",
+      "scarcity",
+      "need"
+    ],
+    "sentence": "Spring brought an abundance of bright flowers."
+  },
+  {
+    "word": "Acclaim",
+    "pos": "noun",
+    "definition": "Celebrate or give praise to someone in a public environment.",
+    "synonyms": [
+      "praise",
+      "approval",
+      "applause",
+      "honour"
+    ],
+    "antonyms": [
+      "criticism",
+      "blame",
+      "disapproval",
+      "ridicule"
+    ],
+    "sentence": "The singer earned acclaim after the concert."
+  },
+  {
+    "word": "Accolade",
+    "pos": "noun",
+    "definition": "A way of honouring an achievement of a person or a place.",
+    "synonyms": [
+      "award",
+      "honour",
+      "praise",
+      "tribute"
+    ],
+    "antonyms": [
+      "criticism",
+      "insult",
+      "blame",
+      "rejection"
+    ],
+    "sentence": "She received an accolade for kindness."
+  },
+  {
+    "word": "Accompany",
+    "pos": "verb",
+    "definition": "To go with or alongside something or someone.",
+    "synonyms": [
+      "go with",
+      "join",
+      "escort",
+      "attend"
+    ],
+    "antonyms": [
+      "leave",
+      "abandon",
+      "avoid",
+      "desert"
+    ],
+    "sentence": "I will accompany Mum to the shop."
+  },
+  {
+    "word": "Achieve",
+    "pos": "verb",
+    "definition": "To reach a goal or successfully reach a finishing point.",
+    "synonyms": [
+      "reach",
+      "accomplish",
+      "complete",
+      "gain"
+    ],
+    "antonyms": [
+      "fail",
+      "lose",
+      "miss",
+      "give up"
+    ],
+    "sentence": "You can achieve your goal with practice."
+  },
+  {
+    "word": "Acquiesce",
+    "pos": "verb",
+    "definition": "Despite not wanting to agree to something, you would rather not accept.",
+    "synonyms": [
+      "agree",
+      "accept",
+      "allow",
+      "give in"
+    ],
+    "antonyms": [
+      "refuse",
+      "resist",
+      "reject",
+      "oppose"
+    ],
+    "sentence": "He chose to acquiesce and stay calm."
+  },
+  {
+    "word": "Address",
+    "pos": "verb",
+    "definition": "To share information to someone in a spoken or written medium.",
+    "synonyms": [
+      "speak to",
+      "tackle",
+      "discuss",
+      "handle"
+    ],
+    "antonyms": [
+      "ignore",
+      "avoid",
+      "neglect",
+      "dodge"
+    ],
+    "sentence": "The teacher will address the noisy class."
+  },
+  {
+    "word": "Adhere",
+    "pos": "verb",
+    "definition": "Sticking to something - this could be a thought or belief or something physically sticking to something else.",
+    "synonyms": [
+      "stick",
+      "cling",
+      "obey",
+      "follow"
+    ],
+    "antonyms": [
+      "separate",
+      "detach",
+      "ignore",
+      "disobey"
+    ],
+    "sentence": "We adhere to the rules at school."
+  },
+  {
+    "word": "Adjacent",
+    "pos": "adjective",
+    "definition": "Very nearby or next to each other.",
+    "synonyms": [
+      "next to",
+      "nearby",
+      "neighbouring",
+      "adjoining"
+    ],
+    "antonyms": [
+      "distant",
+      "far",
+      "separate",
+      "remote"
+    ],
+    "sentence": "Our classroom is adjacent to the library."
+  },
+  {
+    "word": "Admission",
+    "pos": "noun",
+    "definition": "Stating that something is true.",
+    "synonyms": [
+      "entry",
+      "access",
+      "confession",
+      "acceptance"
+    ],
+    "antonyms": [
+      "exit",
+      "denial",
+      "refusal",
+      "exclusion"
+    ],
+    "sentence": "Your ticket allows admission to the museum."
+  },
+  {
+    "word": "Admonish",
+    "pos": "verb",
+    "definition": "To advise against something and warn a person you do not think it is wise.",
+    "synonyms": [
+      "warn",
+      "scold",
+      "correct",
+      "rebuke"
+    ],
+    "antonyms": [
+      "praise",
+      "encourage",
+      "approve",
+      "compliment"
+    ],
+    "sentence": "Dad may admonish us for shouting."
+  },
+  {
+    "word": "Adopt",
+    "pos": "verb",
+    "definition": "To take something and follow or use it as your own.",
+    "synonyms": [
+      "take in",
+      "accept",
+      "choose",
+      "embrace"
+    ],
+    "antonyms": [
+      "reject",
+      "abandon",
+      "refuse",
+      "discard"
+    ],
+    "sentence": "They plan to adopt a small puppy."
+  },
+  {
+    "word": "Adverse",
+    "pos": "adjective",
+    "definition": "Something that can have a negative or unfavourable impact on an event.",
+    "synonyms": [
+      "harmful",
+      "bad",
+      "unfavourable",
+      "difficult"
+    ],
+    "antonyms": [
+      "helpful",
+      "good",
+      "favourable",
+      "beneficial"
+    ],
+    "sentence": "Rain had an adverse effect on sports day."
+  },
+  {
+    "word": "Aggressive",
+    "pos": "adjective",
+    "definition": "Showing anger or carrying out something in a forceful way.",
+    "synonyms": [
+      "hostile",
+      "fierce",
+      "rough",
+      "pushy"
+    ],
+    "antonyms": [
+      "gentle",
+      "calm",
+      "peaceful",
+      "kind"
+    ],
+    "sentence": "The aggressive dog barked at strangers."
+  },
+  {
+    "word": "Agitate",
+    "pos": "verb",
+    "definition": "To make someone feel uneasy.",
+    "synonyms": [
+      "stir",
+      "upset",
+      "disturb",
+      "worry"
+    ],
+    "antonyms": [
+      "calm",
+      "soothe",
+      "settle",
+      "comfort"
+    ],
+    "sentence": "The loud noise began to agitate her."
+  },
+  {
+    "word": "Aid",
+    "pos": "verb",
+    "definition": "To give or provide help.",
+    "synonyms": [
+      "help",
+      "assist",
+      "support",
+      "serve"
+    ],
+    "antonyms": [
+      "hinder",
+      "block",
+      "stop",
+      "hurt"
+    ],
+    "sentence": "Volunteers aid families after the storm."
+  },
+  {
+    "word": "Albeit",
+    "pos": "conjunction",
+    "definition": "A conjunction that could be used in place of although.",
+    "synonyms": [
+      "although",
+      "though",
+      "even though",
+      "while"
+    ],
+    "antonyms": [
+      "because",
+      "since",
+      "as",
+      "therefore"
+    ],
+    "sentence": "The walk was fun, albeit very muddy."
+  },
+  {
+    "word": "Allure",
+    "pos": "noun",
+    "definition": "To attract or charm someone or something.",
+    "synonyms": [
+      "appeal",
+      "charm",
+      "attraction",
+      "beauty"
+    ],
+    "antonyms": [
+      "repulsion",
+      "dislike",
+      "dullness",
+      "ugliness"
+    ],
+    "sentence": "The beach had the allure of adventure."
+  },
+  {
+    "word": "Amateur",
+    "pos": "noun",
+    "definition": "Someone who is new to an event or takes part as a hobby rather than a profession.",
+    "synonyms": [
+      "beginner",
+      "learner",
+      "novice",
+      "newcomer"
+    ],
+    "antonyms": [
+      "expert",
+      "master",
+      "professional",
+      "specialist"
+    ],
+    "sentence": "The amateur painter kept practising every day."
+  },
+  {
+    "word": "Ambrosial",
+    "pos": "adjective",
+    "definition": "Something that has a nice smell or taste.",
+    "synonyms": [
+      "delicious",
+      "sweet",
+      "tasty",
+      "heavenly"
+    ],
+    "antonyms": [
+      "awful",
+      "bland",
+      "nasty",
+      "unpleasant"
+    ],
+    "sentence": "The ambrosial cake smelled fresh and sweet."
+  },
+  {
+    "word": "Ample",
+    "pos": "adjective",
+    "definition": "A large amount that is adequate or more than adequate.",
+    "synonyms": [
+      "enough",
+      "plenty",
+      "roomy",
+      "large"
+    ],
+    "antonyms": [
+      "tiny",
+      "scarce",
+      "lacking",
+      "cramped"
+    ],
+    "sentence": "We had ample time to finish."
+  },
+  {
+    "word": "Antiquated",
+    "pos": "adjective",
+    "definition": "Something that is old and out-of-date - it might need modernising.",
+    "synonyms": [
+      "old-fashioned",
+      "outdated",
+      "ancient",
+      "old"
+    ],
+    "antonyms": [
+      "modern",
+      "new",
+      "current",
+      "updated"
+    ],
+    "sentence": "The antiquated clock still ticked softly."
+  },
+  {
+    "word": "Apathy",
+    "pos": "noun",
+    "definition": "Having little interest or a lack of emotion towards something.",
+    "synonyms": [
+      "indifference",
+      "boredom",
+      "disinterest",
+      "uncaring"
+    ],
+    "antonyms": [
+      "interest",
+      "care",
+      "concern",
+      "enthusiasm"
+    ],
+    "sentence": "His apathy showed during the team talk."
+  },
+  {
+    "word": "Appreciate",
+    "pos": "verb",
+    "definition": "To understand the value of something and be aware that it is there.",
+    "synonyms": [
+      "value",
+      "enjoy",
+      "respect",
+      "recognise"
+    ],
+    "antonyms": [
+      "ignore",
+      "dislike",
+      "scorn",
+      "overlook"
+    ],
+    "sentence": "I appreciate your help with homework."
+  },
+  {
+    "word": "Apprehensive",
+    "pos": "adjective",
+    "definition": "Feeling nervous or cautious about something as you fear something bad might happen.",
+    "synonyms": [
+      "worried",
+      "nervous",
+      "uneasy",
+      "fearful"
+    ],
+    "antonyms": [
+      "calm",
+      "confident",
+      "relaxed",
+      "certain"
+    ],
+    "sentence": "She felt apprehensive before the spelling test."
+  },
+  {
+    "word": "Arduous",
+    "pos": "adjective",
+    "definition": "Something that is hard and strenuous and might leave you feeling tired.",
+    "synonyms": [
+      "hard",
+      "difficult",
+      "tough",
+      "tiring"
+    ],
+    "antonyms": [
+      "easy",
+      "simple",
+      "effortless",
+      "light"
+    ],
+    "sentence": "Climbing the hill was an arduous task."
+  },
+  {
+    "word": "Argument",
+    "pos": "noun",
+    "definition": "A disagreement involving two or more different viewpoints that oppose each other.",
+    "synonyms": [
+      "disagreement",
+      "quarrel",
+      "debate",
+      "dispute"
+    ],
+    "antonyms": [
+      "agreement",
+      "peace",
+      "harmony",
+      "accord"
+    ],
+    "sentence": "Their argument ended when they listened."
+  },
+  {
+    "word": "Arid",
+    "pos": "adjective",
+    "definition": "Dry land with no rain. This land is so dry that it would not be able to support plant life.",
+    "synonyms": [
+      "dry",
+      "parched",
+      "waterless",
+      "barren"
+    ],
+    "antonyms": [
+      "wet",
+      "damp",
+      "rainy",
+      "lush"
+    ],
+    "sentence": "The arid land needed plenty of rain."
+  },
+  {
+    "word": "Artful",
+    "pos": "adjective",
+    "definition": "Clever and intelligent in what is being completed.",
+    "synonyms": [
+      "clever",
+      "skilful",
+      "crafty",
+      "creative"
+    ],
+    "antonyms": [
+      "clumsy",
+      "honest",
+      "plain",
+      "awkward"
+    ],
+    "sentence": "Her artful plan solved the puzzle."
+  },
+  {
+    "word": "Articulate",
+    "pos": "adjective",
+    "definition": "Being able to speak and express ideas clearly and coherently.",
+    "synonyms": [
+      "clear",
+      "fluent",
+      "expressive",
+      "well-spoken"
+    ],
+    "antonyms": [
+      "unclear",
+      "mumbled",
+      "confused",
+      "inarticulate"
+    ],
+    "sentence": "The articulate speaker explained every step."
+  },
+  {
+    "word": "Artisan",
+    "pos": "noun",
+    "definition": "A person skilled in a trade or craft that requires them to work with their hands.",
+    "synonyms": [
+      "craftsperson",
+      "maker",
+      "worker",
+      "creator"
+    ],
+    "antonyms": [
+      "destroyer",
+      "buyer",
+      "customer",
+      "learner"
+    ],
+    "sentence": "The artisan made bowls from clay."
+  },
+  {
+    "word": "Ashamed",
+    "pos": "adjective",
+    "definition": "Feeling embarrassed or guilty about something you have done or said.",
+    "synonyms": [
+      "embarrassed",
+      "guilty",
+      "sorry",
+      "regretful"
+    ],
+    "antonyms": [
+      "proud",
+      "pleased",
+      "confident",
+      "unashamed"
+    ],
+    "sentence": "He felt ashamed after breaking the vase."
+  },
+  {
+    "word": "Assemble",
+    "pos": "verb",
+    "definition": "Collect things or people into one place. You could assemble a group of people or objects.",
+    "synonyms": [
+      "gather",
+      "collect",
+      "build",
+      "put together"
+    ],
+    "antonyms": [
+      "separate",
+      "scatter",
+      "dismantle",
+      "divide"
+    ],
+    "sentence": "We assemble the model after lunch."
+  },
+  {
+    "word": "Asunder",
+    "pos": "adverb",
+    "definition": "To divide or separate something into multiple pieces.",
+    "synonyms": [
+      "apart",
+      "separately",
+      "away",
+      "divided"
+    ],
+    "antonyms": [
+      "together",
+      "joined",
+      "united",
+      "connected"
+    ],
+    "sentence": "The strong wind blew the papers asunder."
+  },
+  {
+    "word": "Attempt",
+    "pos": "noun",
+    "definition": "To try or make an effort to do something that is difficult.",
+    "synonyms": [
+      "try",
+      "effort",
+      "shot",
+      "bid"
+    ],
+    "antonyms": [
+      "avoidance",
+      "surrender",
+      "refusal",
+      "neglect"
+    ],
+    "sentence": "Her first attempt was nearly correct."
+  },
+  {
+    "word": "Augur",
+    "pos": "verb",
+    "definition": "A sign of things to come in the future. This could be good or bad.",
+    "synonyms": [
+      "predict",
+      "foretell",
+      "signal",
+      "suggest"
+    ],
+    "antonyms": [
+      "hide",
+      "conceal",
+      "confuse",
+      "mislead"
+    ],
+    "sentence": "Dark clouds may augur heavy rain."
+  },
+  {
+    "word": "Austerity",
+    "pos": "noun",
+    "definition": "Reduced spending and living without things as you increase frugality.",
+    "synonyms": [
+      "strictness",
+      "hardship",
+      "plainness",
+      "severity"
+    ],
+    "antonyms": [
+      "comfort",
+      "luxury",
+      "ease",
+      "richness"
+    ],
+    "sentence": "The family practised austerity to save money."
+  },
+  {
+    "word": "Aversion",
+    "pos": "noun",
+    "definition": "A strong dislike towards something and the feeling of wanting to move or turn away from it.",
+    "synonyms": [
+      "dislike",
+      "hatred",
+      "loathing",
+      "distaste"
+    ],
+    "antonyms": [
+      "liking",
+      "love",
+      "fondness",
+      "attraction"
+    ],
+    "sentence": "He has an aversion to soggy cereal."
+  },
+  {
+    "word": "Avoid",
+    "pos": "verb",
+    "definition": "To not go near someone or something and to stay away.",
+    "synonyms": [
+      "shun",
+      "dodge",
+      "escape",
+      "prevent"
+    ],
+    "antonyms": [
+      "face",
+      "meet",
+      "seek",
+      "approach"
+    ],
+    "sentence": "Try to avoid puddles in new shoes."
+  },
+  {
+    "word": "Avuncular",
+    "pos": "adjective",
+    "definition": "Being welcoming and kind to someone who might have less experience than you or is younger.",
+    "synonyms": [
+      "kindly",
+      "friendly",
+      "warm",
+      "fatherly"
+    ],
+    "antonyms": [
+      "cold",
+      "harsh",
+      "stern",
+      "unfriendly"
+    ],
+    "sentence": "The avuncular coach made everyone feel welcome."
+  },
+  {
+    "word": "Barbaric",
+    "pos": "adjective",
+    "definition": "Being cruel and unsophisticated in the way you are acting.",
+    "synonyms": [
+      "cruel",
+      "savage",
+      "brutal",
+      "harsh"
+    ],
+    "antonyms": [
+      "civilised",
+      "gentle",
+      "kind",
+      "humane"
+    ],
+    "sentence": "The barbaric act shocked the village."
+  },
+  {
+    "word": "Banal",
+    "pos": "adjective",
+    "definition": "Nothing out of the ordinary - something very normal and boring.",
+    "synonyms": [
+      "boring",
+      "dull",
+      "common",
+      "ordinary"
+    ],
+    "antonyms": [
+      "original",
+      "exciting",
+      "fresh",
+      "unusual"
+    ],
+    "sentence": "The story felt banal and predictable."
+  },
+  {
+    "word": "Because",
+    "pos": "conjunction",
+    "definition": "Due to or for this reason.",
+    "synonyms": [
+      "since",
+      "as",
+      "for",
+      "seeing that"
+    ],
+    "antonyms": [
+      "although",
+      "though",
+      "but",
+      "however"
+    ],
+    "sentence": "We stayed inside because it was raining."
+  },
+  {
+    "word": "Beck",
+    "pos": "verb",
+    "definition": "A gesture to direct someone or get them to do as you wish.",
+    "synonyms": [
+      "signal",
+      "wave",
+      "summon",
+      "call"
+    ],
+    "antonyms": [
+      "dismiss",
+      "ignore",
+      "send away",
+      "repel"
+    ],
+    "sentence": "She used her hand to beck him closer."
+  },
+  {
+    "word": "Becoming",
+    "pos": "adjective",
+    "definition": "Something that is suitable and has a nice appearance.",
+    "synonyms": [
+      "attractive",
+      "flattering",
+      "graceful",
+      "lovely"
+    ],
+    "antonyms": [
+      "ugly",
+      "unflattering",
+      "awkward",
+      "plain"
+    ],
+    "sentence": "The blue scarf looked becoming on her."
+  },
+  {
+    "word": "Bedfellow",
+    "pos": "noun",
+    "definition": "A person or thing connected or collaborating with someone else on a specific project.",
+    "synonyms": [
+      "partner",
+      "companion",
+      "bunkmate",
+      "roommate"
+    ],
+    "antonyms": [
+      "stranger",
+      "enemy",
+      "opponent",
+      "outsider"
+    ],
+    "sentence": "The campers joked about a snoring bedfellow."
+  },
+  {
+    "word": "Belligerent",
+    "pos": "adjective",
+    "definition": "A hostile attitude that might result in fighting or arguments.",
+    "synonyms": [
+      "hostile",
+      "quarrelsome",
+      "aggressive",
+      "combative"
+    ],
+    "antonyms": [
+      "peaceful",
+      "friendly",
+      "calm",
+      "gentle"
+    ],
+    "sentence": "The belligerent player argued with everyone."
+  },
+  {
+    "word": "Bemoan",
+    "pos": "verb",
+    "definition": "To be unhappy about something and to express that grief.",
+    "synonyms": [
+      "lament",
+      "mourn",
+      "grieve",
+      "complain about"
+    ],
+    "antonyms": [
+      "celebrate",
+      "cheer",
+      "praise",
+      "welcome"
+    ],
+    "sentence": "They bemoan the loss of the old tree."
+  },
+  {
+    "word": "Benefit",
+    "pos": "noun",
+    "definition": "Something that gives an advantage or has a positive impact and can help you out.",
+    "synonyms": [
+      "advantage",
+      "help",
+      "good",
+      "gain"
+    ],
+    "antonyms": [
+      "harm",
+      "damage",
+      "loss",
+      "drawback"
+    ],
+    "sentence": "Fresh air is a benefit of camping."
+  },
+  {
+    "word": "Benign",
+    "pos": "adjective",
+    "definition": "Something that has no negative effect and is not harmful.",
+    "synonyms": [
+      "kind",
+      "gentle",
+      "harmless",
+      "mild"
+    ],
+    "antonyms": [
+      "harmful",
+      "cruel",
+      "dangerous",
+      "harsh"
+    ],
+    "sentence": "The benign old dog wagged slowly."
+  },
+  {
+    "word": "Betray",
+    "pos": "verb",
+    "definition": "Not being loyal and sharing information with an enemy or opposition.",
+    "synonyms": [
+      "deceive",
+      "trick",
+      "expose",
+      "disappoint"
+    ],
+    "antonyms": [
+      "protect",
+      "support",
+      "defend",
+      "help"
+    ],
+    "sentence": "Never betray a friend for attention."
+  },
+  {
+    "word": "Bewildered",
+    "pos": "adjective",
+    "definition": "Deeply confused and unable to decide what the right choice is.",
+    "synonyms": [
+      "confused",
+      "puzzled",
+      "lost",
+      "baffled"
+    ],
+    "antonyms": [
+      "clear",
+      "sure",
+      "certain",
+      "understanding"
+    ],
+    "sentence": "I looked bewildered by the strange map."
+  },
+  {
+    "word": "Biased",
+    "pos": "adjective",
+    "definition": "Having a preference and acting in an unfair way due to this.",
+    "synonyms": [
+      "unfair",
+      "one-sided",
+      "partial",
+      "prejudiced"
+    ],
+    "antonyms": [
+      "fair",
+      "neutral",
+      "balanced",
+      "impartial"
+    ],
+    "sentence": "The report seemed biased and incomplete."
+  },
+  {
+    "word": "Blissful",
+    "pos": "adjective",
+    "definition": "Extremely happy with no sadness or discontent.",
+    "synonyms": [
+      "happy",
+      "joyful",
+      "peaceful",
+      "delighted"
+    ],
+    "antonyms": [
+      "miserable",
+      "sad",
+      "upset",
+      "troubled"
+    ],
+    "sentence": "We had a blissful afternoon at the lake."
+  },
+  {
+    "word": "Blunder",
+    "pos": "noun",
+    "definition": "A mistake that has been made due to a lack of care or consideration.",
+    "synonyms": [
+      "mistake",
+      "error",
+      "slip",
+      "mishap"
+    ],
+    "antonyms": [
+      "success",
+      "triumph",
+      "accuracy",
+      "achievement"
+    ],
+    "sentence": "Spilling the paint was a blunder."
+  },
+  {
+    "word": "Bolster",
+    "pos": "verb",
+    "definition": "To offer support and strengthen someone or something.",
+    "synonyms": [
+      "support",
+      "strengthen",
+      "help",
+      "boost"
+    ],
+    "antonyms": [
+      "weaken",
+      "reduce",
+      "harm",
+      "lower"
+    ],
+    "sentence": "Good notes bolster your memory before tests."
+  },
+  {
+    "word": "Bravado",
+    "pos": "noun",
+    "definition": "A display of courage intended to impress another person.",
+    "synonyms": [
+      "boldness",
+      "swagger",
+      "show-off",
+      "confidence"
+    ],
+    "antonyms": [
+      "shyness",
+      "fear",
+      "timidity",
+      "modesty"
+    ],
+    "sentence": "His bravado disappeared during the race."
+  },
+  {
+    "word": "Brawn",
+    "pos": "noun",
+    "definition": "Well-developed muscles and lots of physical strength.",
+    "synonyms": [
+      "strength",
+      "muscle",
+      "power",
+      "might"
+    ],
+    "antonyms": [
+      "weakness",
+      "frailty",
+      "softness",
+      "feebleness"
+    ],
+    "sentence": "Moving the sofa took plenty of brawn."
+  },
+  {
+    "word": "Brusque",
+    "pos": "adjective",
+    "definition": "A manner of speech that can seem sharp and come across as impolite.",
+    "synonyms": [
+      "blunt",
+      "curt",
+      "short",
+      "rude"
+    ],
+    "antonyms": [
+      "polite",
+      "gentle",
+      "warm",
+      "friendly"
+    ],
+    "sentence": "His brusque reply hurt her feelings."
+  },
+  {
+    "word": "Cache",
+    "pos": "noun",
+    "definition": "A hiding place to keep a collection of items safe.",
+    "synonyms": [
+      "store",
+      "hiding place",
+      "stash",
+      "supply"
+    ],
+    "antonyms": [
+      "shortage",
+      "lack",
+      "emptiness",
+      "need"
+    ],
+    "sentence": "The squirrel found its nut cache."
+  },
+  {
+    "word": "Calamity",
+    "pos": "noun",
+    "definition": "A disastrous problem that causes distress and misfortune.",
+    "synonyms": [
+      "disaster",
+      "tragedy",
+      "mishap",
+      "catastrophe"
+    ],
+    "antonyms": [
+      "blessing",
+      "success",
+      "fortune",
+      "relief"
+    ],
+    "sentence": "The flood was a great calamity."
+  },
+  {
+    "word": "Candid",
+    "pos": "adjective",
+    "definition": "An unplanned and honest expression.",
+    "synonyms": [
+      "honest",
+      "open",
+      "frank",
+      "truthful"
+    ],
+    "antonyms": [
+      "dishonest",
+      "secretive",
+      "false",
+      "guarded"
+    ],
+    "sentence": "Please be candid about your mistake."
+  },
+  {
+    "word": "Candidate",
+    "pos": "noun",
+    "definition": "A person who is nominated for or applies for a position.",
+    "synonyms": [
+      "applicant",
+      "hopeful",
+      "nominee",
+      "contender"
+    ],
+    "antonyms": [
+      "reject",
+      "outsider",
+      "winner",
+      "boss"
+    ],
+    "sentence": "Each candidate gave a short speech."
+  },
+  {
+    "word": "Career",
+    "pos": "noun",
+    "definition": "A job which a person has trained for and progresses through during their life.",
+    "synonyms": [
+      "job",
+      "profession",
+      "work",
+      "occupation"
+    ],
+    "antonyms": [
+      "hobby",
+      "pastime",
+      "break",
+      "unemployment"
+    ],
+    "sentence": "She dreams of a career in science."
+  },
+  {
+    "word": "Charismatic",
+    "pos": "adjective",
+    "definition": "A charming person who compels other people.",
+    "synonyms": [
+      "charming",
+      "appealing",
+      "magnetic",
+      "engaging"
+    ],
+    "antonyms": [
+      "dull",
+      "boring",
+      "awkward",
+      "unappealing"
+    ],
+    "sentence": "The charismatic leader inspired the team."
+  },
+  {
+    "word": "Charming",
+    "pos": "adjective",
+    "definition": "A pleasing and pleasant quality.",
+    "synonyms": [
+      "delightful",
+      "lovely",
+      "sweet",
+      "pleasant"
+    ],
+    "antonyms": [
+      "unpleasant",
+      "rude",
+      "dull",
+      "disagreeable"
+    ],
+    "sentence": "The cottage looked charming in spring."
+  },
+  {
+    "word": "Charred",
+    "pos": "adjective",
+    "definition": "When something has been badly burnt and reduced to charcoal.",
+    "synonyms": [
+      "burnt",
+      "blackened",
+      "scorched",
+      "singed"
+    ],
+    "antonyms": [
+      "fresh",
+      "raw",
+      "clean",
+      "unburnt"
+    ],
+    "sentence": "The charred toast smelled smoky."
+  },
+  {
+    "word": "Coerce",
+    "pos": "verb",
+    "definition": "To convince or persuade someone to do something they do not wish to.",
+    "synonyms": [
+      "force",
+      "pressure",
+      "bully",
+      "push"
+    ],
+    "antonyms": [
+      "persuade",
+      "allow",
+      "encourage",
+      "invite"
+    ],
+    "sentence": "No one should coerce others to cheat."
+  },
+  {
+    "word": "Coherent",
+    "pos": "adjective",
+    "definition": "Something that is clear and logically organised.",
+    "synonyms": [
+      "clear",
+      "logical",
+      "organised",
+      "sensible"
+    ],
+    "antonyms": [
+      "confused",
+      "unclear",
+      "messy",
+      "illogical"
+    ],
+    "sentence": "Her answer was coherent and easy to follow."
+  },
+  {
+    "word": "Colloquial",
+    "pos": "adjective",
+    "definition": "Not a formal style of language but one that is conversational and might be specific to a local area.",
+    "synonyms": [
+      "informal",
+      "casual",
+      "everyday",
+      "conversational"
+    ],
+    "antonyms": [
+      "formal",
+      "proper",
+      "official",
+      "stiff"
+    ],
+    "sentence": "He used colloquial words with friends."
+  },
+  {
+    "word": "Combination",
+    "pos": "noun",
+    "definition": "Joining two or more things together.",
+    "synonyms": [
+      "mix",
+      "blend",
+      "set",
+      "grouping"
+    ],
+    "antonyms": [
+      "separation",
+      "division",
+      "single",
+      "isolation"
+    ],
+    "sentence": "The snack was a combination of fruit and nuts."
+  },
+  {
+    "word": "Comical",
+    "pos": "adjective",
+    "definition": "Something that is funny and provides people with amusement.",
+    "synonyms": [
+      "funny",
+      "silly",
+      "amusing",
+      "laughable"
+    ],
+    "antonyms": [
+      "serious",
+      "sad",
+      "grim",
+      "solemn"
+    ],
+    "sentence": "The comical clown tripped over big shoes."
+  },
+  {
+    "word": "Commemorate",
+    "pos": "verb",
+    "definition": "To remember and show respect for a person or event.",
+    "synonyms": [
+      "honour",
+      "remember",
+      "celebrate",
+      "mark"
+    ],
+    "antonyms": [
+      "forget",
+      "ignore",
+      "neglect",
+      "overlook"
+    ],
+    "sentence": "We commemorate heroes on special days."
+  },
+  {
+    "word": "Compel",
+    "pos": "verb",
+    "definition": "Pressuring or forcing someone to take a certain action.",
+    "synonyms": [
+      "force",
+      "drive",
+      "press",
+      "oblige"
+    ],
+    "antonyms": [
+      "deter",
+      "discourage",
+      "prevent",
+      "stop"
+    ],
+    "sentence": "Strong evidence may compel a confession."
+  },
+  {
+    "word": "Complex",
+    "pos": "adjective",
+    "definition": "Difficult and challenging often with lots of connected parts.",
+    "synonyms": [
+      "complicated",
+      "difficult",
+      "tangled",
+      "tricky"
+    ],
+    "antonyms": [
+      "simple",
+      "easy",
+      "clear",
+      "plain"
+    ],
+    "sentence": "The puzzle looked complex at first."
+  },
+  {
+    "word": "Compliance",
+    "pos": "noun",
+    "definition": "Obeying an order and acting within given guidelines.",
+    "synonyms": [
+      "obedience",
+      "agreement",
+      "cooperation",
+      "following"
+    ],
+    "antonyms": [
+      "defiance",
+      "refusal",
+      "resistance",
+      "disobedience"
+    ],
+    "sentence": "The class showed compliance with the rules."
+  },
+  {
+    "word": "Comrade",
+    "pos": "noun",
+    "definition": "A trusted friend who you have things in common with such as a job or hobbies.",
+    "synonyms": [
+      "friend",
+      "companion",
+      "teammate",
+      "mate"
+    ],
+    "antonyms": [
+      "enemy",
+      "rival",
+      "opponent",
+      "stranger"
+    ],
+    "sentence": "My comrade shared his lunch with me."
+  },
+  {
+    "word": "Conceited",
+    "pos": "adjective",
+    "definition": "Having a high self-opinion and being too proud of your abilities.",
+    "synonyms": [
+      "vain",
+      "proud",
+      "boastful",
+      "arrogant"
+    ],
+    "antonyms": [
+      "humble",
+      "modest",
+      "shy",
+      "unassuming"
+    ],
+    "sentence": "The conceited boy bragged all day."
+  },
+  {
+    "word": "Conclusion",
+    "pos": "noun",
+    "definition": "The end or finale of something.",
+    "synonyms": [
+      "ending",
+      "result",
+      "decision",
+      "finish"
+    ],
+    "antonyms": [
+      "beginning",
+      "start",
+      "opening",
+      "introduction"
+    ],
+    "sentence": "We reached a conclusion after the discussion."
+  },
+  {
+    "word": "Conclusive",
+    "pos": "adjective",
+    "definition": "Proving something is certainly true and ending any doubt around a scenario.",
+    "synonyms": [
+      "final",
+      "decisive",
+      "definite",
+      "certain"
+    ],
+    "antonyms": [
+      "uncertain",
+      "doubtful",
+      "unclear",
+      "unfinished"
+    ],
+    "sentence": "The clue gave conclusive proof at last."
+  },
+  {
+    "word": "Concur",
+    "pos": "verb",
+    "definition": "Agreeing with another person and having the same opinion.",
+    "synonyms": [
+      "agree",
+      "match",
+      "align",
+      "coincide"
+    ],
+    "antonyms": [
+      "disagree",
+      "differ",
+      "oppose",
+      "clash"
+    ],
+    "sentence": "I concur with your sensible idea."
+  },
+  {
+    "word": "Condemn",
+    "pos": "verb",
+    "definition": "Not approving of something and criticising it strongly.",
+    "synonyms": [
+      "criticise",
+      "blame",
+      "denounce",
+      "punish"
+    ],
+    "antonyms": [
+      "praise",
+      "approve",
+      "support",
+      "commend"
+    ],
+    "sentence": "Leaders condemn cruelty wherever they see it."
+  },
+  {
+    "word": "Condone",
+    "pos": "verb",
+    "definition": "To overlook and accept a behaviour or action that might be bad or illegal.",
+    "synonyms": [
+      "allow",
+      "excuse",
+      "none",
+      "none"
+    ],
+    "antonyms": [
+      "forbid",
+      "condemn",
+      "none",
+      "none"
+    ],
+    "sentence": "Good teachers never allow bullying."
+  },
+  {
+    "word": "Conducive",
+    "pos": "adjective",
+    "definition": "Providing the conditions to make an outcome certain or highly likely.",
+    "synonyms": [
+      "helpful",
+      "favourable",
+      "useful",
+      "beneficial"
+    ],
+    "antonyms": [
+      "harmful",
+      "unhelpful",
+      "unfavourable",
+      "damaging"
+    ],
+    "sentence": "Quiet music is conducive to calm reading."
+  },
+  {
+    "word": "Confiscated",
+    "pos": "verb",
+    "definition": "Taking something away from someone when you have the right to do so.",
+    "synonyms": [
+      "seized",
+      "taken",
+      "removed",
+      "collected"
+    ],
+    "antonyms": [
+      "returned",
+      "gave",
+      "handed",
+      "restored"
+    ],
+    "sentence": "The teacher confiscated the noisy toy today."
+  },
+  {
+    "word": "Conjecture",
+    "pos": "noun",
+    "definition": "An idea or opinion that is formed without solid evidence.",
+    "synonyms": [
+      "guess",
+      "idea",
+      "theory",
+      "suspicion"
+    ],
+    "antonyms": [
+      "proof",
+      "fact",
+      "certainty",
+      "truth"
+    ],
+    "sentence": "My answer was only a conjecture."
+  },
+  {
+    "word": "Consent",
+    "pos": "noun",
+    "definition": "Permission from all parties involved to partake in an activity.",
+    "synonyms": [
+      "permission",
+      "agreement",
+      "approval",
+      "acceptance"
+    ],
+    "antonyms": [
+      "refusal",
+      "denial",
+      "objection",
+      "disagreement"
+    ],
+    "sentence": "We asked Mum for consent first."
+  },
+  {
+    "word": "Consequently",
+    "pos": "adverb",
+    "definition": "The outcome of an event as a result of something else.",
+    "synonyms": [
+      "therefore",
+      "so",
+      "thus",
+      "as a result"
+    ],
+    "antonyms": [
+      "however",
+      "anyway",
+      "still",
+      "yet"
+    ],
+    "sentence": "It rained hard; consequently, football was cancelled."
+  },
+  {
+    "word": "Consideration",
+    "pos": "noun",
+    "definition": "Taking time to think about something before making a judgement or decision.",
+    "synonyms": [
+      "thought",
+      "care",
+      "attention",
+      "respect"
+    ],
+    "antonyms": [
+      "neglect",
+      "disregard",
+      "carelessness",
+      "thoughtlessness"
+    ],
+    "sentence": "Your kind consideration made everyone feel included."
+  },
+  {
+    "word": "Conspire",
+    "pos": "verb",
+    "definition": "To plot with others to secretly take an action that is wrong or illegal.",
+    "synonyms": [
+      "plot",
+      "scheme",
+      "plan",
+      "collude"
+    ],
+    "antonyms": [
+      "help",
+      "assist",
+      "protect",
+      "support"
+    ],
+    "sentence": "The villains conspire in the secret cave."
+  },
+  {
+    "word": "Consume",
+    "pos": "verb",
+    "definition": "To use something.",
+    "synonyms": [
+      "eat",
+      "use",
+      "swallow",
+      "finish"
+    ],
+    "antonyms": [
+      "save",
+      "keep",
+      "store",
+      "preserve"
+    ],
+    "sentence": "Plants consume water and sunlight each day."
+  },
+  {
+    "word": "Contagious",
+    "pos": "adjective",
+    "definition": "Something that can spread and move easily between people.",
+    "synonyms": [
+      "catching",
+      "infectious",
+      "spreading",
+      "transferable"
+    ],
+    "antonyms": [
+      "safe",
+      "harmless",
+      "noninfectious",
+      "contained"
+    ],
+    "sentence": "Yawning can be strangely contagious in class."
+  },
+  {
+    "word": "Contemporary",
+    "pos": "adjective",
+    "definition": "Exists in the current period of time.",
+    "synonyms": [
+      "modern",
+      "current",
+      "present-day",
+      "recent"
+    ],
+    "antonyms": [
+      "old",
+      "ancient",
+      "outdated",
+      "old-fashioned"
+    ],
+    "sentence": "The gallery showed contemporary paintings and sculptures."
+  },
+  {
+    "word": "Contrast",
+    "pos": "noun",
+    "definition": "Items that differ greatly in an obvious way.",
+    "synonyms": [
+      "difference",
+      "distinction",
+      "opposite",
+      "unlikeness"
+    ],
+    "antonyms": [
+      "similarity",
+      "likeness",
+      "sameness",
+      "match"
+    ],
+    "sentence": "The contrast between colours looked striking."
+  },
+  {
+    "word": "Contrite",
+    "pos": "adjective",
+    "definition": "Feeling apologetic for behaviour you know was not appropriate.",
+    "synonyms": [
+      "sorry",
+      "remorseful",
+      "regretful",
+      "apologetic"
+    ],
+    "antonyms": [
+      "proud",
+      "unrepentant",
+      "defiant",
+      "shameless"
+    ],
+    "sentence": "He felt contrite after breaking the vase."
+  },
+  {
+    "word": "Conundrum",
+    "pos": "noun",
+    "definition": "A difficult and confusing problem or puzzle.",
+    "synonyms": [
+      "puzzle",
+      "problem",
+      "mystery",
+      "riddle"
+    ],
+    "antonyms": [
+      "answer",
+      "solution",
+      "explanation",
+      "certainty"
+    ],
+    "sentence": "Choosing one prize was quite a conundrum."
+  },
+  {
+    "word": "Convict",
+    "pos": "verb",
+    "definition": "A person who has been found guilty of a crime.",
+    "synonyms": [
+      "condemn",
+      "sentence",
+      "judge",
+      "declare guilty"
+    ],
+    "antonyms": [
+      "acquit",
+      "clear",
+      "pardon",
+      "free"
+    ],
+    "sentence": "A jury may convict after hearing the facts."
+  },
+  {
+    "word": "Cordial",
+    "pos": "adjective",
+    "definition": "Being warm and polite towards another person in a social situation.",
+    "synonyms": [
+      "friendly",
+      "warm",
+      "polite",
+      "pleasant"
+    ],
+    "antonyms": [
+      "cold",
+      "rude",
+      "unfriendly",
+      "harsh"
+    ],
+    "sentence": "Our new neighbours gave us a cordial welcome."
+  },
+  {
+    "word": "Covet",
+    "pos": "verb",
+    "definition": "Longing for something and having a strong desire to have it.",
+    "synonyms": [
+      "desire",
+      "crave",
+      "want",
+      "envy"
+    ],
+    "antonyms": [
+      "dislike",
+      "reject",
+      "ignore",
+      "despise"
+    ],
+    "sentence": "Do not covet someone else's shiny bicycle."
+  },
+  {
+    "word": "Coy",
+    "pos": "adjective",
+    "definition": "Acting in a shy and reserved manner.",
+    "synonyms": [
+      "shy",
+      "bashful",
+      "reserved",
+      "timid"
+    ],
+    "antonyms": [
+      "bold",
+      "direct",
+      "open",
+      "confident"
+    ],
+    "sentence": "The coy kitten hid behind the sofa."
+  },
+  {
+    "word": "Crass",
+    "pos": "adjective",
+    "definition": "Offensive in manner and showing no sensitivity toward a situation or other people.",
+    "synonyms": [
+      "rude",
+      "coarse",
+      "insensitive",
+      "tactless"
+    ],
+    "antonyms": [
+      "polite",
+      "thoughtful",
+      "kind",
+      "refined"
+    ],
+    "sentence": "His crass joke upset the whole table."
+  },
+  {
+    "word": "Credit",
+    "pos": "noun",
+    "definition": "Attribution of someone's efforts towards something.",
+    "synonyms": [
+      "praise",
+      "recognition",
+      "approval",
+      "trust"
+    ],
+    "antonyms": [
+      "blame",
+      "criticism",
+      "doubt",
+      "disgrace"
+    ],
+    "sentence": "Ella earned credit for her hard work."
+  },
+  {
+    "word": "Cunning",
+    "pos": "adjective",
+    "definition": "A deceitful character who plans to get what they want.",
+    "synonyms": [
+      "crafty",
+      "sly",
+      "clever",
+      "sneaky"
+    ],
+    "antonyms": [
+      "honest",
+      "open",
+      "simple",
+      "straightforward"
+    ],
+    "sentence": "The cunning fox stole the farmer's lunch."
+  },
+  {
+    "word": "Curb",
+    "pos": "verb",
+    "definition": "To restrain or stop something from happening.",
+    "synonyms": [
+      "control",
+      "restrain",
+      "limit",
+      "reduce"
+    ],
+    "antonyms": [
+      "encourage",
+      "increase",
+      "allow",
+      "release"
+    ],
+    "sentence": "We must curb littering around the playground."
+  },
+  {
+    "word": "Curious",
+    "pos": "adjective",
+    "definition": "Being interested and eager to learn something new.",
+    "synonyms": [
+      "inquisitive",
+      "interested",
+      "eager",
+      "questioning"
+    ],
+    "antonyms": [
+      "uninterested",
+      "bored",
+      "indifferent",
+      "incurious"
+    ],
+    "sentence": "The curious child opened the science book."
+  },
+  {
+    "word": "Curt",
+    "pos": "adjective",
+    "definition": "Speaking briefly and coming across in a rude manner.",
+    "synonyms": [
+      "brief",
+      "short",
+      "blunt",
+      "abrupt"
+    ],
+    "antonyms": [
+      "polite",
+      "gentle",
+      "warm",
+      "friendly"
+    ],
+    "sentence": "His curt reply ended the conversation quickly."
+  },
+  {
+    "word": "Dazzling",
+    "pos": "adjective",
+    "definition": "Something extremely bright and very beautiful. Something so bright that it can temporarily blind a person.",
+    "synonyms": [
+      "bright",
+      "brilliant",
+      "sparkling",
+      "shining"
+    ],
+    "antonyms": [
+      "dull",
+      "dim",
+      "plain",
+      "dark"
+    ],
+    "sentence": "The dazzling fireworks lit up the sky."
+  },
+  {
+    "word": "Debate",
+    "pos": "verb",
+    "definition": "Discuss opposing arguments on a specific topic in a formal way.",
+    "synonyms": [
+      "discuss",
+      "argue",
+      "consider",
+      "question"
+    ],
+    "antonyms": [
+      "agree",
+      "settle",
+      "accept",
+      "decide"
+    ],
+    "sentence": "We debate ideas during our history lesson."
+  },
+  {
+    "word": "Decline",
+    "pos": "verb",
+    "definition": "To gradually go on a downwards trend.",
+    "synonyms": [
+      "refuse",
+      "decrease",
+      "lessen",
+      "reject"
+    ],
+    "antonyms": [
+      "accept",
+      "increase",
+      "rise",
+      "grow"
+    ],
+    "sentence": "I must decline another slice of cake."
+  },
+  {
+    "word": "Definite",
+    "pos": "adjective",
+    "definition": "Clearly defined without any ambiguity.",
+    "synonyms": [
+      "certain",
+      "sure",
+      "clear",
+      "fixed"
+    ],
+    "antonyms": [
+      "uncertain",
+      "doubtful",
+      "unclear",
+      "vague"
+    ],
+    "sentence": "There is a definite answer to this."
+  },
+  {
+    "word": "Defy",
+    "pos": "verb",
+    "definition": "To go against an order and do something you have been told not to or that was unexpected.",
+    "synonyms": [
+      "resist",
+      "challenge",
+      "oppose",
+      "disobey"
+    ],
+    "antonyms": [
+      "obey",
+      "accept",
+      "follow",
+      "submit"
+    ],
+    "sentence": "The hero will defy the unfair ruler."
+  },
+  {
+    "word": "Deject",
+    "pos": "verb",
+    "definition": "Feeling disheartened and not having much hope.",
+    "synonyms": [
+      "sadden",
+      "discourage",
+      "upset",
+      "dishearten"
+    ],
+    "antonyms": [
+      "cheer",
+      "encourage",
+      "delight",
+      "inspire"
+    ],
+    "sentence": "Bad news can deject even brave players."
+  },
+  {
+    "word": "Deluge",
+    "pos": "noun",
+    "definition": "A very large amount of something - often water - causing a flood.",
+    "synonyms": [
+      "flood",
+      "downpour",
+      "torrent",
+      "overflow"
+    ],
+    "antonyms": [
+      "drought",
+      "dryness",
+      "trickle",
+      "shortage"
+    ],
+    "sentence": "A deluge soaked the streets after lunch."
+  },
+  {
+    "word": "Demolish",
+    "pos": "verb",
+    "definition": "To break something down or completely destroy it.",
+    "synonyms": [
+      "destroy",
+      "wreck",
+      "ruin",
+      "knock down"
+    ],
+    "antonyms": [
+      "build",
+      "create",
+      "repair",
+      "restore"
+    ],
+    "sentence": "Workers will demolish the old shed safely."
+  },
+  {
+    "word": "Demolished",
+    "pos": "verb",
+    "definition": "To have knocked something down or completely destroyed it.",
+    "synonyms": [
+      "destroyed",
+      "wrecked",
+      "ruined",
+      "flattened"
+    ],
+    "antonyms": [
+      "built",
+      "created",
+      "repaired",
+      "restored"
+    ],
+    "sentence": "The storm demolished the small wooden fence."
+  },
+  {
+    "word": "Demure",
+    "pos": "adjective",
+    "definition": "To act in a reserved and shy manner.",
+    "synonyms": [
+      "modest",
+      "shy",
+      "quiet",
+      "reserved"
+    ],
+    "antonyms": [
+      "bold",
+      "loud",
+      "confident",
+      "flashy"
+    ],
+    "sentence": "She gave a demure smile to guests."
+  },
+  {
+    "word": "Depict",
+    "pos": "verb",
+    "definition": "To represent or show something by a visual image.",
+    "synonyms": [
+      "show",
+      "describe",
+      "portray",
+      "illustrate"
+    ],
+    "antonyms": [
+      "hide",
+      "conceal",
+      "confuse",
+      "distort"
+    ],
+    "sentence": "The mural will depict our town's history."
+  },
+  {
+    "word": "Desist",
+    "pos": "verb",
+    "definition": "To stop or suspend an activity.",
+    "synonyms": [
+      "stop",
+      "quit",
+      "cease",
+      "pause"
+    ],
+    "antonyms": [
+      "continue",
+      "begin",
+      "persist",
+      "resume"
+    ],
+    "sentence": "Please desist from tapping your pencil now."
+  },
+  {
+    "word": "Destitute",
+    "pos": "adjective",
+    "definition": "Extremely poor and lacking things such as food and shelter.",
+    "synonyms": [
+      "poor",
+      "needy",
+      "penniless",
+      "impoverished"
+    ],
+    "antonyms": [
+      "rich",
+      "wealthy",
+      "comfortable",
+      "well-off"
+    ],
+    "sentence": "The story told of a destitute traveller."
+  },
+  {
+    "word": "Develop",
+    "pos": "verb",
+    "definition": "To change gradually and build or grow.",
+    "synonyms": [
+      "grow",
+      "improve",
+      "build",
+      "create"
+    ],
+    "antonyms": [
+      "stop",
+      "weaken",
+      "ruin",
+      "reduce"
+    ],
+    "sentence": "Practice helps you develop strong reading skills."
+  },
+  {
+    "word": "Devise",
+    "pos": "verb",
+    "definition": "To come up with something such as a plan.",
+    "synonyms": [
+      "invent",
+      "plan",
+      "create",
+      "design"
+    ],
+    "antonyms": [
+      "destroy",
+      "ruin",
+      "copy",
+      "spoil"
+    ],
+    "sentence": "We will devise a clever team plan."
+  },
+  {
+    "word": "Devour",
+    "pos": "verb",
+    "definition": "To destroy completely to the point where nothing is left at all.",
+    "synonyms": [
+      "eat",
+      "gobble",
+      "swallow",
+      "munch"
+    ],
+    "antonyms": [
+      "nibble",
+      "save",
+      "leave",
+      "reject"
+    ],
+    "sentence": "The puppy tried to devour the sandwich."
+  },
+  {
+    "word": "Diction",
+    "pos": "noun",
+    "definition": "The choice of words when speaking and the manner in which they are pronounced.",
+    "synonyms": [
+      "speech",
+      "wording",
+      "pronunciation",
+      "expression"
+    ],
+    "antonyms": [
+      "silence",
+      "muteness",
+      "quiet",
+      "inarticulacy"
+    ],
+    "sentence": "Clear diction helps everyone understand your speech."
+  },
+  {
+    "word": "Digest",
+    "pos": "verb",
+    "definition": "To break something down.",
+    "synonyms": [
+      "understand",
+      "absorb",
+      "process",
+      "grasp"
+    ],
+    "antonyms": [
+      "misunderstand",
+      "ignore",
+      "forget",
+      "miss"
+    ],
+    "sentence": "Take time to digest the new facts."
+  },
+  {
+    "word": "Digress",
+    "pos": "verb",
+    "definition": "Stray from the main topic of conversation or writing and discuss something else.",
+    "synonyms": [
+      "wander",
+      "stray",
+      "drift",
+      "ramble"
+    ],
+    "antonyms": [
+      "focus",
+      "stay",
+      "continue",
+      "concentrate"
+    ],
+    "sentence": "Do not digress during your short talk."
+  },
+  {
+    "word": "Digression",
+    "pos": "noun",
+    "definition": "Temporarily stray from the main topic of conversation or writing.",
+    "synonyms": [
+      "detour",
+      "aside",
+      "tangent",
+      "diversion"
+    ],
+    "antonyms": [
+      "focus",
+      "point",
+      "topic",
+      "main idea"
+    ],
+    "sentence": "His funny digression delayed the story."
+  },
+  {
+    "word": "Diligent",
+    "pos": "adjective",
+    "definition": "Showing care in your work and working consistently with effort to achieve something.",
+    "synonyms": [
+      "hard-working",
+      "careful",
+      "steady",
+      "thorough"
+    ],
+    "antonyms": [
+      "lazy",
+      "careless",
+      "idle",
+      "sloppy"
+    ],
+    "sentence": "The diligent pupil finished every task neatly."
+  },
+  {
+    "word": "Diluted",
+    "pos": "adjective",
+    "definition": "Has been weakened or thinned by something else.",
+    "synonyms": [
+      "watered-down",
+      "weak",
+      "thinned",
+      "reduced"
+    ],
+    "antonyms": [
+      "strong",
+      "pure",
+      "concentrated",
+      "rich"
+    ],
+    "sentence": "The diluted juice tasted very light."
+  },
+  {
+    "word": "Dim",
+    "pos": "adjective",
+    "definition": "Not bright and the levels of brightness might be insufficient.",
+    "synonyms": [
+      "faint",
+      "dull",
+      "dark",
+      "weak"
+    ],
+    "antonyms": [
+      "bright",
+      "clear",
+      "shining",
+      "vivid"
+    ],
+    "sentence": "The dim torch barely lit the path."
+  },
+  {
+    "word": "Diminish",
+    "pos": "verb",
+    "definition": "To reduce and to become less.",
+    "synonyms": [
+      "reduce",
+      "lessen",
+      "shrink",
+      "decrease"
+    ],
+    "antonyms": [
+      "increase",
+      "grow",
+      "expand",
+      "enlarge"
+    ],
+    "sentence": "Shadows diminish as the sun rises."
+  },
+  {
+    "word": "Discredit",
+    "pos": "verb",
+    "definition": "Damage the reputation and refuse to believe it as being true.",
+    "synonyms": [
+      "doubt",
+      "question",
+      "weaken",
+      "shame"
+    ],
+    "antonyms": [
+      "support",
+      "prove",
+      "praise",
+      "confirm"
+    ],
+    "sentence": "False rumours can discredit a good person."
+  },
+  {
+    "word": "Dishevelled",
+    "pos": "adjective",
+    "definition": "Untidy and very messy appearance.",
+    "synonyms": [
+      "messy",
+      "untidy",
+      "rumpled",
+      "scruffy"
+    ],
+    "antonyms": [
+      "neat",
+      "tidy",
+      "smart",
+      "orderly"
+    ],
+    "sentence": "After football, his hair looked dishevelled."
+  },
+  {
+    "word": "Disinterested",
+    "pos": "adjective",
+    "definition": "Not having interest in something as it doesn't feel like you will benefit from it.",
+    "synonyms": [
+      "impartial",
+      "unbiased",
+      "fair",
+      "neutral"
+    ],
+    "antonyms": [
+      "biased",
+      "partial",
+      "interested",
+      "prejudiced"
+    ],
+    "sentence": "A disinterested judge listens to both sides."
+  },
+  {
+    "word": "Dismal",
+    "pos": "adjective",
+    "definition": "Gloomy and sad with little hope.",
+    "synonyms": [
+      "gloomy",
+      "bleak",
+      "miserable",
+      "dreary"
+    ],
+    "antonyms": [
+      "cheerful",
+      "bright",
+      "joyful",
+      "sunny"
+    ],
+    "sentence": "The dismal weather kept us indoors."
+  },
+  {
+    "word": "Disperse",
+    "pos": "verb",
+    "definition": "Spread out in different directions and scatter widely.",
+    "synonyms": [
+      "scatter",
+      "spread",
+      "separate",
+      "divide"
+    ],
+    "antonyms": [
+      "gather",
+      "collect",
+      "group",
+      "unite"
+    ],
+    "sentence": "The crowd began to disperse after lunch."
+  },
+  {
+    "word": "Divine",
+    "pos": "adjective",
+    "definition": "Connected with a god.",
+    "synonyms": [
+      "holy",
+      "heavenly",
+      "sacred",
+      "godly"
+    ],
+    "antonyms": [
+      "earthly",
+      "unholy",
+      "ordinary",
+      "worldly"
+    ],
+    "sentence": "The painting showed a divine light above."
+  },
+  {
+    "word": "Docile",
+    "pos": "adjective",
+    "definition": "Can be easily persuaded or controlled.",
+    "synonyms": [
+      "gentle",
+      "obedient",
+      "calm",
+      "meek"
+    ],
+    "antonyms": [
+      "wild",
+      "stubborn",
+      "fierce",
+      "unruly"
+    ],
+    "sentence": "The docile lamb followed the farmer quietly."
+  },
+  {
+    "word": "Dogmatic",
+    "pos": "adjective",
+    "definition": "Asserting your own opinions as facts.",
+    "synonyms": [
+      "bossy",
+      "stubborn",
+      "opinionated",
+      "rigid"
+    ],
+    "antonyms": [
+      "open-minded",
+      "flexible",
+      "fair",
+      "thoughtful"
+    ],
+    "sentence": "His dogmatic tone stopped the discussion early."
+  },
+  {
+    "word": "Domestic",
+    "pos": "adjective",
+    "definition": "Relating to home - whether this is a property, family or country.",
+    "synonyms": [
+      "home",
+      "household",
+      "family",
+      "local"
+    ],
+    "antonyms": [
+      "foreign",
+      "wild",
+      "international",
+      "overseas"
+    ],
+    "sentence": "The cat is a domestic animal."
+  },
+  {
+    "word": "Dormant",
+    "pos": "adjective",
+    "definition": "Slowed down and temporarily inactive.",
+    "synonyms": [
+      "sleeping",
+      "inactive",
+      "resting",
+      "quiet"
+    ],
+    "antonyms": [
+      "active",
+      "awake",
+      "lively",
+      "busy"
+    ],
+    "sentence": "The volcano stayed dormant for many years."
+  },
+  {
+    "word": "Dose",
+    "pos": "noun",
+    "definition": "A quantity or portion of something to be given.",
+    "synonyms": [
+      "amount",
+      "portion",
+      "measure",
+      "serving"
+    ],
+    "antonyms": [
+      "none",
+      "lack",
+      "shortage",
+      "absence"
+    ],
+    "sentence": "The doctor gave one small dose."
+  },
+  {
+    "word": "Doubtful",
+    "pos": "adjective",
+    "definition": "Lacking certainty and not certain to be true.",
+    "synonyms": [
+      "uncertain",
+      "unsure",
+      "hesitant",
+      "unconvinced"
+    ],
+    "antonyms": [
+      "certain",
+      "sure",
+      "confident",
+      "convinced"
+    ],
+    "sentence": "I am doubtful about the cloudy forecast."
+  },
+  {
+    "word": "Dour",
+    "pos": "adjective",
+    "definition": "Very serious and sullen.",
+    "synonyms": [
+      "stern",
+      "gloomy",
+      "grim",
+      "sour"
+    ],
+    "antonyms": [
+      "cheerful",
+      "friendly",
+      "bright",
+      "pleasant"
+    ],
+    "sentence": "The dour guard rarely smiled at visitors."
+  },
+  {
+    "word": "Draconian",
+    "pos": "adjective",
+    "definition": "Very harsh and severe.",
+    "synonyms": [
+      "harsh",
+      "severe",
+      "strict",
+      "cruel"
+    ],
+    "antonyms": [
+      "gentle",
+      "fair",
+      "mild",
+      "lenient"
+    ],
+    "sentence": "The draconian rules upset many students."
+  },
+  {
+    "word": "Dutiful",
+    "pos": "adjective",
+    "definition": "Obediently doing as you should and motivated to do so by a sense of duty.",
+    "synonyms": [
+      "obedient",
+      "loyal",
+      "responsible",
+      "respectful"
+    ],
+    "antonyms": [
+      "disobedient",
+      "careless",
+      "lazy",
+      "rebellious"
+    ],
+    "sentence": "The dutiful helper cleaned up after art."
+  },
+  {
+    "word": "Egoistical",
+    "pos": "adjective",
+    "definition": "Prioritising your own desires and having an emphasised sense of self-importance.",
+    "synonyms": [
+      "selfish",
+      "vain",
+      "proud",
+      "self-centred"
+    ],
+    "antonyms": [
+      "humble",
+      "kind",
+      "modest",
+      "thoughtful"
+    ],
+    "sentence": "His egoistical bragging annoyed the whole team."
+  },
+  {
+    "word": "Elementary",
+    "pos": "adjective",
+    "definition": "The basic and introductory elements of a topic.",
+    "synonyms": [
+      "basic",
+      "simple",
+      "easy",
+      "introductory"
+    ],
+    "antonyms": [
+      "advanced",
+      "difficult",
+      "complex",
+      "expert"
+    ],
+    "sentence": "This puzzle seems elementary to solve."
+  },
+  {
+    "word": "Eloquence",
+    "pos": "noun",
+    "definition": "Speaking clearly with fluency and aptness.",
+    "synonyms": [
+      "fluency",
+      "expressiveness",
+      "grace",
+      "smoothness"
+    ],
+    "antonyms": [
+      "awkwardness",
+      "mumbling",
+      "hesitation",
+      "clumsiness"
+    ],
+    "sentence": "Her eloquence impressed the whole audience."
+  },
+  {
+    "word": "Elucidate",
+    "pos": "verb",
+    "definition": "Explaining something to make it easier to understand.",
+    "synonyms": [
+      "explain",
+      "clarify",
+      "make clear",
+      "spell out"
+    ],
+    "antonyms": [
+      "confuse",
+      "hide",
+      "muddle",
+      "obscure"
+    ],
+    "sentence": "The teacher will elucidate the tricky maths."
+  },
+  {
+    "word": "Embargo",
+    "pos": "noun",
+    "definition": "A ban or order to prevent something from happening.",
+    "synonyms": [
+      "ban",
+      "block",
+      "restriction",
+      "prohibition"
+    ],
+    "antonyms": [
+      "approval",
+      "allowance",
+      "permission",
+      "freedom"
+    ],
+    "sentence": "The country placed an embargo on trade."
+  },
+  {
+    "word": "Embrace",
+    "pos": "verb",
+    "definition": "Hold someone or something in your arms tightly.",
+    "synonyms": [
+      "hug",
+      "accept",
+      "welcome",
+      "adopt"
+    ],
+    "antonyms": [
+      "reject",
+      "avoid",
+      "refuse",
+      "resist"
+    ],
+    "sentence": "We should embrace new ideas in class."
+  },
+  {
+    "word": "Empire",
+    "pos": "noun",
+    "definition": "A large group or organisation being run by one person.",
+    "synonyms": [
+      "kingdom",
+      "realm",
+      "dominion",
+      "power"
+    ],
+    "antonyms": [
+      "republic",
+      "democracy",
+      "small state",
+      "independence"
+    ],
+    "sentence": "The ancient empire stretched across many lands."
+  },
+  {
+    "word": "Emulate",
+    "pos": "verb",
+    "definition": "Copy the behaviour of another in an attempt to equal them or excel.",
+    "synonyms": [
+      "copy",
+      "imitate",
+      "match",
+      "follow"
+    ],
+    "antonyms": [
+      "ignore",
+      "differ",
+      "avoid",
+      "reject"
+    ],
+    "sentence": "Young players often emulate their sporting heroes."
+  },
+  {
+    "word": "Endorse",
+    "pos": "verb",
+    "definition": "Publicly approve or give support for something.",
+    "synonyms": [
+      "support",
+      "approve",
+      "back",
+      "recommend"
+    ],
+    "antonyms": [
+      "oppose",
+      "reject",
+      "criticise",
+      "condemn"
+    ],
+    "sentence": "Many teachers endorse reading every evening."
+  },
+  {
+    "word": "Endure",
+    "pos": "verb",
+    "definition": "Keep going without stopping even when something is difficult or unpleasant.",
+    "synonyms": [
+      "bear",
+      "tolerate",
+      "survive",
+      "withstand"
+    ],
+    "antonyms": [
+      "quit",
+      "avoid",
+      "escape",
+      "surrender"
+    ],
+    "sentence": "We can endure the hike together."
+  },
+  {
+    "word": "Enterprise",
+    "pos": "noun",
+    "definition": "A project or business being undertaken.",
+    "synonyms": [
+      "project",
+      "venture",
+      "business",
+      "effort"
+    ],
+    "antonyms": [
+      "idleness",
+      "inactivity",
+      "laziness",
+      "hesitation"
+    ],
+    "sentence": "Their lemonade stand became a fun enterprise."
+  },
+  {
+    "word": "Enthuse",
+    "pos": "verb",
+    "definition": "Have great interest in and be excited about something.",
+    "synonyms": [
+      "excite",
+      "inspire",
+      "encourage",
+      "energise"
+    ],
+    "antonyms": [
+      "bore",
+      "discourage",
+      "tire",
+      "dull"
+    ],
+    "sentence": "The coach tried to enthuse the team."
+  },
+  {
+    "word": "Entire",
+    "pos": "adjective",
+    "definition": "The whole amount of something with nothing left out.",
+    "synonyms": [
+      "whole",
+      "complete",
+      "full",
+      "total"
+    ],
+    "antonyms": [
+      "partial",
+      "incomplete",
+      "broken",
+      "half"
+    ],
+    "sentence": "She read the entire book in bed."
+  },
+  {
+    "word": "Epiphany",
+    "pos": "noun",
+    "definition": "A sudden realisation or moment of understanding.",
+    "synonyms": [
+      "realisation",
+      "discovery",
+      "insight",
+      "revelation"
+    ],
+    "antonyms": [
+      "confusion",
+      "misunderstanding",
+      "doubt",
+      "mystery"
+    ],
+    "sentence": "I had an epiphany during science class."
+  },
+  {
+    "word": "Equivocate",
+    "pos": "verb",
+    "definition": "Not speaking clearly and deliberately using vague language.",
+    "synonyms": [
+      "hedge",
+      "dodge",
+      "waffle",
+      "be vague"
+    ],
+    "antonyms": [
+      "state",
+      "clarify",
+      "declare",
+      "answer"
+    ],
+    "sentence": "Do not equivocate when asked a question."
+  },
+  {
+    "word": "Era",
+    "pos": "noun",
+    "definition": "A period of time that is marked by distinctive character or a prominent figure.",
+    "synonyms": [
+      "age",
+      "period",
+      "time",
+      "epoch"
+    ],
+    "antonyms": [
+      "moment",
+      "instant",
+      "second",
+      "minute"
+    ],
+    "sentence": "Dinosaurs lived in a different era."
+  },
+  {
+    "word": "Erect",
+    "pos": "verb",
+    "definition": "Assemble something into a vertical position.",
+    "synonyms": [
+      "build",
+      "raise",
+      "put up",
+      "assemble"
+    ],
+    "antonyms": [
+      "demolish",
+      "tear down",
+      "destroy",
+      "flatten"
+    ],
+    "sentence": "Workers will erect a new playground fence."
+  },
+  {
+    "word": "Erratic",
+    "pos": "adjective",
+    "definition": "A lack of regularity and can be unpredictable.",
+    "synonyms": [
+      "unpredictable",
+      "uneven",
+      "changeable",
+      "irregular"
+    ],
+    "antonyms": [
+      "steady",
+      "regular",
+      "consistent",
+      "stable"
+    ],
+    "sentence": "The erratic wind moved the kite wildly."
+  },
+  {
+    "word": "Especially",
+    "pos": "adverb",
+    "definition": "Used to single something out and make it stand out.",
+    "synonyms": [
+      "particularly",
+      "mainly",
+      "chiefly",
+      "notably"
+    ],
+    "antonyms": [
+      "generally",
+      "broadly",
+      "slightly",
+      "hardly"
+    ],
+    "sentence": "I love fruit, especially sweet strawberries."
+  },
+  {
+    "word": "Etiquette",
+    "pos": "noun",
+    "definition": "Controlling yourself in a polite way and following the social rules.",
+    "synonyms": [
+      "manners",
+      "politeness",
+      "courtesy",
+      "behaviour"
+    ],
+    "antonyms": [
+      "rudeness",
+      "impoliteness",
+      "bad manners",
+      "disrespect"
+    ],
+    "sentence": "Good etiquette matters at the dinner table."
+  },
+  {
+    "word": "Exaggerate",
+    "pos": "verb",
+    "definition": "Overstate something and make it sound better or worse than it really is.",
+    "synonyms": [
+      "overstate",
+      "overdo",
+      "enlarge",
+      "dramatise"
+    ],
+    "antonyms": [
+      "reduce",
+      "understate",
+      "downplay",
+      "minimise"
+    ],
+    "sentence": "Do not exaggerate the size of fish."
+  },
+  {
+    "word": "Exclaim",
+    "pos": "verb",
+    "definition": "Sudden emotion of surprise or horror.",
+    "synonyms": [
+      "shout",
+      "cry",
+      "yell",
+      "call"
+    ],
+    "antonyms": [
+      "whisper",
+      "mutter",
+      "murmur",
+      "hush"
+    ],
+    "sentence": "The crowd began to shout with joy."
+  },
+  {
+    "word": "Facilitate",
+    "pos": "verb",
+    "definition": "Make it easier for someone to complete an action.",
+    "synonyms": [
+      "help",
+      "assist",
+      "ease",
+      "support"
+    ],
+    "antonyms": [
+      "block",
+      "hinder",
+      "stop",
+      "delay"
+    ],
+    "sentence": "Good signs help ease our journey."
+  },
+  {
+    "word": "Fact",
+    "pos": "noun",
+    "definition": "Something that can be proven to be true and is known to exist or to have happened.",
+    "synonyms": [
+      "truth",
+      "reality",
+      "certainty",
+      "detail"
+    ],
+    "antonyms": [
+      "lie",
+      "fiction",
+      "falsehood",
+      "myth"
+    ],
+    "sentence": "It is a fact that plants need water."
+  },
+  {
+    "word": "Famine",
+    "pos": "noun",
+    "definition": "Extreme lack of food - not enough for the people in the area.",
+    "synonyms": [
+      "starvation",
+      "hunger",
+      "shortage",
+      "scarcity"
+    ],
+    "antonyms": [
+      "plenty",
+      "abundance",
+      "feast",
+      "surplus"
+    ],
+    "sentence": "The drought caused hunger across the land."
+  },
+  {
+    "word": "Fatal",
+    "pos": "adjective",
+    "definition": "Something that is extremely dangerous and can cause great harm.",
+    "synonyms": [
+      "dangerous",
+      "serious",
+      "unsafe",
+      "risky"
+    ],
+    "antonyms": [
+      "safe",
+      "harmless",
+      "gentle",
+      "healthy"
+    ],
+    "sentence": "Wearing a helmet helps keep us safe."
+  },
+  {
+    "word": "Faux",
+    "pos": "adjective",
+    "definition": "A fake item that is made to look like something more valuable.",
+    "synonyms": [
+      "fake",
+      "false",
+      "imitation",
+      "pretend"
+    ],
+    "antonyms": [
+      "real",
+      "genuine",
+      "authentic",
+      "true"
+    ],
+    "sentence": "She wore a fake fur hat."
+  },
+  {
+    "word": "Feeble",
+    "pos": "adjective",
+    "definition": "Physically weak and lacking in strength.",
+    "synonyms": [
+      "weak",
+      "frail",
+      "faint",
+      "shaky"
+    ],
+    "antonyms": [
+      "strong",
+      "sturdy",
+      "powerful",
+      "energetic"
+    ],
+    "sentence": "The feeble puppy needed extra care."
+  },
+  {
+    "word": "Feign",
+    "pos": "verb",
+    "definition": "Pretend or fake an illness or appearance to deceive someone.",
+    "synonyms": [
+      "pretend",
+      "fake",
+      "fake",
+      "simulate"
+    ],
+    "antonyms": [
+      "reveal",
+      "show",
+      "admit",
+      "confess"
+    ],
+    "sentence": "He tried to pretend he was asleep."
+  },
+  {
+    "word": "Fiasco",
+    "pos": "noun",
+    "definition": "Something humiliating that fails completely.",
+    "synonyms": [
+      "disaster",
+      "mess",
+      "failure",
+      "blunder"
+    ],
+    "antonyms": [
+      "success",
+      "triumph",
+      "achievement",
+      "win"
+    ],
+    "sentence": "The play rehearsal turned into a mess."
+  },
+  {
+    "word": "Figment",
+    "pos": "noun",
+    "definition": "An imaginative idea that seems real but is not.",
+    "synonyms": [
+      "fantasy",
+      "invention",
+      "notion",
+      "illusion"
+    ],
+    "antonyms": [
+      "reality",
+      "truth",
+      "fact",
+      "certainty"
+    ],
+    "sentence": "The monster was just a fantasy."
+  },
+  {
+    "word": "Figurative",
+    "pos": "adjective",
+    "definition": "A metaphorical idea that is not based on a literal meaning.",
+    "synonyms": [
+      "symbolic",
+      "imaginative",
+      "expressive",
+      "poetic"
+    ],
+    "antonyms": [
+      "literal",
+      "exact",
+      "plain",
+      "direct"
+    ],
+    "sentence": "The poem used symbolic language about hope."
+  },
+  {
+    "word": "Flamboyant",
+    "pos": "adjective",
+    "definition": "Attracts attention due to being striking and confident.",
+    "synonyms": [
+      "showy",
+      "bright",
+      "flashy",
+      "colourful"
+    ],
+    "antonyms": [
+      "plain",
+      "dull",
+      "simple",
+      "modest"
+    ],
+    "sentence": "His colourful jacket stood out everywhere."
+  },
+  {
+    "word": "Flattering",
+    "pos": "adjective",
+    "definition": "Giving lots of praise as you want to get something from someone.",
+    "synonyms": [
+      "praising",
+      "kind",
+      "complimentary",
+      "admiring"
+    ],
+    "antonyms": [
+      "insulting",
+      "critical",
+      "rude",
+      "unkind"
+    ],
+    "sentence": "Her kind words made him smile."
+  },
+  {
+    "word": "Flawed",
+    "pos": "adjective",
+    "definition": "An imperfection in something, such as blemish or a fault.",
+    "synonyms": [
+      "imperfect",
+      "faulty",
+      "damaged",
+      "broken"
+    ],
+    "antonyms": [
+      "perfect",
+      "flawless",
+      "sound",
+      "ideal"
+    ],
+    "sentence": "The flawed plan needed more thought."
+  },
+  {
+    "word": "Flawless",
+    "pos": "adjective",
+    "definition": "Something that is perfect and has no faults or problems.",
+    "synonyms": [
+      "perfect",
+      "spotless",
+      "ideal",
+      "faultless"
+    ],
+    "antonyms": [
+      "flawed",
+      "imperfect",
+      "faulty",
+      "damaged"
+    ],
+    "sentence": "Her spelling test was perfect today."
+  },
+  {
+    "word": "Flee",
+    "pos": "verb",
+    "definition": "To run away or to escape.",
+    "synonyms": [
+      "run",
+      "escape",
+      "bolt",
+      "rush"
+    ],
+    "antonyms": [
+      "stay",
+      "remain",
+      "face",
+      "approach"
+    ],
+    "sentence": "The rabbit ran from the loud noise."
+  },
+  {
+    "word": "Fleet",
+    "pos": "adjective",
+    "definition": "A group of vehicles owned by an organisation.",
+    "synonyms": [
+      "fast",
+      "swift",
+      "speedy",
+      "quick"
+    ],
+    "antonyms": [
+      "slow",
+      "sluggish",
+      "delayed",
+      "plodding"
+    ],
+    "sentence": "The fleet horse won the race."
+  },
+  {
+    "word": "Flimsy",
+    "pos": "adjective",
+    "definition": "Not made with substance and can be easily broken.",
+    "synonyms": [
+      "weak",
+      "thin",
+      "fragile",
+      "shaky"
+    ],
+    "antonyms": [
+      "strong",
+      "sturdy",
+      "solid",
+      "tough"
+    ],
+    "sentence": "The flimsy box tore apart quickly."
+  },
+  {
+    "word": "Flippant",
+    "pos": "adjective",
+    "definition": "A disrespectful attitude that doesn't take things seriously.",
+    "synonyms": [
+      "careless",
+      "cheeky",
+      "silly",
+      "rude"
+    ],
+    "antonyms": [
+      "serious",
+      "respectful",
+      "thoughtful",
+      "polite"
+    ],
+    "sentence": "His cheeky reply upset the teacher."
+  },
+  {
+    "word": "Flora",
+    "pos": "noun",
+    "definition": "Plants that can be found in a particular place.",
+    "synonyms": [
+      "plants",
+      "greenery",
+      "vegetation",
+      "plantlife"
+    ],
+    "antonyms": [
+      "fauna",
+      "animals",
+      "wildlife",
+      "creatures"
+    ],
+    "sentence": "The island's plants were bright and varied."
+  },
+  {
+    "word": "Flourish",
+    "pos": "verb",
+    "definition": "To grow healthily and thrive.",
+    "synonyms": [
+      "grow",
+      "thrive",
+      "prosper",
+      "bloom"
+    ],
+    "antonyms": [
+      "fade",
+      "fail",
+      "weaken",
+      "decline"
+    ],
+    "sentence": "Sunflowers thrive in warm sunshine."
+  },
+  {
+    "word": "Foe",
+    "pos": "noun",
+    "definition": "A competitor or opponent.",
+    "synonyms": [
+      "enemy",
+      "rival",
+      "opponent",
+      "attacker"
+    ],
+    "antonyms": [
+      "friend",
+      "ally",
+      "helper",
+      "supporter"
+    ],
+    "sentence": "The hero faced his enemy bravely."
+  },
+  {
+    "word": "Forebear",
+    "pos": "noun",
+    "definition": "An ancestor who lived in the past.",
+    "synonyms": [
+      "ancestor",
+      "relative",
+      "forefather",
+      "predecessor"
+    ],
+    "antonyms": [
+      "descendant",
+      "child",
+      "follower",
+      "heir"
+    ],
+    "sentence": "My ancestor lived in this village."
+  },
+  {
+    "word": "Forlorn",
+    "pos": "adjective",
+    "definition": "Lonely and feeling separation from loved ones.",
+    "synonyms": [
+      "sad",
+      "lonely",
+      "hopeless",
+      "miserable"
+    ],
+    "antonyms": [
+      "happy",
+      "cheerful",
+      "hopeful",
+      "glad"
+    ],
+    "sentence": "The lost dog looked sad and lonely."
+  },
+  {
+    "word": "Foundation",
+    "pos": "noun",
+    "definition": "The basis that something is built upon.",
+    "synonyms": [
+      "base",
+      "support",
+      "footing",
+      "groundwork"
+    ],
+    "antonyms": [
+      "top",
+      "roof",
+      "peak",
+      "summit"
+    ],
+    "sentence": "Strong bricks make a solid base."
+  },
+  {
+    "word": "Fragment",
+    "pos": "noun",
+    "definition": "A small piece of something that has broken off from the whole.",
+    "synonyms": [
+      "piece",
+      "bit",
+      "part",
+      "scrap"
+    ],
+    "antonyms": [
+      "whole",
+      "total",
+      "entirety",
+      "unit"
+    ],
+    "sentence": "A piece of glass sparkled outside."
+  },
+  {
+    "word": "Frail",
+    "pos": "adjective",
+    "definition": "Delicate and easily broken.",
+    "synonyms": [
+      "weak",
+      "delicate",
+      "feeble",
+      "fragile"
+    ],
+    "antonyms": [
+      "strong",
+      "sturdy",
+      "robust",
+      "tough"
+    ],
+    "sentence": "The frail bird needed gentle hands."
+  },
+  {
+    "word": "Frantic",
+    "pos": "adjective",
+    "definition": "Acting in an unorganised way and emotionally uncontrolled.",
+    "synonyms": [
+      "wild",
+      "panicked",
+      "rushed",
+      "desperate"
+    ],
+    "antonyms": [
+      "calm",
+      "peaceful",
+      "relaxed",
+      "steady"
+    ],
+    "sentence": "Mum felt panicked when keys vanished."
+  },
+  {
+    "word": "Fraud",
+    "pos": "noun",
+    "definition": "Deceiving a person for your own gain.",
+    "synonyms": [
+      "trick",
+      "scam",
+      "swindle",
+      "deceit"
+    ],
+    "antonyms": [
+      "honesty",
+      "truth",
+      "fairness",
+      "sincerity"
+    ],
+    "sentence": "The email was a clever scam."
+  },
+  {
+    "word": "Fraudulent",
+    "pos": "adjective",
+    "definition": "Acting in a way that is intended to trick someone.",
+    "synonyms": [
+      "fake",
+      "dishonest",
+      "deceitful",
+      "false"
+    ],
+    "antonyms": [
+      "honest",
+      "genuine",
+      "truthful",
+      "real"
+    ],
+    "sentence": "Police stopped the fake ticket sale."
+  },
+  {
+    "word": "Frequent",
+    "pos": "adjective",
+    "definition": "Happening regularly at short intervals.",
+    "synonyms": [
+      "common",
+      "regular",
+      "repeated",
+      "usual"
+    ],
+    "antonyms": [
+      "rare",
+      "uncommon",
+      "infrequent",
+      "occasional"
+    ],
+    "sentence": "We have regular library visits on Fridays."
+  },
+  {
+    "word": "Frightful",
+    "pos": "adjective",
+    "definition": "Something which causes intense fear.",
+    "synonyms": [
+      "terrible",
+      "awful",
+      "scary",
+      "dreadful"
+    ],
+    "antonyms": [
+      "pleasant",
+      "lovely",
+      "cheerful",
+      "delightful"
+    ],
+    "sentence": "The storm made a terrible noise."
+  },
+  {
+    "word": "Front",
+    "pos": "noun",
+    "definition": "The foremost part of a building, person or object.",
+    "synonyms": [
+      "forepart",
+      "face",
+      "frontage",
+      "leadingedge"
+    ],
+    "antonyms": [
+      "back",
+      "rear",
+      "behind",
+      "end"
+    ],
+    "sentence": "Please stand at the front of the line."
+  },
+  {
+    "word": "Frugal",
+    "pos": "adjective",
+    "definition": "Careful with money and live without unnecessary items.",
+    "synonyms": [
+      "careful",
+      "thrifty",
+      "saving",
+      "economical"
+    ],
+    "antonyms": [
+      "wasteful",
+      "careless",
+      "extravagant",
+      "lavish"
+    ],
+    "sentence": "She was careful with her pocket money."
+  },
+  {
+    "word": "Fund",
+    "pos": "noun",
+    "definition": "An amount of money saved for a specific purpose.",
+    "synonyms": [
+      "money",
+      "savings",
+      "budget",
+      "supply"
+    ],
+    "antonyms": [
+      "debt",
+      "shortage",
+      "lack",
+      "poverty"
+    ],
+    "sentence": "The class raised money for books."
+  },
+  {
+    "word": "Fundamental",
+    "pos": "adjective",
+    "definition": "Something that is necessary - an essential basis or foundation.",
+    "synonyms": [
+      "basic",
+      "essential",
+      "central",
+      "important"
+    ],
+    "antonyms": [
+      "minor",
+      "unimportant",
+      "trivial",
+      "extra"
+    ],
+    "sentence": "Reading is a basic school skill."
+  },
+  {
+    "word": "Galvanise",
+    "pos": "verb",
+    "definition": "To cause a person to suddenly take action through shock or excitement.",
+    "synonyms": [
+      "inspire",
+      "motivate",
+      "stir",
+      "energise"
+    ],
+    "antonyms": [
+      "discourage",
+      "weaken",
+      "bore",
+      "calm"
+    ],
+    "sentence": "The speech inspired the team to act."
+  },
+  {
+    "word": "Garment",
+    "pos": "noun",
+    "definition": "A piece of clothing.",
+    "synonyms": [
+      "clothing",
+      "outfit",
+      "dress",
+      "item"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "She folded each piece of clothing neatly."
+  },
+  {
+    "word": "Gauge",
+    "pos": "verb",
+    "definition": "A way of measuring or calculating an amount.",
+    "synonyms": [
+      "measure",
+      "judge",
+      "assess",
+      "estimate"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "overlook",
+      "guess"
+    ],
+    "sentence": "We can measure the jar with a ruler."
+  },
+  {
+    "word": "Gilt",
+    "pos": "adjective",
+    "definition": "Something that has gold, or something that looks like gold on its surface.",
+    "synonyms": [
+      "golden",
+      "gold-covered",
+      "gilded",
+      "shiny"
+    ],
+    "antonyms": [
+      "plain",
+      "dull",
+      "bare",
+      "ungilded"
+    ],
+    "sentence": "The frame had a shiny golden edge."
+  },
+  {
+    "word": "Glib",
+    "pos": "adjective",
+    "definition": "Speaking without thinking and often without honesty despite speaking confidently.",
+    "synonyms": [
+      "smooth",
+      "slick",
+      "easy",
+      "shallow"
+    ],
+    "antonyms": [
+      "thoughtful",
+      "sincere",
+      "careful",
+      "serious"
+    ],
+    "sentence": "His easy answer lacked real thought."
+  },
+  {
+    "word": "Gloomy",
+    "pos": "adjective",
+    "definition": "A poorly lit space that is dim.",
+    "synonyms": [
+      "dark",
+      "sad",
+      "dreary",
+      "miserable"
+    ],
+    "antonyms": [
+      "bright",
+      "cheerful",
+      "sunny",
+      "happy"
+    ],
+    "sentence": "Rain made the park look dark."
+  },
+  {
+    "word": "Glutton",
+    "pos": "noun",
+    "definition": "Eating too much regularly and being excessively greedy.",
+    "synonyms": [
+      "greedy eater",
+      "pigout",
+      "overeater",
+      "gobbler"
+    ],
+    "antonyms": [
+      "moderate eater",
+      "nibbler",
+      "sharer",
+      "saver"
+    ],
+    "sentence": "The greedy eater finished all the biscuits."
+  },
+  {
+    "word": "Grandeur",
+    "pos": "noun",
+    "definition": "Something that is impressive in size and very grand.",
+    "synonyms": [
+      "splendour",
+      "magnificence",
+      "greatness",
+      "glory"
+    ],
+    "antonyms": [
+      "plainness",
+      "simplicity",
+      "dullness",
+      "modesty"
+    ],
+    "sentence": "The castle had great splendour inside."
+  },
+  {
+    "word": "Grate",
+    "pos": "verb",
+    "definition": "Break something down by rubbing two things together.",
+    "synonyms": [
+      "scrape",
+      "shred",
+      "rub",
+      "rasp"
+    ],
+    "antonyms": [
+      "smooth",
+      "soothe",
+      "calm",
+      "comfort"
+    ],
+    "sentence": "Please scrape the cheese for dinner."
+  },
+  {
+    "word": "Gregarious",
+    "pos": "adjective",
+    "definition": "Someone who is well liked and enjoys the company of others.",
+    "synonyms": [
+      "friendly",
+      "sociable",
+      "outgoing",
+      "chatty"
+    ],
+    "antonyms": [
+      "shy",
+      "quiet",
+      "lonely",
+      "reserved"
+    ],
+    "sentence": "The friendly boy made friends quickly."
+  },
+  {
+    "word": "Grotesque",
+    "pos": "adjective",
+    "definition": "A comically strange and unpleasant character.",
+    "synonyms": [
+      "ugly",
+      "distorted",
+      "strange",
+      "misshapen"
+    ],
+    "antonyms": [
+      "beautiful",
+      "normal",
+      "lovely",
+      "pleasant"
+    ],
+    "sentence": "The mask looked strange and ugly."
+  },
+  {
+    "word": "Gung-ho",
+    "pos": "adjective",
+    "definition": "Very enthusiastic and energetic.",
+    "synonyms": [
+      "eager",
+      "keen",
+      "excited",
+      "enthusiastic"
+    ],
+    "antonyms": [
+      "reluctant",
+      "unwilling",
+      "lazy",
+      "hesitant"
+    ],
+    "sentence": "She was eager to start the project."
+  },
+  {
+    "word": "Habitat",
+    "pos": "noun",
+    "definition": "A place that a person or thing calls home.",
+    "synonyms": [
+      "home",
+      "environment",
+      "surroundings",
+      "territory"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "A pond is a frog's home."
+  },
+  {
+    "word": "Halt",
+    "pos": "verb",
+    "definition": "To stop moving or going somewhere.",
+    "synonyms": [
+      "stop",
+      "pause",
+      "cease",
+      "freeze"
+    ],
+    "antonyms": [
+      "continue",
+      "proceed",
+      "advance",
+      "move"
+    ],
+    "sentence": "The guard told everyone to stop."
+  },
+  {
+    "word": "Hamper",
+    "pos": "verb",
+    "definition": "To prevent or restrict movement for others.",
+    "synonyms": [
+      "hinder",
+      "block",
+      "slow",
+      "obstruct"
+    ],
+    "antonyms": [
+      "help",
+      "aid",
+      "assist",
+      "ease"
+    ],
+    "sentence": "Heavy snow can slow the buses."
+  },
+  {
+    "word": "Handsome",
+    "pos": "adjective",
+    "definition": "A physically attractive person.",
+    "synonyms": [
+      "attractive",
+      "good-looking",
+      "smart",
+      "elegant"
+    ],
+    "antonyms": [
+      "plain",
+      "unattractive",
+      "scruffy",
+      "ugly"
+    ],
+    "sentence": "He wore a smart suit today."
+  },
+  {
+    "word": "Harass",
+    "pos": "verb",
+    "definition": "To repeatedly put pressure on or bother a person resulting in them being unhappy.",
+    "synonyms": [
+      "bully",
+      "bother",
+      "tease",
+      "pester"
+    ],
+    "antonyms": [
+      "comfort",
+      "help",
+      "support",
+      "protect"
+    ],
+    "sentence": "It is wrong to bully classmates."
+  },
+  {
+    "word": "Heed",
+    "pos": "verb",
+    "definition": "To listen carefully and give something your attention.",
+    "synonyms": [
+      "listen",
+      "notice",
+      "obey",
+      "follow"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "dismiss",
+      "overlook"
+    ],
+    "sentence": "Please listen to the warning sign."
+  },
+  {
+    "word": "Helter-Skelter",
+    "pos": "adverb",
+    "definition": "Acting in an unorganised manner and doing something in a rush.",
+    "synonyms": [
+      "wildly",
+      "crazily",
+      "hurriedly",
+      "chaotically"
+    ],
+    "antonyms": [
+      "calmly",
+      "neatly",
+      "orderly",
+      "steadily"
+    ],
+    "sentence": "The papers flew about chaotically."
+  },
+  {
+    "word": "Heroic",
+    "pos": "adjective",
+    "definition": "Acting bravely and showing determination.",
+    "synonyms": [
+      "brave",
+      "courageous",
+      "valiant",
+      "bold"
+    ],
+    "antonyms": [
+      "cowardly",
+      "fearful",
+      "timid",
+      "weak"
+    ],
+    "sentence": "The brave firefighter rescued the cat."
+  },
+  {
+    "word": "Hierarchical",
+    "pos": "adjective",
+    "definition": "Arranged in an order of hierarchy to reflect importance.",
+    "synonyms": [
+      "ranked",
+      "ordered",
+      "layered",
+      "graded"
+    ],
+    "antonyms": [
+      "equal",
+      "flat",
+      "level",
+      "unranked"
+    ],
+    "sentence": "The club had a ranked team system."
+  },
+  {
+    "word": "Hierarchy",
+    "pos": "noun",
+    "definition": "An organisational system that ranks things in terms of their importance.",
+    "synonyms": [
+      "ranking",
+      "order",
+      "ladder",
+      "chain"
+    ],
+    "antonyms": [
+      "equality",
+      "sameness",
+      "levelness",
+      "fairness"
+    ],
+    "sentence": "The school chart showed the order clearly."
+  },
+  {
+    "word": "Hindsight",
+    "pos": "noun",
+    "definition": "Recognising and understanding something once it has already happened.",
+    "synonyms": [
+      "afterthought",
+      "reflection",
+      "review",
+      "wisdom"
+    ],
+    "antonyms": [
+      "foresight",
+      "planning",
+      "prediction",
+      "preparation"
+    ],
+    "sentence": "In reflection, I should have packed earlier."
+  },
+  {
+    "word": "Hoax",
+    "pos": "noun",
+    "definition": "Something that is fake and has been set up to deceive people.",
+    "synonyms": [
+      "trick",
+      "prank",
+      "joke",
+      "scam"
+    ],
+    "antonyms": [
+      "truth",
+      "reality",
+      "fact",
+      "honesty"
+    ],
+    "sentence": "The fake alien photo was a prank."
+  },
+  {
+    "word": "Holiday",
+    "pos": "noun",
+    "definition": "A break from the usual routine where you can do as you please.",
+    "synonyms": [
+      "vacation",
+      "break",
+      "trip",
+      "leave"
+    ],
+    "antonyms": [
+      "workday",
+      "schoolday",
+      "term",
+      "routine"
+    ],
+    "sentence": "We went to the beach on holiday."
+  },
+  {
+    "word": "Holler",
+    "pos": "verb",
+    "definition": "To shout or call out loudly.",
+    "synonyms": [
+      "shout",
+      "yell",
+      "call",
+      "bawl"
+    ],
+    "antonyms": [
+      "whisper",
+      "murmur",
+      "mutter",
+      "hush"
+    ],
+    "sentence": "Do not shout inside the library."
+  },
+  {
+    "word": "Humane",
+    "pos": "adjective",
+    "definition": "Having compassion and kindness towards others.",
+    "synonyms": [
+      "kind",
+      "caring",
+      "gentle",
+      "compassionate"
+    ],
+    "antonyms": [
+      "cruel",
+      "harsh",
+      "mean",
+      "heartless"
+    ],
+    "sentence": "Kind people care for injured animals."
+  },
+  {
+    "word": "Hypothetical",
+    "pos": "adjective",
+    "definition": "What you think might happen but you don't yet have the evidence to support this.",
+    "synonyms": [
+      "imaginary",
+      "supposed",
+      "possible",
+      "theoretical"
+    ],
+    "antonyms": [
+      "real",
+      "actual",
+      "true",
+      "factual"
+    ],
+    "sentence": "We discussed an imaginary trip to Mars."
+  },
+  {
+    "word": "Idle",
+    "pos": "adjective",
+    "definition": "Being inactive or not being used.",
+    "synonyms": [
+      "lazy",
+      "inactive",
+      "still",
+      "unused"
+    ],
+    "antonyms": [
+      "busy",
+      "active",
+      "working",
+      "energetic"
+    ],
+    "sentence": "The engine stayed still in the garage."
+  },
+  {
+    "word": "Idol",
+    "pos": "noun",
+    "definition": "Someone or something that is admired and respected.",
+    "synonyms": [
+      "hero",
+      "star",
+      "role-model",
+      "favourite"
+    ],
+    "antonyms": [
+      "enemy",
+      "villain",
+      "critic",
+      "none"
+    ],
+    "sentence": "The singer became her pop idol."
+  },
+  {
+    "word": "Idyllic",
+    "pos": "adjective",
+    "definition": "Something that is beautiful and peaceful with little threat.",
+    "synonyms": [
+      "peaceful",
+      "lovely",
+      "perfect",
+      "charming"
+    ],
+    "antonyms": [
+      "chaotic",
+      "ugly",
+      "troubled",
+      "unpleasant"
+    ],
+    "sentence": "The farm looked peaceful at sunset."
+  },
+  {
+    "word": "Immaculate",
+    "pos": "adjective",
+    "definition": "Something that is perfect and has no flaws.",
+    "synonyms": [
+      "spotless",
+      "perfect",
+      "neat",
+      "clean"
+    ],
+    "antonyms": [
+      "dirty",
+      "messy",
+      "stained",
+      "untidy"
+    ],
+    "sentence": "Her room was spotless after cleaning."
+  },
+  {
+    "word": "Immerse",
+    "pos": "verb",
+    "definition": "To be completely involved in something.",
+    "synonyms": [
+      "dip",
+      "involve",
+      "absorb",
+      "plunge"
+    ],
+    "antonyms": [
+      "remove",
+      "withdraw",
+      "detach",
+      "avoid"
+    ],
+    "sentence": "I like to absorb myself in books."
+  },
+  {
+    "word": "Impassive",
+    "pos": "adjective",
+    "definition": "Unresponsive and not showing any emotion towards what has happened.",
+    "synonyms": [
+      "calm",
+      "blank",
+      "unemotional",
+      "still"
+    ],
+    "antonyms": [
+      "emotional",
+      "expressive",
+      "lively",
+      "reactive"
+    ],
+    "sentence": "She stayed calm during the surprise."
+  },
+  {
+    "word": "Impede",
+    "pos": "verb",
+    "definition": "Preventing a task from progressing or being completed.",
+    "synonyms": [
+      "hinder",
+      "block",
+      "slow",
+      "obstruct"
+    ],
+    "antonyms": [
+      "help",
+      "aid",
+      "assist",
+      "speed"
+    ],
+    "sentence": "Mud can slow our walking pace."
+  },
+  {
+    "word": "Imperative",
+    "pos": "adjective",
+    "definition": "Urgent and requires immediate attention.",
+    "synonyms": [
+      "essential",
+      "urgent",
+      "crucial",
+      "necessary"
+    ],
+    "antonyms": [
+      "optional",
+      "unimportant",
+      "trivial",
+      "needless"
+    ],
+    "sentence": "It is essential to wash your hands."
+  },
+  {
+    "word": "Inadequate",
+    "pos": "adjective",
+    "definition": "Not good enough or lacking in quality.",
+    "synonyms": [
+      "insufficient",
+      "poor",
+      "weak",
+      "lacking"
+    ],
+    "antonyms": [
+      "enough",
+      "adequate",
+      "sufficient",
+      "strong"
+    ],
+    "sentence": "One torch was insufficient for the cave."
+  },
+  {
+    "word": "Incision",
+    "pos": "noun",
+    "definition": "A cut in or through something caused by a sharp instrument.",
+    "synonyms": [
+      "cut",
+      "slice",
+      "nick",
+      "opening"
+    ],
+    "antonyms": [
+      "closure",
+      "covering",
+      "seal",
+      "mending"
+    ],
+    "sentence": "The doctor made a small cut."
+  },
+  {
+    "word": "Incline",
+    "pos": "verb",
+    "definition": "A surface that is sloping upwards.",
+    "synonyms": [
+      "lean",
+      "slope",
+      "tilt",
+      "bend"
+    ],
+    "antonyms": [
+      "straighten",
+      "level",
+      "flatten",
+      "balance"
+    ],
+    "sentence": "The ramp began to slope gently upward."
+  },
+  {
+    "word": "Inconsequential",
+    "pos": "adjective",
+    "definition": "Deemed low in importance and has little significance.",
+    "synonyms": [
+      "unimportant",
+      "trivial",
+      "minor",
+      "small"
+    ],
+    "antonyms": [
+      "important",
+      "serious",
+      "major",
+      "significant"
+    ],
+    "sentence": "That mistake was small and fixable."
+  },
+  {
+    "word": "Incumbent",
+    "pos": "adjective",
+    "definition": "A person that holds a public office or an official post.",
+    "synonyms": [
+      "current",
+      "present",
+      "existing",
+      "reigning"
+    ],
+    "antonyms": [
+      "former",
+      "past",
+      "previous",
+      "old"
+    ],
+    "sentence": "The current captain led the team."
+  },
+  {
+    "word": "Identity",
+    "pos": "noun",
+    "definition": "What makes a person them, e.g. facts about them or personality traits.",
+    "synonyms": [
+      "self",
+      "character",
+      "personality",
+      "individuality"
+    ],
+    "antonyms": [
+      "anonymity",
+      "sameness",
+      "obscurity",
+      "none"
+    ],
+    "sentence": "Your identity makes you unique."
+  },
+  {
+    "word": "Inequity",
+    "pos": "noun",
+    "definition": "Something that is unfair or when bias has been seen.",
+    "synonyms": [
+      "unfairness",
+      "injustice",
+      "imbalance",
+      "bias"
+    ],
+    "antonyms": [
+      "fairness",
+      "justice",
+      "equality",
+      "balance"
+    ],
+    "sentence": "The teacher fixed the unfairness quickly."
+  },
+  {
+    "word": "Inert",
+    "pos": "adjective",
+    "definition": "Lacking strength and being unable to move.",
+    "synonyms": [
+      "still",
+      "inactive",
+      "lifeless",
+      "motionless"
+    ],
+    "antonyms": [
+      "active",
+      "lively",
+      "moving",
+      "energetic"
+    ],
+    "sentence": "The toy lay still on the shelf."
+  },
+  {
+    "word": "Infantile",
+    "pos": "adjective",
+    "definition": "Something that happens to or is suitable for a child.",
+    "synonyms": [
+      "childish",
+      "immature",
+      "silly",
+      "babyish"
+    ],
+    "antonyms": [
+      "mature",
+      "grown-up",
+      "sensible",
+      "adult"
+    ],
+    "sentence": "His childish joke annoyed the class."
+  },
+  {
+    "word": "Inferior",
+    "pos": "adjective",
+    "definition": "Has a lower status or is deemed less important than something else.",
+    "synonyms": [
+      "lower",
+      "poorer",
+      "lesser",
+      "weaker"
+    ],
+    "antonyms": [
+      "better",
+      "superior",
+      "stronger",
+      "finer"
+    ],
+    "sentence": "This copy is poorer than the original."
+  },
+  {
+    "word": "Inhale",
+    "pos": "verb",
+    "definition": "Breathing inwards, taking air into your lungs.",
+    "synonyms": [
+      "breathe in",
+      "sniff",
+      "draw",
+      "gulp"
+    ],
+    "antonyms": [
+      "exhale",
+      "breathe out",
+      "release",
+      "blow"
+    ],
+    "sentence": "Breathe in slowly before the dive."
+  },
+  {
+    "word": "Innocuous",
+    "pos": "adjective",
+    "definition": "Will cause no harm and is unlikely to upset anyone.",
+    "synonyms": [
+      "harmless",
+      "safe",
+      "mild",
+      "gentle"
+    ],
+    "antonyms": [
+      "harmful",
+      "dangerous",
+      "risky",
+      "toxic"
+    ],
+    "sentence": "The small insect was harmless to us."
+  },
+  {
+    "word": "Insane",
+    "pos": "adjective",
+    "definition": "A state of mind that is not determined to be sound.",
+    "synonyms": [
+      "mad",
+      "crazy",
+      "wild",
+      "unwell"
+    ],
+    "antonyms": [
+      "sane",
+      "calm",
+      "sensible",
+      "stable"
+    ],
+    "sentence": "The plan sounded insane to everyone."
+  },
+  {
+    "word": "Insinuate",
+    "pos": "verb",
+    "definition": "To suggest something but not directly say it.",
+    "synonyms": [
+      "suggest",
+      "hint",
+      "imply",
+      "mention"
+    ],
+    "antonyms": [
+      "state",
+      "declare",
+      "announce",
+      "explain"
+    ],
+    "sentence": "She did not insinuate anything unkind."
+  },
+  {
+    "word": "Intangible",
+    "pos": "adjective",
+    "definition": "Something that is abstract and cannot be specifically described.",
+    "synonyms": [
+      "unseen",
+      "untouchable",
+      "unclear",
+      "abstract"
+    ],
+    "antonyms": [
+      "real",
+      "solid",
+      "clear",
+      "touchable"
+    ],
+    "sentence": "Hope is intangible but still powerful."
+  },
+  {
+    "word": "Interfere",
+    "pos": "verb",
+    "definition": "To get involved in a situation you do not need to be part of.",
+    "synonyms": [
+      "interrupt",
+      "meddle",
+      "hinder",
+      "disturb"
+    ],
+    "antonyms": [
+      "help",
+      "assist",
+      "support",
+      "allow"
+    ],
+    "sentence": "Please do not interfere with our game."
+  },
+  {
+    "word": "Interrupt",
+    "pos": "verb",
+    "definition": "To cause a break and stop an activity.",
+    "synonyms": [
+      "stop",
+      "cut in",
+      "break",
+      "disturb"
+    ],
+    "antonyms": [
+      "continue",
+      "listen",
+      "wait",
+      "allow"
+    ],
+    "sentence": "Do not interrupt when someone is speaking."
+  },
+  {
+    "word": "Inundate",
+    "pos": "verb",
+    "definition": "To overwhelm and provide a large amount of things at the same time.",
+    "synonyms": [
+      "flood",
+      "swamp",
+      "overwhelm",
+      "cover"
+    ],
+    "antonyms": [
+      "drain",
+      "empty",
+      "clear",
+      "dry"
+    ],
+    "sentence": "Heavy rain can inundate the fields."
+  },
+  {
+    "word": "Ironic",
+    "pos": "adjective",
+    "definition": "Something having the opposite result of what was expected and causing humour.",
+    "synonyms": [
+      "unexpected",
+      "odd",
+      "surprising",
+      "amusing"
+    ],
+    "antonyms": [
+      "expected",
+      "ordinary",
+      "fitting",
+      "normal"
+    ],
+    "sentence": "It was ironic that the lifeguard slipped."
+  },
+  {
+    "word": "Isolation",
+    "pos": "noun",
+    "definition": "Cut off from others and completely alone.",
+    "synonyms": [
+      "aloneness",
+      "separation",
+      "loneliness",
+      "privacy"
+    ],
+    "antonyms": [
+      "company",
+      "togetherness",
+      "friendship",
+      "community"
+    ],
+    "sentence": "The cub felt sad in isolation."
+  },
+  {
+    "word": "Jargon",
+    "pos": "noun",
+    "definition": "Terminology specific to a community that wouldn't make sense out of context.",
+    "synonyms": [
+      "slang",
+      "terms",
+      "language",
+      "wording"
+    ],
+    "antonyms": [
+      "plain speech",
+      "simple words",
+      "clarity",
+      "plainness"
+    ],
+    "sentence": "The science jargon confused the class."
+  },
+  {
+    "word": "Jurisprudence",
+    "pos": "noun",
+    "definition": "Studying the law.",
+    "synonyms": [
+      "law",
+      "justice",
+      "legal study",
+      "legal system"
+    ],
+    "antonyms": [
+      "lawlessness",
+      "disorder",
+      "crime",
+      "chaos"
+    ],
+    "sentence": "She reads about jurisprudence in big books."
+  },
+  {
+    "word": "Keel",
+    "pos": "noun",
+    "definition": "To collapse or overturn.",
+    "synonyms": [
+      "bottom",
+      "base",
+      "underside",
+      "foundation"
+    ],
+    "antonyms": [
+      "top",
+      "roof",
+      "peak",
+      "summit"
+    ],
+    "sentence": "The boat's keel helps it stay steady."
+  },
+  {
+    "word": "Labour",
+    "pos": "noun",
+    "definition": "Hard and physical work.",
+    "synonyms": [
+      "work",
+      "effort",
+      "toil",
+      "task"
+    ],
+    "antonyms": [
+      "rest",
+      "ease",
+      "idleness",
+      "leisure"
+    ],
+    "sentence": "Their labour built the new playground."
+  },
+  {
+    "word": "Labyrinth",
+    "pos": "noun",
+    "definition": "A confusing maze made up of passages that are hard to navigate.",
+    "synonyms": [
+      "maze",
+      "puzzle",
+      "network",
+      "tangle"
+    ],
+    "antonyms": [
+      "straight path",
+      "simplicity",
+      "order",
+      "openness"
+    ],
+    "sentence": "We wandered through the garden labyrinth."
+  },
+  {
+    "word": "Lackadaisical",
+    "pos": "adjective",
+    "definition": "Lacking enthusiasm and having a lack of interest.",
+    "synonyms": [
+      "lazy",
+      "sleepy",
+      "sluggish",
+      "careless"
+    ],
+    "antonyms": [
+      "energetic",
+      "lively",
+      "eager",
+      "active"
+    ],
+    "sentence": "His lackadaisical walk slowed the group."
+  },
+  {
+    "word": "Lair",
+    "pos": "noun",
+    "definition": "An often secluded place where a wild and potentially dangerous animal lives.",
+    "synonyms": [
+      "den",
+      "hideout",
+      "shelter",
+      "nest"
+    ],
+    "antonyms": [
+      "open",
+      "outside",
+      "exposure",
+      "public"
+    ],
+    "sentence": "The fox hid in its lair."
+  },
+  {
+    "word": "Lament",
+    "pos": "verb",
+    "definition": "Expressing sorrow, grief or mourning.",
+    "synonyms": [
+      "mourn",
+      "grieve",
+      "regret",
+      "weep"
+    ],
+    "antonyms": [
+      "celebrate",
+      "cheer",
+      "rejoice",
+      "praise"
+    ],
+    "sentence": "They lament the loss of the old tree."
+  },
+  {
+    "word": "Languorous",
+    "pos": "adjective",
+    "definition": "Very still and lacking in mental or physical energy.",
+    "synonyms": [
+      "slow",
+      "dreamy",
+      "tired",
+      "lazy"
+    ],
+    "antonyms": [
+      "energetic",
+      "lively",
+      "brisk",
+      "active"
+    ],
+    "sentence": "The cat gave a languorous stretch."
+  },
+  {
+    "word": "Latter",
+    "pos": "adjective",
+    "definition": "Towards or closer to the end of something than the beginning.",
+    "synonyms": [
+      "second",
+      "last",
+      "later",
+      "final"
+    ],
+    "antonyms": [
+      "first",
+      "former",
+      "earlier",
+      "opening"
+    ],
+    "sentence": "Of the two, I chose the latter."
+  },
+  {
+    "word": "Lavish",
+    "pos": "adjective",
+    "definition": "Extravagant and more than is needed.",
+    "synonyms": [
+      "rich",
+      "grand",
+      "fancy",
+      "generous"
+    ],
+    "antonyms": [
+      "plain",
+      "modest",
+      "simple",
+      "cheap"
+    ],
+    "sentence": "They planned a lavish party indoors."
+  },
+  {
+    "word": "Liable",
+    "pos": "adjective",
+    "definition": "Having legal responsibility for something.",
+    "synonyms": [
+      "responsible",
+      "answerable",
+      "likely",
+      "subject"
+    ],
+    "antonyms": [
+      "free",
+      "exempt",
+      "unlikely",
+      "safe"
+    ],
+    "sentence": "You are liable for your own mess."
+  },
+  {
+    "word": "Libel",
+    "pos": "noun",
+    "definition": "Inaccurate and damaging information that has been written about a person.",
+    "synonyms": [
+      "slander",
+      "smear",
+      "false claim",
+      "defamation"
+    ],
+    "antonyms": [
+      "praise",
+      "truth",
+      "respect",
+      "honour"
+    ],
+    "sentence": "The newspaper was sued for libel."
+  },
+  {
+    "word": "Liberate",
+    "pos": "verb",
+    "definition": "Being free to make your own decisions and not under control of anyone else.",
+    "synonyms": [
+      "free",
+      "release",
+      "rescue",
+      "unchain"
+    ],
+    "antonyms": [
+      "trap",
+      "cage",
+      "confine",
+      "imprison"
+    ],
+    "sentence": "The hero came to liberate the village."
+  },
+  {
+    "word": "Liberty",
+    "pos": "noun",
+    "definition": "Acting how you want and having the freedom to do so.",
+    "synonyms": [
+      "freedom",
+      "independence",
+      "choice",
+      "rights"
+    ],
+    "antonyms": [
+      "captivity",
+      "control",
+      "limits",
+      "restriction"
+    ],
+    "sentence": "Liberty lets people speak their minds."
+  },
+  {
+    "word": "Lieu",
+    "pos": "noun",
+    "definition": "In place of something else.",
+    "synonyms": [
+      "place",
+      "stead",
+      "position",
+      "spot"
+    ],
+    "antonyms": [
+      "absence",
+      "nowhere",
+      "removal",
+      "loss"
+    ],
+    "sentence": "We used juice in lieu of milk."
+  },
+  {
+    "word": "Limb",
+    "pos": "noun",
+    "definition": "A body part that comes from the body, e.g. an arm or leg.",
+    "synonyms": [
+      "arm",
+      "leg",
+      "branch",
+      "bough"
+    ],
+    "antonyms": [
+      "core",
+      "trunk",
+      "body",
+      "centre"
+    ],
+    "sentence": "The bird sat on a tree limb."
+  },
+  {
+    "word": "Linger",
+    "pos": "verb",
+    "definition": "To hang around in a place for a long period.",
+    "synonyms": [
+      "stay",
+      "remain",
+      "wait",
+      "dawdle"
+    ],
+    "antonyms": [
+      "leave",
+      "go",
+      "rush",
+      "depart"
+    ],
+    "sentence": "Please do not linger after the bell."
+  },
+  {
+    "word": "Litigation",
+    "pos": "noun",
+    "definition": "Settling an argument between two people by taking it to court.",
+    "synonyms": [
+      "lawsuit",
+      "case",
+      "legal action",
+      "trial"
+    ],
+    "antonyms": [
+      "agreement",
+      "peace",
+      "settlement",
+      "harmony"
+    ],
+    "sentence": "The company faced litigation after the accident."
+  },
+  {
+    "word": "Lexis",
+    "pos": "noun",
+    "definition": "The words that make up a language.",
+    "synonyms": [
+      "vocabulary",
+      "wording",
+      "terms",
+      "language"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "The poem uses rich lexis and rhythm."
+  },
+  {
+    "word": "Lodge",
+    "pos": "verb",
+    "definition": "A small habitat where you stay temporarily.",
+    "synonyms": [
+      "stay",
+      "settle",
+      "place",
+      "file"
+    ],
+    "antonyms": [
+      "leave",
+      "remove",
+      "withdraw",
+      "depart"
+    ],
+    "sentence": "We will lodge our complaint tomorrow."
+  },
+  {
+    "word": "Lofty",
+    "pos": "adjective",
+    "definition": "High up and tall.",
+    "synonyms": [
+      "high",
+      "tall",
+      "grand",
+      "noble"
+    ],
+    "antonyms": [
+      "low",
+      "short",
+      "humble",
+      "small"
+    ],
+    "sentence": "The eagle nested on a lofty cliff."
+  },
+  {
+    "word": "Louche",
+    "pos": "adjective",
+    "definition": "Something that is questionable and not very moral or reliable.",
+    "synonyms": [
+      "shady",
+      "disreputable",
+      "sneaky",
+      "suspicious"
+    ],
+    "antonyms": [
+      "honest",
+      "respectable",
+      "decent",
+      "trustworthy"
+    ],
+    "sentence": "They avoided the louche alley at night."
+  },
+  {
+    "word": "Loyal",
+    "pos": "adjective",
+    "definition": "Supporting and being faithful to something regardless of circumstance.",
+    "synonyms": [
+      "faithful",
+      "true",
+      "devoted",
+      "steady"
+    ],
+    "antonyms": [
+      "disloyal",
+      "false",
+      "unfaithful",
+      "traitorous"
+    ],
+    "sentence": "A loyal friend stands by you."
+  },
+  {
+    "word": "Lunar",
+    "pos": "adjective",
+    "definition": "Something that relates to or resembles the moon.",
+    "synonyms": [
+      "moonlit",
+      "moonlike",
+      "silvery",
+      "pale"
+    ],
+    "antonyms": [
+      "solar",
+      "sunny",
+      "bright",
+      "earthly"
+    ],
+    "sentence": "We watched the lunar eclipse together."
+  },
+  {
+    "word": "Magnanimous",
+    "pos": "adjective",
+    "definition": "Being kind or forgiving towards an enemy or competitor.",
+    "synonyms": [
+      "kind",
+      "generous",
+      "forgiving",
+      "noble"
+    ],
+    "antonyms": [
+      "mean",
+      "selfish",
+      "cruel",
+      "petty"
+    ],
+    "sentence": "She was magnanimous after winning the race."
+  },
+  {
+    "word": "Magnetic",
+    "pos": "adjective",
+    "definition": "Something that strongly attracts something else.",
+    "synonyms": [
+      "attractive",
+      "pulling",
+      "charming",
+      "appealing"
+    ],
+    "antonyms": [
+      "repelling",
+      "dull",
+      "boring",
+      "unappealing"
+    ],
+    "sentence": "His magnetic smile made everyone grin."
+  },
+  {
+    "word": "Malefactor",
+    "pos": "noun",
+    "definition": "A person who violated the law by carrying out illegal activity.",
+    "synonyms": [
+      "criminal",
+      "wrongdoer",
+      "villain",
+      "offender"
+    ],
+    "antonyms": [
+      "hero",
+      "helper",
+      "protector",
+      "lawkeeper"
+    ],
+    "sentence": "The malefactor tried to escape quietly."
+  },
+  {
+    "word": "Malevolent",
+    "pos": "adjective",
+    "definition": "Acting in a cruel way and wishing harm or evil on another.",
+    "synonyms": [
+      "cruel",
+      "nasty",
+      "spiteful",
+      "harmful"
+    ],
+    "antonyms": [
+      "kind",
+      "friendly",
+      "gentle",
+      "caring"
+    ],
+    "sentence": "The story had a malevolent witch."
+  },
+  {
+    "word": "Malinger",
+    "pos": "verb",
+    "definition": "Avoiding work by exaggerating or pretending you have an illness.",
+    "synonyms": [
+      "skive",
+      "shirk",
+      "dodge",
+      "pretend"
+    ],
+    "antonyms": [
+      "work",
+      "try",
+      "help",
+      "attend"
+    ],
+    "sentence": "He tried to malinger to miss practice."
+  },
+  {
+    "word": "Meagre",
+    "pos": "adjective",
+    "definition": "A small amount - very little in quantity.",
+    "synonyms": [
+      "small",
+      "scant",
+      "poor",
+      "thin"
+    ],
+    "antonyms": [
+      "plentiful",
+      "generous",
+      "full",
+      "abundant"
+    ],
+    "sentence": "The squirrel found a meagre meal."
+  },
+  {
+    "word": "Meander",
+    "pos": "verb",
+    "definition": "Winding and aimless course.",
+    "synonyms": [
+      "wander",
+      "twist",
+      "ramble",
+      "drift"
+    ],
+    "antonyms": [
+      "hurry",
+      "rush",
+      "race",
+      "charge"
+    ],
+    "sentence": "We watched the river meander slowly."
+  },
+  {
+    "word": "Meant",
+    "pos": "verb",
+    "definition": "Expressing an intention a person had.",
+    "synonyms": [
+      "intended",
+      "planned",
+      "wanted",
+      "signified"
+    ],
+    "antonyms": [
+      "ignored",
+      "neglected",
+      "forgot",
+      "missed"
+    ],
+    "sentence": "I meant to call after school."
+  },
+  {
+    "word": "Measly",
+    "pos": "adjective",
+    "definition": "A very small amount which is too small for purpose.",
+    "synonyms": [
+      "tiny",
+      "poor",
+      "pathetic",
+      "small"
+    ],
+    "antonyms": [
+      "generous",
+      "plenty",
+      "big",
+      "impressive"
+    ],
+    "sentence": "They offered a measly prize today."
+  },
+  {
+    "word": "Meek",
+    "pos": "adjective",
+    "definition": "Gentle and soft natured. Willing to go along with others and will not disagree.",
+    "synonyms": [
+      "gentle",
+      "quiet",
+      "shy",
+      "mild"
+    ],
+    "antonyms": [
+      "bold",
+      "brave",
+      "loud",
+      "fierce"
+    ],
+    "sentence": "The meek puppy hid behind me."
+  },
+  {
+    "word": "Melodious",
+    "pos": "adjective",
+    "definition": "Something that sounds nice and follows a tune.",
+    "synonyms": [
+      "musical",
+      "tuneful",
+      "sweet",
+      "pleasant"
+    ],
+    "antonyms": [
+      "harsh",
+      "noisy",
+      "grating",
+      "unpleasant"
+    ],
+    "sentence": "The bird sang a melodious tune."
+  },
+  {
+    "word": "Mercy",
+    "pos": "noun",
+    "definition": "Showing compassion that leads to forgiveness.",
+    "synonyms": [
+      "kindness",
+      "compassion",
+      "forgiveness",
+      "pity"
+    ],
+    "antonyms": [
+      "cruelty",
+      "harshness",
+      "meanness",
+      "anger"
+    ],
+    "sentence": "The judge showed mercy to the boy."
+  },
+  {
+    "word": "Mere",
+    "pos": "adjective",
+    "definition": "Emphasising how small and simple something is.",
+    "synonyms": [
+      "only",
+      "simple",
+      "plain",
+      "slight"
+    ],
+    "antonyms": [
+      "important",
+      "major",
+      "significant",
+      "great"
+    ],
+    "sentence": "It was a mere scratch."
+  },
+  {
+    "word": "Meticulous",
+    "pos": "adjective",
+    "definition": "Very precise and taking a lot of care.",
+    "synonyms": [
+      "careful",
+      "exact",
+      "thorough",
+      "neat"
+    ],
+    "antonyms": [
+      "careless",
+      "messy",
+      "rough",
+      "sloppy"
+    ],
+    "sentence": "She was meticulous with her homework."
+  },
+  {
+    "word": "Mock",
+    "pos": "verb",
+    "definition": "To tease or laugh at someone or something.",
+    "synonyms": [
+      "tease",
+      "copy",
+      "laugh at",
+      "mimic"
+    ],
+    "antonyms": [
+      "praise",
+      "respect",
+      "admire",
+      "encourage"
+    ],
+    "sentence": "Do not mock someone for mistakes."
+  },
+  {
+    "word": "Monochrome",
+    "pos": "adjective",
+    "definition": "Not using colour - only shades of black and white.",
+    "synonyms": [
+      "black-and-white",
+      "single-colour",
+      "plain",
+      "colourless"
+    ],
+    "antonyms": [
+      "colourful",
+      "bright",
+      "vivid",
+      "multicoloured"
+    ],
+    "sentence": "The old photo looked monochrome and faded."
+  },
+  {
+    "word": "Moral",
+    "pos": "adjective",
+    "definition": "The standards you have of what is right and wrong.",
+    "synonyms": [
+      "right",
+      "good",
+      "ethical",
+      "honest"
+    ],
+    "antonyms": [
+      "wrong",
+      "bad",
+      "unfair",
+      "dishonest"
+    ],
+    "sentence": "It was the moral choice."
+  },
+  {
+    "word": "Mortal",
+    "pos": "adjective",
+    "definition": "Ordinary and will not live forever.",
+    "synonyms": [
+      "human",
+      "earthly",
+      "living",
+      "temporary"
+    ],
+    "antonyms": [
+      "immortal",
+      "eternal",
+      "endless",
+      "everlasting"
+    ],
+    "sentence": "Every mortal person needs food and rest."
+  },
+  {
+    "word": "Muse",
+    "pos": "verb",
+    "definition": "Inspiration for a person who is creating art.",
+    "synonyms": [
+      "think",
+      "ponder",
+      "reflect",
+      "wonder"
+    ],
+    "antonyms": [
+      "ignore",
+      "dismiss",
+      "forget",
+      "overlook"
+    ],
+    "sentence": "She would muse beside the window."
+  },
+  {
+    "word": "Myriad",
+    "pos": "noun",
+    "definition": "A very high quantity.",
+    "synonyms": [
+      "multitude",
+      "many",
+      "masses",
+      "crowd"
+    ],
+    "antonyms": [
+      "few",
+      "handful",
+      "scarcity",
+      "shortage"
+    ],
+    "sentence": "A myriad of stars filled the sky."
+  },
+  {
+    "word": "Neat",
+    "pos": "adjective",
+    "definition": "Ordered and in good condition.",
+    "synonyms": [
+      "tidy",
+      "orderly",
+      "clean",
+      "tidy-looking"
+    ],
+    "antonyms": [
+      "messy",
+      "untidy",
+      "dirty",
+      "sloppy"
+    ],
+    "sentence": "Keep your desk neat each day."
+  },
+  {
+    "word": "Necessary",
+    "pos": "adjective",
+    "definition": "An essential requirement for a specific result.",
+    "synonyms": [
+      "required",
+      "needed",
+      "essential",
+      "important"
+    ],
+    "antonyms": [
+      "optional",
+      "needless",
+      "extra",
+      "unneeded"
+    ],
+    "sentence": "Water is necessary for all plants."
+  },
+  {
+    "word": "Nemesis",
+    "pos": "noun",
+    "definition": "Something that can't be defeated and is always one step ahead.",
+    "synonyms": [
+      "enemy",
+      "rival",
+      "opponent",
+      "foe"
+    ],
+    "antonyms": [
+      "ally",
+      "friend",
+      "helper",
+      "supporter"
+    ],
+    "sentence": "The hero finally faced his nemesis."
+  },
+  {
+    "word": "Nirvana",
+    "pos": "noun",
+    "definition": "A place of peace away from all suffering.",
+    "synonyms": [
+      "peace",
+      "bliss",
+      "happiness",
+      "calm"
+    ],
+    "antonyms": [
+      "misery",
+      "stress",
+      "pain",
+      "sadness"
+    ],
+    "sentence": "The quiet beach felt like nirvana."
+  },
+  {
+    "word": "Nominal",
+    "pos": "adjective",
+    "definition": "A small cost.",
+    "synonyms": [
+      "small",
+      "slight",
+      "token",
+      "tiny"
+    ],
+    "antonyms": [
+      "large",
+      "real",
+      "full",
+      "substantial"
+    ],
+    "sentence": "We paid a nominal fee to enter."
+  },
+  {
+    "word": "Novice",
+    "pos": "noun",
+    "definition": "New to an activity and has not experienced it before.",
+    "synonyms": [
+      "beginner",
+      "learner",
+      "starter",
+      "newcomer"
+    ],
+    "antonyms": [
+      "expert",
+      "master",
+      "veteran",
+      "pro"
+    ],
+    "sentence": "As a novice, she asked many questions."
+  },
+  {
+    "word": "Oath",
+    "pos": "noun",
+    "definition": "A promise, often made in law, to tell the truth.",
+    "synonyms": [
+      "promise",
+      "vow",
+      "pledge",
+      "word"
+    ],
+    "antonyms": [
+      "lie",
+      "betrayal",
+      "break",
+      "refusal"
+    ],
+    "sentence": "He made an oath to help."
+  },
+  {
+    "word": "Objection",
+    "pos": "noun",
+    "definition": "Disagreeing and having a differing opinion.",
+    "synonyms": [
+      "protest",
+      "complaint",
+      "concern",
+      "opposition"
+    ],
+    "antonyms": [
+      "approval",
+      "agreement",
+      "support",
+      "acceptance"
+    ],
+    "sentence": "She raised an objection during the meeting."
+  },
+  {
+    "word": "Oblique",
+    "pos": "adjective",
+    "definition": "On a slant or angle.",
+    "synonyms": [
+      "slanting",
+      "indirect",
+      "sideways",
+      "angled"
+    ],
+    "antonyms": [
+      "direct",
+      "straight",
+      "clear",
+      "upright"
+    ],
+    "sentence": "He gave an oblique glance away."
+  },
+  {
+    "word": "Obtuse",
+    "pos": "adjective",
+    "definition": "Not sharp or alert with understanding.",
+    "synonyms": [
+      "slow",
+      "dull",
+      "blunt",
+      "unaware"
+    ],
+    "antonyms": [
+      "sharp",
+      "clever",
+      "quick",
+      "smart"
+    ],
+    "sentence": "The obtuse answer missed the point."
+  },
+  {
+    "word": "Obviate",
+    "pos": "verb",
+    "definition": "To predict a challenge and remove it in advance.",
+    "synonyms": [
+      "prevent",
+      "avoid",
+      "remove",
+      "stop"
+    ],
+    "antonyms": [
+      "cause",
+      "create",
+      "allow",
+      "invite"
+    ],
+    "sentence": "Good planning can obviate many problems."
+  },
+  {
+    "word": "Oppress",
+    "pos": "verb",
+    "definition": "Burdening a person or group of people and making them feel uncomfortable.",
+    "synonyms": [
+      "bully",
+      "crush",
+      "burden",
+      "mistreat"
+    ],
+    "antonyms": [
+      "free",
+      "help",
+      "comfort",
+      "support"
+    ],
+    "sentence": "No one should oppress weaker people."
+  },
+  {
+    "word": "Ostentatious",
+    "pos": "adjective",
+    "definition": "Seeking to impress people with your wealth and using this to attract attention.",
+    "synonyms": [
+      "showy",
+      "flashy",
+      "boastful",
+      "fancy"
+    ],
+    "antonyms": [
+      "modest",
+      "plain",
+      "simple",
+      "humble"
+    ],
+    "sentence": "His ostentatious coat sparkled in sunlight."
+  },
+  {
+    "word": "Overt",
+    "pos": "adjective",
+    "definition": "Obvious and not concealed away.",
+    "synonyms": [
+      "open",
+      "clear",
+      "plain",
+      "obvious"
+    ],
+    "antonyms": [
+      "hidden",
+      "secret",
+      "unclear",
+      "covert"
+    ],
+    "sentence": "Her overt smile showed real joy."
+  },
+  {
+    "word": "Palpable",
+    "pos": "adjective",
+    "definition": "Something right in front of you that can be perceived.",
+    "synonyms": [
+      "clear",
+      "noticeable",
+      "strong",
+      "obvious"
+    ],
+    "antonyms": [
+      "faint",
+      "hidden",
+      "unclear",
+      "doubtful"
+    ],
+    "sentence": "The excitement was palpable in the hall."
+  },
+  {
+    "word": "Palpitate",
+    "pos": "verb",
+    "definition": "Heartbeat that is not regular. Faster than usual and usually due to excitement or nerves.",
+    "synonyms": [
+      "throb",
+      "pound",
+      "flutter",
+      "beat"
+    ],
+    "antonyms": [
+      "steady",
+      "calm",
+      "rest",
+      "slow"
+    ],
+    "sentence": "My heart can palpitate before a test."
+  },
+  {
+    "word": "Pandemonium",
+    "pos": "noun",
+    "definition": "Noisy situation with no order.",
+    "synonyms": [
+      "chaos",
+      "uproar",
+      "madness",
+      "mayhem"
+    ],
+    "antonyms": [
+      "calm",
+      "peace",
+      "order",
+      "quiet"
+    ],
+    "sentence": "Pandemonium broke out after the whistle."
+  },
+  {
+    "word": "Pander",
+    "pos": "verb",
+    "definition": "To act sensitively towards someone and give them what they want.",
+    "synonyms": [
+      "please",
+      "flatter",
+      "cater",
+      "indulge"
+    ],
+    "antonyms": [
+      "challenge",
+      "refuse",
+      "deny",
+      "oppose"
+    ],
+    "sentence": "Good teachers should not pander to whining."
+  },
+  {
+    "word": "Paradox",
+    "pos": "noun",
+    "definition": "Something that seems true but cannot be possible.",
+    "synonyms": [
+      "puzzle",
+      "contradiction",
+      "mystery",
+      "riddle"
+    ],
+    "antonyms": [
+      "answer",
+      "certainty",
+      "clarity",
+      "truth"
+    ],
+    "sentence": "The sentence sounded like a paradox."
+  },
+  {
+    "word": "Parallel",
+    "pos": "adjective",
+    "definition": "Two things running alongside each other staying the same distance apart.",
+    "synonyms": [
+      "matching",
+      "similar",
+      "side-by-side",
+      "alike"
+    ],
+    "antonyms": [
+      "different",
+      "crossing",
+      "opposite",
+      "uneven"
+    ],
+    "sentence": "The two lines are parallel."
+  },
+  {
+    "word": "Paraphrase",
+    "pos": "verb",
+    "definition": "Reword something using less words or in your own words.",
+    "synonyms": [
+      "reword",
+      "restate",
+      "explain",
+      "retell"
+    ],
+    "antonyms": [
+      "quote",
+      "copy",
+      "repeat",
+      "mimic"
+    ],
+    "sentence": "Please paraphrase the passage in class."
+  },
+  {
+    "word": "Parody",
+    "pos": "noun",
+    "definition": "A humorous style of work.",
+    "synonyms": [
+      "spoof",
+      "imitation",
+      "joke",
+      "send-up"
+    ],
+    "antonyms": [
+      "tribute",
+      "praise",
+      "original",
+      "seriousness"
+    ],
+    "sentence": "The play was a funny parody."
+  },
+  {
+    "word": "Parsimonious",
+    "pos": "adjective",
+    "definition": "Strict with money - unwilling to spend a large amount.",
+    "synonyms": [
+      "stingy",
+      "mean",
+      "cheap",
+      "thrifty"
+    ],
+    "antonyms": [
+      "generous",
+      "giving",
+      "lavish",
+      "open-handed"
+    ],
+    "sentence": "The parsimonious man counted every coin."
+  },
+  {
+    "word": "Peculiar",
+    "pos": "adjective",
+    "definition": "Different to the norm and can be seen as strange.",
+    "synonyms": [
+      "strange",
+      "odd",
+      "unusual",
+      "weird"
+    ],
+    "antonyms": [
+      "normal",
+      "ordinary",
+      "usual",
+      "common"
+    ],
+    "sentence": "That peculiar sound came from the attic."
+  },
+  {
+    "word": "Pensive",
+    "pos": "adjective",
+    "definition": "Thinking deeply and carefully about something.",
+    "synonyms": [
+      "thoughtful",
+      "quiet",
+      "reflective",
+      "serious"
+    ],
+    "antonyms": [
+      "carefree",
+      "cheerful",
+      "lively",
+      "thoughtless"
+    ],
+    "sentence": "She looked pensive by the pond."
+  },
+  {
+    "word": "Perambulate",
+    "pos": "verb",
+    "definition": "To walk leisurely with no rush and no destination.",
+    "synonyms": [
+      "walk",
+      "stroll",
+      "wander",
+      "roam"
+    ],
+    "antonyms": [
+      "run",
+      "rush",
+      "race",
+      "sprint"
+    ],
+    "sentence": "We perambulate around the park daily."
+  },
+  {
+    "word": "Perjury",
+    "pos": "noun",
+    "definition": "To lie when giving a testimony under oath in court.",
+    "synonyms": [
+      "lying",
+      "falsehood",
+      "dishonesty",
+      "deceit"
+    ],
+    "antonyms": [
+      "truth",
+      "honesty",
+      "openness",
+      "sincerity"
+    ],
+    "sentence": "Perjury can get a witness punished."
+  },
+  {
+    "word": "Perplexed",
+    "pos": "adjective",
+    "definition": "Completely confused and puzzled by something.",
+    "synonyms": [
+      "confused",
+      "puzzled",
+      "baffled",
+      "unsure"
+    ],
+    "antonyms": [
+      "clear",
+      "certain",
+      "confident",
+      "sure"
+    ],
+    "sentence": "I felt perplexed by the tricky riddle."
+  },
+  {
+    "word": "Persona",
+    "pos": "noun",
+    "definition": "The way someone is perceived based on how they present themselves. This is usually different from their true character.",
+    "synonyms": [
+      "character",
+      "image",
+      "identity",
+      "role"
+    ],
+    "antonyms": [
+      "self",
+      "reality",
+      "truth",
+      "honesty"
+    ],
+    "sentence": "His stage persona was loud and funny."
+  },
+  {
+    "word": "Pestilence",
+    "pos": "noun",
+    "definition": "A serious sickness that spreads quickly and makes many people ill.",
+    "synonyms": [
+      "plague",
+      "disease",
+      "sickness",
+      "illness"
+    ],
+    "antonyms": [
+      "health",
+      "wellness",
+      "fitness",
+      "strength"
+    ],
+    "sentence": "Stories told of pestilence in old towns."
+  },
+  {
+    "word": "Petty",
+    "pos": "adjective",
+    "definition": "Something of little significance and isn't very important.",
+    "synonyms": [
+      "small-minded",
+      "mean",
+      "trivial",
+      "selfish"
+    ],
+    "antonyms": [
+      "generous",
+      "kind",
+      "noble",
+      "important"
+    ],
+    "sentence": "Their petty argument wasted the afternoon."
+  },
+  {
+    "word": "Petulant",
+    "pos": "adjective",
+    "definition": "Acting in a childish way and being irritated by something.",
+    "synonyms": [
+      "sulky",
+      "grumpy",
+      "moody",
+      "cross"
+    ],
+    "antonyms": [
+      "cheerful",
+      "calm",
+      "pleasant",
+      "patient"
+    ],
+    "sentence": "The petulant child stomped away angrily."
+  },
+  {
+    "word": "Picturesque",
+    "pos": "adjective",
+    "definition": "Beautiful to look at and looks like art.",
+    "synonyms": [
+      "pretty",
+      "lovely",
+      "scenic",
+      "charming"
+    ],
+    "antonyms": [
+      "ugly",
+      "plain",
+      "dull",
+      "drab"
+    ],
+    "sentence": "We painted the picturesque village by hand."
+  },
+  {
+    "word": "Pioneer",
+    "pos": "noun",
+    "definition": "One of the first people to do something.",
+    "synonyms": [
+      "explorer",
+      "founder",
+      "leader",
+      "trailblazer"
+    ],
+    "antonyms": [
+      "follower",
+      "imitator",
+      "learner",
+      "copycat"
+    ],
+    "sentence": "The pioneer built homes on new land."
+  },
+  {
+    "word": "Pivotal",
+    "pos": "adjective",
+    "definition": "An important and critical part of something that determines the outcome.",
+    "synonyms": [
+      "crucial",
+      "vital",
+      "key",
+      "important"
+    ],
+    "antonyms": [
+      "minor",
+      "trivial",
+      "unimportant",
+      "slight"
+    ],
+    "sentence": "Her speech was pivotal to the plan."
+  },
+  {
+    "word": "Placid",
+    "pos": "adjective",
+    "definition": "Very calm and laid back.",
+    "synonyms": [
+      "calm",
+      "peaceful",
+      "quiet",
+      "gentle"
+    ],
+    "antonyms": [
+      "angry",
+      "rough",
+      "wild",
+      "stormy"
+    ],
+    "sentence": "The lake looked placid at sunrise."
+  },
+  {
+    "word": "Platitude",
+    "pos": "noun",
+    "definition": "Not very exciting and happens a lot.",
+    "synonyms": [
+      "cliche",
+      "truism",
+      "saying",
+      "banality"
+    ],
+    "antonyms": [
+      "originality",
+      "insight",
+      "novelty",
+      "wisdom"
+    ],
+    "sentence": "His speech was full of tired platitudes."
+  },
+  {
+    "word": "Pleasing",
+    "pos": "adjective",
+    "definition": "Something agreeable that has an enjoyable outcome.",
+    "synonyms": [
+      "nice",
+      "lovely",
+      "attractive",
+      "delightful"
+    ],
+    "antonyms": [
+      "unpleasant",
+      "ugly",
+      "nasty",
+      "displeasing"
+    ],
+    "sentence": "The garden had a pleasing smell."
+  },
+  {
+    "word": "Pledge",
+    "pos": "noun",
+    "definition": "A promise of something.",
+    "synonyms": [
+      "promise",
+      "vow",
+      "oath",
+      "assurance"
+    ],
+    "antonyms": [
+      "refusal",
+      "lie",
+      "denial",
+      "betrayal"
+    ],
+    "sentence": "She made a pledge to help."
+  },
+  {
+    "word": "Plight",
+    "pos": "noun",
+    "definition": "A bad situation that is often unpleasant and can be dangerous.",
+    "synonyms": [
+      "trouble",
+      "difficulty",
+      "hardship",
+      "problem"
+    ],
+    "antonyms": [
+      "comfort",
+      "ease",
+      "advantage",
+      "blessing"
+    ],
+    "sentence": "We learnt about the farmer's plight."
+  },
+  {
+    "word": "Plunge",
+    "pos": "verb",
+    "definition": "To move something quickly and forcibly into something else.",
+    "synonyms": [
+      "dive",
+      "drop",
+      "fall",
+      "sink"
+    ],
+    "antonyms": [
+      "rise",
+      "climb",
+      "soar",
+      "lift"
+    ],
+    "sentence": "The bird will plunge into water."
+  },
+  {
+    "word": "Pragmatic",
+    "pos": "adjective",
+    "definition": "A sensible solution acting reasonably and logically.",
+    "synonyms": [
+      "sensible",
+      "practical",
+      "realistic",
+      "wise"
+    ],
+    "antonyms": [
+      "idealistic",
+      "foolish",
+      "dreamy",
+      "impractical"
+    ],
+    "sentence": "She made a pragmatic choice quickly."
+  },
+  {
+    "word": "Preposterous",
+    "pos": "adjective",
+    "definition": "Shocking news or behaviour that seems completely unreasonable.",
+    "synonyms": [
+      "ridiculous",
+      "silly",
+      "absurd",
+      "foolish"
+    ],
+    "antonyms": [
+      "sensible",
+      "reasonable",
+      "believable",
+      "wise"
+    ],
+    "sentence": "That excuse sounds preposterous to everyone."
+  },
+  {
+    "word": "Pompous",
+    "pos": "adjective",
+    "definition": "Displaying self-importance and having an elevated view of yourself over others.",
+    "synonyms": [
+      "proud",
+      "boastful",
+      "snobbish",
+      "self-important"
+    ],
+    "antonyms": [
+      "humble",
+      "modest",
+      "simple",
+      "down-to-earth"
+    ],
+    "sentence": "The pompous speaker bragged for hours."
+  },
+  {
+    "word": "Ponder",
+    "pos": "verb",
+    "definition": "To think about something and consider it carefully.",
+    "synonyms": [
+      "think",
+      "consider",
+      "reflect",
+      "wonder"
+    ],
+    "antonyms": [
+      "ignore",
+      "dismiss",
+      "neglect",
+      "forget"
+    ],
+    "sentence": "I like to ponder tricky questions."
+  },
+  {
+    "word": "Porous",
+    "pos": "adjective",
+    "definition": "Has lots of small holes that liquids and gases can pass through.",
+    "synonyms": [
+      "spongy",
+      "absorbent",
+      "holey",
+      "permeable"
+    ],
+    "antonyms": [
+      "solid",
+      "sealed",
+      "dense",
+      "waterproof"
+    ],
+    "sentence": "Porous rock soaks up rainwater fast."
+  },
+  {
+    "word": "Posit",
+    "pos": "verb",
+    "definition": "To present information as a fact or something that is assumed to be true.",
+    "synonyms": [
+      "suggest",
+      "propose",
+      "state",
+      "suppose"
+    ],
+    "antonyms": [
+      "deny",
+      "reject",
+      "oppose",
+      "dismiss"
+    ],
+    "sentence": "Scientists posit ideas and test them."
+  },
+  {
+    "word": "Practical",
+    "pos": "adjective",
+    "definition": "Behaving in a sensible way after thinking things through practically.",
+    "synonyms": [
+      "useful",
+      "sensible",
+      "realistic",
+      "handy"
+    ],
+    "antonyms": [
+      "useless",
+      "foolish",
+      "impractical",
+      "unrealistic"
+    ],
+    "sentence": "Her practical shoes were good for hiking."
+  },
+  {
+    "word": "Prattle",
+    "pos": "verb",
+    "definition": "To talk for a long time in a childish way makes little sense.",
+    "synonyms": [
+      "chatter",
+      "babble",
+      "natter",
+      "ramble"
+    ],
+    "antonyms": [
+      "be quiet",
+      "hush",
+      "listen",
+      "stop"
+    ],
+    "sentence": "The toddlers prattle during snack time."
+  },
+  {
+    "word": "Precocious",
+    "pos": "adjective",
+    "definition": "Being ahead of others for your age group developmentally.",
+    "synonyms": [
+      "advanced",
+      "clever",
+      "bright",
+      "mature"
+    ],
+    "antonyms": [
+      "slow",
+      "childish",
+      "immature",
+      "ordinary"
+    ],
+    "sentence": "The precocious girl read long books."
+  },
+  {
+    "word": "Predator",
+    "pos": "noun",
+    "definition": "An animal that kills and eats other animals for survival.",
+    "synonyms": [
+      "hunter",
+      "beast",
+      "attacker",
+      "carnivore"
+    ],
+    "antonyms": [
+      "prey",
+      "victim",
+      "herbivore",
+      "target"
+    ],
+    "sentence": "The predator stalked quietly through grass."
+  },
+  {
+    "word": "Prejudice",
+    "pos": "noun",
+    "definition": "Having an opinion that might not be true without gaining all of the facts.",
+    "synonyms": [
+      "bias",
+      "unfairness",
+      "discrimination",
+      "intolerance"
+    ],
+    "antonyms": [
+      "fairness",
+      "respect",
+      "openness",
+      "tolerance"
+    ],
+    "sentence": "Prejudice can hurt people deeply."
+  },
+  {
+    "word": "Presumptuous",
+    "pos": "adjective",
+    "definition": "Showing little respect by overstepping boundaries that have been set.",
+    "synonyms": [
+      "bold",
+      "rude",
+      "overconfident",
+      "forward"
+    ],
+    "antonyms": [
+      "humble",
+      "modest",
+      "respectful",
+      "shy"
+    ],
+    "sentence": "It was presumptuous to answer for her."
+  },
+  {
+    "word": "Pretence",
+    "pos": "noun",
+    "definition": "A claim or false appearance to make people believe something.",
+    "synonyms": [
+      "act",
+      "show",
+      "disguise",
+      "deception"
+    ],
+    "antonyms": [
+      "honesty",
+      "truth",
+      "openness",
+      "sincerity"
+    ],
+    "sentence": "His smile was only a pretence."
+  },
+  {
+    "word": "Procure",
+    "pos": "verb",
+    "definition": "To get or obtain something from someone else.",
+    "synonyms": [
+      "get",
+      "obtain",
+      "find",
+      "acquire"
+    ],
+    "antonyms": [
+      "lose",
+      "give",
+      "forfeit",
+      "surrender"
+    ],
+    "sentence": "We can procure wood for the project."
+  },
+  {
+    "word": "Profess",
+    "pos": "verb",
+    "definition": "To declare something as true.",
+    "synonyms": [
+      "declare",
+      "claim",
+      "admit",
+      "state"
+    ],
+    "antonyms": [
+      "deny",
+      "hide",
+      "reject",
+      "conceal"
+    ],
+    "sentence": "He would profess loyalty to the team."
+  },
+  {
+    "word": "Profit",
+    "pos": "noun",
+    "definition": "Money that is left over from a business after all the money you spent or been deducted.",
+    "synonyms": [
+      "gain",
+      "earnings",
+      "return",
+      "benefit"
+    ],
+    "antonyms": [
+      "loss",
+      "debt",
+      "deficit",
+      "waste"
+    ],
+    "sentence": "The shop made a small profit."
+  },
+  {
+    "word": "Proportion",
+    "pos": "noun",
+    "definition": "The amount of something in comparison to the whole.",
+    "synonyms": [
+      "ratio",
+      "share",
+      "amount",
+      "part"
+    ],
+    "antonyms": [
+      "whole",
+      "total",
+      "all",
+      "entirety"
+    ],
+    "sentence": "Only a small proportion joined the club."
+  },
+  {
+    "word": "Proverb",
+    "pos": "noun",
+    "definition": "A short sentence or couple of sentences that share a story of advice.",
+    "synonyms": [
+      "saying",
+      "motto",
+      "maxim",
+      "adage"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "My grandma shared a wise proverb."
+  },
+  {
+    "word": "Provoke",
+    "pos": "verb",
+    "definition": "To cause someone to behave in an angry way.",
+    "synonyms": [
+      "annoy",
+      "upset",
+      "stir",
+      "irritate"
+    ],
+    "antonyms": [
+      "calm",
+      "soothe",
+      "comfort",
+      "please"
+    ],
+    "sentence": "Do not provoke the sleeping dog."
+  },
+  {
+    "word": "Prudent",
+    "pos": "adjective",
+    "definition": "Acting carefully and thoughtfully.",
+    "synonyms": [
+      "careful",
+      "wise",
+      "sensible",
+      "cautious"
+    ],
+    "antonyms": [
+      "careless",
+      "foolish",
+      "reckless",
+      "rash"
+    ],
+    "sentence": "It was prudent to save money."
+  },
+  {
+    "word": "Public",
+    "pos": "adjective",
+    "definition": "Not private and can be accessed by anyone.",
+    "synonyms": [
+      "open",
+      "shared",
+      "common",
+      "communal"
+    ],
+    "antonyms": [
+      "private",
+      "secret",
+      "hidden",
+      "personal"
+    ],
+    "sentence": "The park is open to public use."
+  },
+  {
+    "word": "Puncture",
+    "pos": "verb",
+    "definition": "A small hole in something made by something sharp.",
+    "synonyms": [
+      "pierce",
+      "prick",
+      "burst",
+      "stab"
+    ],
+    "antonyms": [
+      "repair",
+      "seal",
+      "mend",
+      "patch"
+    ],
+    "sentence": "A thorn can puncture a bicycle tyre."
+  },
+  {
+    "word": "Quintessential",
+    "pos": "adjective",
+    "definition": "A normal and regular example of something.",
+    "synonyms": [
+      "perfect",
+      "classic",
+      "typical",
+      "ideal"
+    ],
+    "antonyms": [
+      "unusual",
+      "strange",
+      "odd",
+      "atypical"
+    ],
+    "sentence": "Tea feels quintessentially British to me."
+  },
+  {
+    "word": "Quiver",
+    "pos": "verb",
+    "definition": "To shake due to emotions.",
+    "synonyms": [
+      "tremble",
+      "shake",
+      "shiver",
+      "quake"
+    ],
+    "antonyms": [
+      "steady",
+      "calm",
+      "still",
+      "settle"
+    ],
+    "sentence": "The puppy began to quiver with fear."
+  },
+  {
+    "word": "Ramble",
+    "pos": "verb",
+    "definition": "A gentle walk for pleasure - often walking around aimlessly.",
+    "synonyms": [
+      "wander",
+      "roam",
+      "stroll",
+      "meander"
+    ],
+    "antonyms": [
+      "stay",
+      "settle",
+      "stop",
+      "remain"
+    ],
+    "sentence": "We ramble through woods on Sundays."
+  },
+  {
+    "word": "Ramification",
+    "pos": "noun",
+    "definition": "The result of an event and the actions you might have to take due to this.",
+    "synonyms": [
+      "result",
+      "effect",
+      "outcome",
+      "consequence"
+    ],
+    "antonyms": [
+      "cause",
+      "reason",
+      "source",
+      "origin"
+    ],
+    "sentence": "Every choice has a ramification later."
+  },
+  {
+    "word": "Ransack",
+    "pos": "verb",
+    "definition": "Searching through a place roughly and leaving it very messy.",
+    "synonyms": [
+      "search",
+      "loot",
+      "plunder",
+      "raid"
+    ],
+    "antonyms": [
+      "protect",
+      "guard",
+      "organise",
+      "preserve"
+    ],
+    "sentence": "Thieves tried to ransack the old house."
+  },
+  {
+    "word": "Rare",
+    "pos": "adjective",
+    "definition": "Something that is uncommon and does not happen or appear often.",
+    "synonyms": [
+      "uncommon",
+      "unusual",
+      "scarce",
+      "infrequent"
+    ],
+    "antonyms": [
+      "common",
+      "usual",
+      "frequent",
+      "ordinary"
+    ],
+    "sentence": "A rare bird landed near us."
+  },
+  {
+    "word": "Ratify",
+    "pos": "verb",
+    "definition": "Signing something to agree with the terms set out.",
+    "synonyms": [
+      "approve",
+      "confirm",
+      "accept",
+      "endorse"
+    ],
+    "antonyms": [
+      "reject",
+      "cancel",
+      "deny",
+      "refuse"
+    ],
+    "sentence": "Leaders met to ratify the agreement."
+  },
+  {
+    "word": "Ravenous",
+    "pos": "adjective",
+    "definition": "Very hungry and needing to eat soon.",
+    "synonyms": [
+      "hungry",
+      "starving",
+      "famished",
+      "greedy"
+    ],
+    "antonyms": [
+      "full",
+      "satisfied",
+      "content",
+      "stuffed"
+    ],
+    "sentence": "After football, I felt ravenous."
+  },
+  {
+    "word": "Recite",
+    "pos": "verb",
+    "definition": "Speak something out loud from memory without using any notes.",
+    "synonyms": [
+      "repeat",
+      "say",
+      "read",
+      "declaim"
+    ],
+    "antonyms": [
+      "listen",
+      "ignore",
+      "forget",
+      "withhold"
+    ],
+    "sentence": "She can recite the poem clearly."
+  },
+  {
+    "word": "Reel",
+    "pos": "verb",
+    "definition": "A cylinder shape that is used for storing string.",
+    "synonyms": [
+      "stagger",
+      "wobble",
+      "sway",
+      "spin"
+    ],
+    "antonyms": [
+      "steady",
+      "balance",
+      "stabilise",
+      "stand"
+    ],
+    "sentence": "He began to reel after spinning."
+  },
+  {
+    "word": "Refuse",
+    "pos": "verb",
+    "definition": "Denying and being unwilling to accept or participate in something.",
+    "synonyms": [
+      "decline",
+      "reject",
+      "deny",
+      "turn down"
+    ],
+    "antonyms": [
+      "accept",
+      "allow",
+      "agree",
+      "take"
+    ],
+    "sentence": "I refuse to cheat in tests."
+  },
+  {
+    "word": "Regurgitate",
+    "pos": "verb",
+    "definition": "To repeat information that has been given to you.",
+    "synonyms": [
+      "bring up",
+      "vomit",
+      "repeat",
+      "spit out"
+    ],
+    "antonyms": [
+      "digest",
+      "keep down",
+      "swallow",
+      "absorb"
+    ],
+    "sentence": "Some birds regurgitate food for chicks."
+  },
+  {
+    "word": "Relish",
+    "pos": "verb",
+    "definition": "To love doing something and enjoy the experience.",
+    "synonyms": [
+      "enjoy",
+      "savour",
+      "love",
+      "appreciate"
+    ],
+    "antonyms": [
+      "dislike",
+      "hate",
+      "dread",
+      "avoid"
+    ],
+    "sentence": "I relish reading by the window."
+  },
+  {
+    "word": "Remnant",
+    "pos": "noun",
+    "definition": "A small part of something that is left over and unused.",
+    "synonyms": [
+      "leftover",
+      "remainder",
+      "piece",
+      "fragment"
+    ],
+    "antonyms": [
+      "whole",
+      "total",
+      "entirety",
+      "lot"
+    ],
+    "sentence": "A remnant of cake stayed behind."
+  },
+  {
+    "word": "Repel",
+    "pos": "verb",
+    "definition": "To reject something and forcefully back away from it.",
+    "synonyms": [
+      "drive away",
+      "push back",
+      "disgust",
+      "ward off"
+    ],
+    "antonyms": [
+      "attract",
+      "welcome",
+      "invite",
+      "draw"
+    ],
+    "sentence": "Strong smells can repel some insects."
+  },
+  {
+    "word": "Repent",
+    "pos": "verb",
+    "definition": "To be sorry and apologetic about something you have done.",
+    "synonyms": [
+      "regret",
+      "apologise",
+      "atone",
+      "reform"
+    ],
+    "antonyms": [
+      "persist",
+      "continue",
+      "defend",
+      "repeat"
+    ],
+    "sentence": "He chose to repent and change."
+  },
+  {
+    "word": "Reproach",
+    "pos": "verb",
+    "definition": "Disappointed in someone and blame them for a negative outcome.",
+    "synonyms": [
+      "scold",
+      "blame",
+      "criticise",
+      "rebuke"
+    ],
+    "antonyms": [
+      "praise",
+      "forgive",
+      "excuse",
+      "applaud"
+    ],
+    "sentence": "Mum may reproach me for lying."
+  },
+  {
+    "word": "Rhyme",
+    "pos": "noun",
+    "definition": "Words that sound similar due to their ending sounds.",
+    "synonyms": [
+      "verse",
+      "poem",
+      "jingle",
+      "chant"
+    ],
+    "antonyms": [
+      "prose",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "We wrote a rhyme about spring."
+  },
+  {
+    "word": "Rigmarole",
+    "pos": "noun",
+    "definition": "A long and drawn out process that is complicated to complete.",
+    "synonyms": [
+      "fuss",
+      "bother",
+      "nonsense",
+      "commotion"
+    ],
+    "antonyms": [
+      "simplicity",
+      "ease",
+      "order",
+      "clarity"
+    ],
+    "sentence": "The form-filling was a silly rigmarole."
+  },
+  {
+    "word": "Roam",
+    "pos": "verb",
+    "definition": "To aimlessly wander from place to place.",
+    "synonyms": [
+      "wander",
+      "travel",
+      "stray",
+      "explore"
+    ],
+    "antonyms": [
+      "stay",
+      "settle",
+      "remain",
+      "rest"
+    ],
+    "sentence": "Cows roam across the green field."
+  },
+  {
+    "word": "Rogue",
+    "pos": "noun",
+    "definition": "Dishonest and unpredictable.",
+    "synonyms": [
+      "trickster",
+      "rascal",
+      "villain",
+      "scoundrel"
+    ],
+    "antonyms": [
+      "hero",
+      "helper",
+      "friend",
+      "saint"
+    ],
+    "sentence": "The rogue stole pies from windowsills."
+  },
+  {
+    "word": "Rowdy",
+    "pos": "adjective",
+    "definition": "A loud and boisterous environment or person.",
+    "synonyms": [
+      "noisy",
+      "wild",
+      "boisterous",
+      "unruly"
+    ],
+    "antonyms": [
+      "calm",
+      "quiet",
+      "gentle",
+      "orderly"
+    ],
+    "sentence": "The rowdy crowd shouted all afternoon."
+  },
+  {
+    "word": "Rubric",
+    "pos": "noun",
+    "definition": "Instructions that are given about how something should be done.",
+    "synonyms": [
+      "rule",
+      "guideline",
+      "instruction",
+      "heading"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "The rubric explained how marks were given."
+  },
+  {
+    "word": "Rural",
+    "pos": "adjective",
+    "definition": "An area away from built up areas like the city and more of a countryside environment.",
+    "synonyms": [
+      "country",
+      "farming",
+      "rustic",
+      "village"
+    ],
+    "antonyms": [
+      "urban",
+      "city",
+      "town",
+      "metropolitan"
+    ],
+    "sentence": "They moved to a rural village."
+  },
+  {
+    "word": "Sacred",
+    "pos": "adjective",
+    "definition": "A holy object that should be respected.",
+    "synonyms": [
+      "holy",
+      "blessed",
+      "hallowed",
+      "treasured"
+    ],
+    "antonyms": [
+      "ordinary",
+      "unholy",
+      "profane",
+      "worthless"
+    ],
+    "sentence": "The temple held a sacred statue."
+  },
+  {
+    "word": "Sacrifice",
+    "pos": "verb",
+    "definition": "To give something up for something else.",
+    "synonyms": [
+      "give up",
+      "surrender",
+      "forgo",
+      "offer"
+    ],
+    "antonyms": [
+      "keep",
+      "save",
+      "protect",
+      "preserve"
+    ],
+    "sentence": "She would sacrifice time to help."
+  },
+  {
+    "word": "Sane",
+    "pos": "adjective",
+    "definition": "Sensible and of a healthy mind.",
+    "synonyms": [
+      "sensible",
+      "rational",
+      "balanced",
+      "sound"
+    ],
+    "antonyms": [
+      "crazy",
+      "foolish",
+      "unstable",
+      "irrational"
+    ],
+    "sentence": "We made a sane choice together."
+  },
+  {
+    "word": "Sarcasm",
+    "pos": "noun",
+    "definition": "Using words in a humorous way to mock something.",
+    "synonyms": [
+      "mockery",
+      "irony",
+      "sneer",
+      "taunt"
+    ],
+    "antonyms": [
+      "sincerity",
+      "praise",
+      "kindness",
+      "honesty"
+    ],
+    "sentence": "His sarcasm made the room awkward."
+  },
+  {
+    "word": "Sarcastic",
+    "pos": "adjective",
+    "definition": "Mocking someone by using words in a humorous way to mean the opposite of what you are saying.",
+    "synonyms": [
+      "mocking",
+      "ironic",
+      "snide",
+      "cutting"
+    ],
+    "antonyms": [
+      "sincere",
+      "kind",
+      "warm",
+      "genuine"
+    ],
+    "sentence": "Her sarcastic tone hurt his feelings."
+  },
+  {
+    "word": "Scenic",
+    "pos": "adjective",
+    "definition": "Beautiful to look at and often natural.",
+    "synonyms": [
+      "beautiful",
+      "picturesque",
+      "lovely",
+      "attractive"
+    ],
+    "antonyms": [
+      "ugly",
+      "plain",
+      "dull",
+      "drab"
+    ],
+    "sentence": "We took the scenic route home."
+  },
+  {
+    "word": "Score",
+    "pos": "verb",
+    "definition": "To earn a point in a game or competition against another person or team.",
+    "synonyms": [
+      "gain",
+      "earn",
+      "tally",
+      "get"
+    ],
+    "antonyms": [
+      "lose",
+      "miss",
+      "fail",
+      "forfeit"
+    ],
+    "sentence": "Our team scored twice before lunch."
+  },
+  {
+    "word": "Seize",
+    "pos": "verb",
+    "definition": "Take an opportunity either forcibly or with excitement.",
+    "synonyms": [
+      "grab",
+      "snatch",
+      "grasp",
+      "capture"
+    ],
+    "antonyms": [
+      "release",
+      "drop",
+      "free",
+      "lose"
+    ],
+    "sentence": "The eagle tried to seize the fish."
+  },
+  {
+    "word": "Self-effacing",
+    "pos": "adjective",
+    "definition": "Not drawing attention to yourself and acting modestly.",
+    "synonyms": [
+      "modest",
+      "humble",
+      "shy",
+      "unassuming"
+    ],
+    "antonyms": [
+      "boastful",
+      "proud",
+      "vain",
+      "pompous"
+    ],
+    "sentence": "The self-effacing winner thanked her team."
+  },
+  {
+    "word": "Semantics",
+    "pos": "noun",
+    "definition": "Understanding the meaning of something.",
+    "synonyms": [
+      "meaning",
+      "definition",
+      "sense",
+      "wording"
+    ],
+    "antonyms": [
+      "nonsense",
+      "gibberish",
+      "confusion",
+      "vagueness"
+    ],
+    "sentence": "They argued about semantics, not ideas."
+  },
+  {
+    "word": "Seraph",
+    "pos": "noun",
+    "definition": "An angel held in high regard.",
+    "synonyms": [
+      "angel",
+      "spirit",
+      "cherub",
+      "heavenly being"
+    ],
+    "antonyms": [
+      "villain",
+      "wrongdoer",
+      "troublemaker",
+      "none"
+    ],
+    "sentence": "The painting showed a bright seraph."
+  },
+  {
+    "word": "Serenity",
+    "pos": "noun",
+    "definition": "Being calm and peaceful without stress or worry.",
+    "synonyms": [
+      "calm",
+      "peace",
+      "stillness",
+      "quiet"
+    ],
+    "antonyms": [
+      "chaos",
+      "noise",
+      "stress",
+      "turmoil"
+    ],
+    "sentence": "The garden filled us with serenity."
+  },
+  {
+    "word": "Sermon",
+    "pos": "noun",
+    "definition": "A religious speech often with sections of the Bible.",
+    "synonyms": [
+      "speech",
+      "lesson",
+      "lecture",
+      "talk"
+    ],
+    "antonyms": [
+      "silence",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "The sermon taught kindness and patience."
+  },
+  {
+    "word": "Shambolic",
+    "pos": "adjective",
+    "definition": "Disorganised and disastrous.",
+    "synonyms": [
+      "messy",
+      "chaotic",
+      "untidy",
+      "disorganised"
+    ],
+    "antonyms": [
+      "orderly",
+      "neat",
+      "tidy",
+      "organised"
+    ],
+    "sentence": "Our first rehearsal was totally shambolic."
+  },
+  {
+    "word": "Shenanigans",
+    "pos": "noun",
+    "definition": "Mischievous behaviour often to deceive someone.",
+    "synonyms": [
+      "mischief",
+      "tricks",
+      "pranks",
+      "nonsense"
+    ],
+    "antonyms": [
+      "good behaviour",
+      "honesty",
+      "order",
+      "sense"
+    ],
+    "sentence": "Their playground shenanigans made us laugh."
+  },
+  {
+    "word": "Shrine",
+    "pos": "noun",
+    "definition": "A place devoted to someone who is respected.",
+    "synonyms": [
+      "temple",
+      "altar",
+      "sanctuary",
+      "holy place"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "We visited a quiet mountain shrine."
+  },
+  {
+    "word": "Shrink",
+    "pos": "verb",
+    "definition": "To get smaller in size.",
+    "synonyms": [
+      "contract",
+      "reduce",
+      "lessen",
+      "decrease"
+    ],
+    "antonyms": [
+      "grow",
+      "expand",
+      "enlarge",
+      "increase"
+    ],
+    "sentence": "Wool jumpers can shrink in hot water."
+  },
+  {
+    "word": "Significant",
+    "pos": "adjective",
+    "definition": "Something that is important and noticeable to others.",
+    "synonyms": [
+      "important",
+      "major",
+      "meaningful",
+      "notable"
+    ],
+    "antonyms": [
+      "minor",
+      "trivial",
+      "slight",
+      "unimportant"
+    ],
+    "sentence": "Winning the prize was significant to her."
+  },
+  {
+    "word": "Simile",
+    "pos": "noun",
+    "definition": "Comparing one thing to another using the words 'like' or 'as'.",
+    "synonyms": [
+      "comparison",
+      "figure of speech",
+      "expression",
+      "image"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "We learnt a simile in class today."
+  },
+  {
+    "word": "Simulacrum",
+    "pos": "noun",
+    "definition": "A reputation or something or someone with something else.",
+    "synonyms": [
+      "copy",
+      "model",
+      "image",
+      "likeness"
+    ],
+    "antonyms": [
+      "original",
+      "reality",
+      "truth",
+      "authentic thing"
+    ],
+    "sentence": "The toy castle was a simulacrum."
+  },
+  {
+    "word": "Sincere",
+    "pos": "adjective",
+    "definition": "Honest and with genuine feelings or emotion.",
+    "synonyms": [
+      "honest",
+      "genuine",
+      "heartfelt",
+      "truthful"
+    ],
+    "antonyms": [
+      "fake",
+      "dishonest",
+      "false",
+      "insincere"
+    ],
+    "sentence": "He gave a sincere apology afterwards."
+  },
+  {
+    "word": "Slacken",
+    "pos": "verb",
+    "definition": "To loosen something and make it less intense.",
+    "synonyms": [
+      "loosen",
+      "ease",
+      "slow",
+      "reduce"
+    ],
+    "antonyms": [
+      "tighten",
+      "increase",
+      "quicken",
+      "strengthen"
+    ],
+    "sentence": "Do not slacken your grip now."
+  },
+  {
+    "word": "Slander",
+    "pos": "noun",
+    "definition": "Speak negatively about someone and damage their reputation. The information given is usually untrue.",
+    "synonyms": [
+      "lie",
+      "falsehood",
+      "gossip",
+      "defamation"
+    ],
+    "antonyms": [
+      "truth",
+      "praise",
+      "honesty",
+      "fact"
+    ],
+    "sentence": "Spreading slander can deeply hurt others."
+  },
+  {
+    "word": "Slang",
+    "pos": "noun",
+    "definition": "Informal type of language that can be specific to an area or group of people.",
+    "synonyms": [
+      "informal language",
+      "sayings",
+      "jargon",
+      "lingo"
+    ],
+    "antonyms": [
+      "formal language",
+      "standard English",
+      "correctness",
+      "proper speech"
+    ],
+    "sentence": "Teenagers often invent new slang words."
+  },
+  {
+    "word": "Sleek",
+    "pos": "adjective",
+    "definition": "Something that has a smooth and good appearance.",
+    "synonyms": [
+      "smooth",
+      "shiny",
+      "glossy",
+      "neat"
+    ],
+    "antonyms": [
+      "rough",
+      "dull",
+      "messy",
+      "shaggy"
+    ],
+    "sentence": "The sleek dolphin leapt from water."
+  },
+  {
+    "word": "Sly",
+    "pos": "adjective",
+    "definition": "Acting in a cunning and deceptive manner.",
+    "synonyms": [
+      "sneaky",
+      "crafty",
+      "tricky",
+      "secretive"
+    ],
+    "antonyms": [
+      "honest",
+      "open",
+      "direct",
+      "truthful"
+    ],
+    "sentence": "The sly fox hid behind bushes."
+  },
+  {
+    "word": "Solitude",
+    "pos": "noun",
+    "definition": "Lonely and isolated with little socialisation.",
+    "synonyms": [
+      "privacy",
+      "aloneness",
+      "peace",
+      "seclusion"
+    ],
+    "antonyms": [
+      "company",
+      "crowd",
+      "togetherness",
+      "noise"
+    ],
+    "sentence": "She enjoyed solitude beside the lake."
+  },
+  {
+    "word": "Sombre",
+    "pos": "adjective",
+    "definition": "Having a deep sadness.",
+    "synonyms": [
+      "serious",
+      "gloomy",
+      "dark",
+      "sad"
+    ],
+    "antonyms": [
+      "bright",
+      "cheerful",
+      "lively",
+      "joyful"
+    ],
+    "sentence": "The sombre music made us quiet."
+  },
+  {
+    "word": "Sonnet",
+    "pos": "noun",
+    "definition": "A 14 line verse written in a particular pattern and rhythm.",
+    "synonyms": [
+      "poem",
+      "verse",
+      "lyric",
+      "rhyme"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "She wrote a sonnet about spring."
+  },
+  {
+    "word": "Sow",
+    "pos": "verb",
+    "definition": "Plant seeds to grow and produce food.",
+    "synonyms": [
+      "plant",
+      "scatter",
+      "spread",
+      "seed"
+    ],
+    "antonyms": [
+      "gather",
+      "reap",
+      "collect",
+      "harvest"
+    ],
+    "sentence": "We sow seeds in the garden."
+  },
+  {
+    "word": "Special",
+    "pos": "adjective",
+    "definition": "Not something you would see every day and has a greater purpose.",
+    "synonyms": [
+      "unique",
+      "important",
+      "rare",
+      "beloved"
+    ],
+    "antonyms": [
+      "ordinary",
+      "common",
+      "usual",
+      "plain"
+    ],
+    "sentence": "Today feels special to our class."
+  },
+  {
+    "word": "Spiteful",
+    "pos": "adjective",
+    "definition": "Acting in a nasty way to upset or hurt another person.",
+    "synonyms": [
+      "mean",
+      "nasty",
+      "cruel",
+      "hurtful"
+    ],
+    "antonyms": [
+      "kind",
+      "caring",
+      "gentle",
+      "friendly"
+    ],
+    "sentence": "His spiteful words upset the team."
+  },
+  {
+    "word": "Squabble",
+    "pos": "verb",
+    "definition": "An argument about something unimportant.",
+    "synonyms": [
+      "argue",
+      "quarrel",
+      "bicker",
+      "fight"
+    ],
+    "antonyms": [
+      "agree",
+      "cooperate",
+      "make peace",
+      "get along"
+    ],
+    "sentence": "The twins squabble over tiny things."
+  },
+  {
+    "word": "Squalor",
+    "pos": "noun",
+    "definition": "Living conditions that are dirty and unpleasant.",
+    "synonyms": [
+      "filth",
+      "dirt",
+      "mess",
+      "misery"
+    ],
+    "antonyms": [
+      "cleanliness",
+      "comfort",
+      "tidiness",
+      "order"
+    ],
+    "sentence": "No child should live in squalor."
+  },
+  {
+    "word": "Stagnant",
+    "pos": "adjective",
+    "definition": "A pool of water that is standing still and not flowing.",
+    "synonyms": [
+      "still",
+      "stale",
+      "motionless",
+      "unmoving"
+    ],
+    "antonyms": [
+      "flowing",
+      "fresh",
+      "active",
+      "lively"
+    ],
+    "sentence": "The stagnant pond smelled very bad."
+  },
+  {
+    "word": "Stance",
+    "pos": "noun",
+    "definition": "Someone's position or view on something.",
+    "synonyms": [
+      "position",
+      "attitude",
+      "viewpoint",
+      "posture"
+    ],
+    "antonyms": [
+      "indifference",
+      "doubt",
+      "hesitation",
+      "uncertainty"
+    ],
+    "sentence": "Her stance on fairness was clear."
+  },
+  {
+    "word": "Stanza",
+    "pos": "noun",
+    "definition": "A paragraph or group of lines in a poem.",
+    "synonyms": [
+      "verse",
+      "section",
+      "part",
+      "group"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "Each stanza had four short lines."
+  },
+  {
+    "word": "Static",
+    "pos": "adjective",
+    "definition": "Something that is staying still and not having any changes.",
+    "synonyms": [
+      "still",
+      "fixed",
+      "steady",
+      "unmoving"
+    ],
+    "antonyms": [
+      "moving",
+      "changing",
+      "shifting",
+      "active"
+    ],
+    "sentence": "The picture stayed static on screen."
+  },
+  {
+    "word": "Status quo",
+    "pos": "phrase",
+    "definition": "The current situation and the way things are.",
+    "synonyms": [
+      "current state",
+      "usual way",
+      "normal order",
+      "existing system"
+    ],
+    "antonyms": [
+      "change",
+      "progress",
+      "reform",
+      "upheaval"
+    ],
+    "sentence": "They wanted to keep the status quo."
+  },
+  {
+    "word": "Stoical",
+    "pos": "adjective",
+    "definition": "Never showing your feelings.",
+    "synonyms": [
+      "calm",
+      "brave",
+      "patient",
+      "tough"
+    ],
+    "antonyms": [
+      "emotional",
+      "upset",
+      "fearful",
+      "complaining"
+    ],
+    "sentence": "She stayed stoical during the storm."
+  },
+  {
+    "word": "Stoop",
+    "pos": "verb",
+    "definition": "To bend over and have slouched head and shoulders.",
+    "synonyms": [
+      "bend",
+      "hunch",
+      "crouch",
+      "lean"
+    ],
+    "antonyms": [
+      "stand",
+      "rise",
+      "straighten",
+      "stretch"
+    ],
+    "sentence": "Please stoop under the low branch."
+  },
+  {
+    "word": "Stout",
+    "pos": "adjective",
+    "definition": "Something that is thick and is very strong.",
+    "synonyms": [
+      "sturdy",
+      "strong",
+      "solid",
+      "broad"
+    ],
+    "antonyms": [
+      "weak",
+      "thin",
+      "frail",
+      "slender"
+    ],
+    "sentence": "The stout table held many books."
+  },
+  {
+    "word": "Stretched",
+    "pos": "adjective",
+    "definition": "Something that is pulled to its limit and can't handle any more pressure.",
+    "synonyms": [
+      "extended",
+      "pulled",
+      "spread",
+      "lengthened"
+    ],
+    "antonyms": [
+      "compressed",
+      "shortened",
+      "bunched",
+      "folded"
+    ],
+    "sentence": "The cat stretched across the warm rug."
+  },
+  {
+    "word": "Stubborn",
+    "pos": "adjective",
+    "definition": "Set in their way and unwilling to try anything other than what they want.",
+    "synonyms": [
+      "headstrong",
+      "obstinate",
+      "determined",
+      "wilful"
+    ],
+    "antonyms": [
+      "flexible",
+      "yielding",
+      "easy-going",
+      "agreeable"
+    ],
+    "sentence": "My stubborn mule would not budge."
+  },
+  {
+    "word": "Subterranean",
+    "pos": "adjective",
+    "definition": "Something that exists out of sight under the earth's surface.",
+    "synonyms": [
+      "underground",
+      "buried",
+      "hidden",
+      "belowground"
+    ],
+    "antonyms": [
+      "surface",
+      "aboveground",
+      "open",
+      "visible"
+    ],
+    "sentence": "Subterranean tunnels ran under the hill."
+  },
+  {
+    "word": "Succinct",
+    "pos": "adjective",
+    "definition": "Straight to the point and clear in meaning.",
+    "synonyms": [
+      "brief",
+      "short",
+      "clear",
+      "concise"
+    ],
+    "antonyms": [
+      "wordy",
+      "long",
+      "rambling",
+      "unclear"
+    ],
+    "sentence": "Her answer was succinct and smart."
+  },
+  {
+    "word": "Succumb",
+    "pos": "verb",
+    "definition": "To give in to something and stop resisting.",
+    "synonyms": [
+      "yield",
+      "give in",
+      "surrender",
+      "fall"
+    ],
+    "antonyms": [
+      "resist",
+      "fight",
+      "endure",
+      "overcome"
+    ],
+    "sentence": "Do not succumb to peer pressure."
+  },
+  {
+    "word": "Sufficient",
+    "pos": "adjective",
+    "definition": "Something that is good enough and will be enough for the purpose.",
+    "synonyms": [
+      "enough",
+      "adequate",
+      "ample",
+      "satisfactory"
+    ],
+    "antonyms": [
+      "insufficient",
+      "lacking",
+      "scarce",
+      "inadequate"
+    ],
+    "sentence": "We had sufficient food for everyone."
+  },
+  {
+    "word": "Summit",
+    "pos": "noun",
+    "definition": "The top of or the highest part.",
+    "synonyms": [
+      "peak",
+      "top",
+      "crest",
+      "mountaintop"
+    ],
+    "antonyms": [
+      "base",
+      "bottom",
+      "foot",
+      "valley"
+    ],
+    "sentence": "They reached the summit by noon."
+  },
+  {
+    "word": "Supercilious",
+    "pos": "adjective",
+    "definition": "Thinking you are above others and acting in a way that reflects this.",
+    "synonyms": [
+      "proud",
+      "smug",
+      "snobbish",
+      "arrogant"
+    ],
+    "antonyms": [
+      "humble",
+      "modest",
+      "respectful",
+      "friendly"
+    ],
+    "sentence": "His supercilious smile annoyed the team."
+  },
+  {
+    "word": "Superfluous",
+    "pos": "adjective",
+    "definition": "Something that is excessive and is a lot more than is required.",
+    "synonyms": [
+      "extra",
+      "unnecessary",
+      "spare",
+      "needless"
+    ],
+    "antonyms": [
+      "essential",
+      "needed",
+      "necessary",
+      "important"
+    ],
+    "sentence": "That extra button seemed superfluous there."
+  },
+  {
+    "word": "Superior",
+    "pos": "adjective",
+    "definition": "Better than something else or of higher status.",
+    "synonyms": [
+      "better",
+      "finer",
+      "greater",
+      "higher"
+    ],
+    "antonyms": [
+      "inferior",
+      "poorer",
+      "lower",
+      "worse"
+    ],
+    "sentence": "This tool is superior to mine."
+  },
+  {
+    "word": "Surmount",
+    "pos": "verb",
+    "definition": "To overcome a challenge you have been having.",
+    "synonyms": [
+      "overcome",
+      "conquer",
+      "master",
+      "defeat"
+    ],
+    "antonyms": [
+      "fail",
+      "lose",
+      "surrender",
+      "give up"
+    ],
+    "sentence": "We can surmount this hard challenge."
+  },
+  {
+    "word": "Suspect",
+    "pos": "verb",
+    "definition": "A person who is thought to have done something wrong, but it has not been proven.",
+    "synonyms": [
+      "doubt",
+      "mistrust",
+      "question",
+      "distrust"
+    ],
+    "antonyms": [
+      "trust",
+      "believe",
+      "accept",
+      "rely on"
+    ],
+    "sentence": "I suspect the answer is wrong."
+  },
+  {
+    "word": "Susurration",
+    "pos": "noun",
+    "definition": "A small stirring sound, like a whisper.",
+    "synonyms": [
+      "whisper",
+      "murmur",
+      "rustle",
+      "hush"
+    ],
+    "antonyms": [
+      "silence",
+      "stillness",
+      "quiet",
+      "calm"
+    ],
+    "sentence": "We heard a susurration in leaves."
+  },
+  {
+    "word": "Sycophant",
+    "pos": "noun",
+    "definition": "A person that flatters those of higher status to try and gain from them.",
+    "synonyms": [
+      "flatterer",
+      "yes-man",
+      "crawler",
+      "toady"
+    ],
+    "antonyms": [
+      "critic",
+      "opponent",
+      "rebel",
+      "challenger"
+    ],
+    "sentence": "The king trusted every sycophant nearby."
+  },
+  {
+    "word": "Symbol",
+    "pos": "noun",
+    "definition": "A mark or sign that represents something else.",
+    "synonyms": [
+      "sign",
+      "mark",
+      "emblem",
+      "badge"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "A dove is a symbol of peace."
+  },
+  {
+    "word": "Symmetry",
+    "pos": "noun",
+    "definition": "Something that has two matching halves.",
+    "synonyms": [
+      "balance",
+      "evenness",
+      "harmony",
+      "match"
+    ],
+    "antonyms": [
+      "imbalance",
+      "unevenness",
+      "disorder",
+      "mismatch"
+    ],
+    "sentence": "The butterfly showed perfect symmetry."
+  },
+  {
+    "word": "Taint",
+    "pos": "verb",
+    "definition": "A small amount of something bad in something else.",
+    "synonyms": [
+      "spoil",
+      "stain",
+      "infect",
+      "damage"
+    ],
+    "antonyms": [
+      "clean",
+      "purify",
+      "fix",
+      "improve"
+    ],
+    "sentence": "Lies can taint a good friendship."
+  },
+  {
+    "word": "Tardy",
+    "pos": "adjective",
+    "definition": "Running slow and arriving later than expected.",
+    "synonyms": [
+      "late",
+      "delayed",
+      "slow",
+      "overdue"
+    ],
+    "antonyms": [
+      "early",
+      "prompt",
+      "punctual",
+      "timely"
+    ],
+    "sentence": "Ben was tardy for music practice."
+  },
+  {
+    "word": "Taut",
+    "pos": "adjective",
+    "definition": "Pulled tight.",
+    "synonyms": [
+      "tight",
+      "tense",
+      "stretched",
+      "firm"
+    ],
+    "antonyms": [
+      "loose",
+      "slack",
+      "limp",
+      "relaxed"
+    ],
+    "sentence": "The rope was taut across the gap."
+  },
+  {
+    "word": "Temptation",
+    "pos": "noun",
+    "definition": "The desire to do something you know you shouldn't.",
+    "synonyms": [
+      "urge",
+      "desire",
+      "lure",
+      "attraction"
+    ],
+    "antonyms": [
+      "restraint",
+      "self-control",
+      "discipline",
+      "resistance"
+    ],
+    "sentence": "The cake was a strong temptation."
+  },
+  {
+    "word": "Tentative",
+    "pos": "adjective",
+    "definition": "Hesitant to do something as you are unsure.",
+    "synonyms": [
+      "uncertain",
+      "unsure",
+      "hesitant",
+      "cautious"
+    ],
+    "antonyms": [
+      "certain",
+      "confident",
+      "definite",
+      "firm"
+    ],
+    "sentence": "She gave a tentative answer first."
+  },
+  {
+    "word": "Thrust",
+    "pos": "verb",
+    "definition": "Suddenly push something in a specific direction.",
+    "synonyms": [
+      "push",
+      "shove",
+      "drive",
+      "force"
+    ],
+    "antonyms": [
+      "pull",
+      "withdraw",
+      "remove",
+      "ease"
+    ],
+    "sentence": "He thrust the door open quickly."
+  },
+  {
+    "word": "Tomorrow",
+    "pos": "adverb",
+    "definition": "The day that follows the day you are currently on.",
+    "synonyms": [
+      "soon",
+      "next day",
+      "later",
+      "shortly"
+    ],
+    "antonyms": [
+      "yesterday",
+      "earlier",
+      "before",
+      "previously"
+    ],
+    "sentence": "We will visit Grandma tomorrow afternoon."
+  },
+  {
+    "word": "Tranquil",
+    "pos": "adjective",
+    "definition": "Peaceful and calm. A place where you will not be disturbed.",
+    "synonyms": [
+      "calm",
+      "peaceful",
+      "quiet",
+      "restful"
+    ],
+    "antonyms": [
+      "noisy",
+      "busy",
+      "troubled",
+      "restless"
+    ],
+    "sentence": "The lake looked tranquil at dawn."
+  },
+  {
+    "word": "Transcendent",
+    "pos": "adjective",
+    "definition": "Goes beyond the normal limits and exceeds everything you thought possible.",
+    "synonyms": [
+      "amazing",
+      "outstanding",
+      "superb",
+      "exceptional"
+    ],
+    "antonyms": [
+      "ordinary",
+      "average",
+      "common",
+      "plain"
+    ],
+    "sentence": "Her music felt transcendent and bright."
+  },
+  {
+    "word": "Trivia",
+    "pos": "noun",
+    "definition": "Small bits of information that are not important.",
+    "synonyms": [
+      "facts",
+      "details",
+      "bits",
+      "information"
+    ],
+    "antonyms": [
+      "main ideas",
+      "essentials",
+      "basics",
+      "key points"
+    ],
+    "sentence": "The quiz asked about movie trivia."
+  },
+  {
+    "word": "Twilight",
+    "pos": "noun",
+    "definition": "As the sun is setting just before it gets completely dark.",
+    "synonyms": [
+      "dusk",
+      "gloaming",
+      "sundown",
+      "evening"
+    ],
+    "antonyms": [
+      "daybreak",
+      "dawn",
+      "sunrise",
+      "morning"
+    ],
+    "sentence": "We walked home in the twilight."
+  },
+  {
+    "word": "Tyrant",
+    "pos": "noun",
+    "definition": "A ruler who leads in their own way without law and often in a cruel way.",
+    "synonyms": [
+      "bully",
+      "ruler",
+      "oppressor",
+      "dictator"
+    ],
+    "antonyms": [
+      "protector",
+      "helper",
+      "friend",
+      "leader"
+    ],
+    "sentence": "The tyrant made unfair rules daily."
+  },
+  {
+    "word": "Ubiquitous",
+    "pos": "adjective",
+    "definition": "Seeming to appear everywhere at the same time.",
+    "synonyms": [
+      "everywhere",
+      "common",
+      "widespread",
+      "universal"
+    ],
+    "antonyms": [
+      "rare",
+      "scarce",
+      "uncommon",
+      "limited"
+    ],
+    "sentence": "Mobile phones are ubiquitous today."
+  },
+  {
+    "word": "Uncaring",
+    "pos": "adjective",
+    "definition": "Having a lack of interest and concern towards something.",
+    "synonyms": [
+      "cold",
+      "thoughtless",
+      "indifferent",
+      "heartless"
+    ],
+    "antonyms": [
+      "kind",
+      "caring",
+      "thoughtful",
+      "gentle"
+    ],
+    "sentence": "His uncaring reply hurt her feelings."
+  },
+  {
+    "word": "Uniform",
+    "pos": "adjective",
+    "definition": "Something that is regular and always remains the same.",
+    "synonyms": [
+      "same",
+      "matching",
+      "equal",
+      "consistent"
+    ],
+    "antonyms": [
+      "different",
+      "varied",
+      "uneven",
+      "mixed"
+    ],
+    "sentence": "The rows looked uniform and neat."
+  },
+  {
+    "word": "Union",
+    "pos": "noun",
+    "definition": "Joining a group of things together to make one.",
+    "synonyms": [
+      "joining",
+      "partnership",
+      "alliance",
+      "unity"
+    ],
+    "antonyms": [
+      "division",
+      "separation",
+      "split",
+      "conflict"
+    ],
+    "sentence": "The union of teams helped everyone."
+  },
+  {
+    "word": "Universal",
+    "pos": "adjective",
+    "definition": "Something that applies to everyone everywhere.",
+    "synonyms": [
+      "worldwide",
+      "common",
+      "widespread",
+      "shared"
+    ],
+    "antonyms": [
+      "limited",
+      "local",
+      "rare",
+      "specific"
+    ],
+    "sentence": "Smiling is a universal sign."
+  },
+  {
+    "word": "Unorthodox",
+    "pos": "adjective",
+    "definition": "Something that is different to the traditional or expected way of doing things.",
+    "synonyms": [
+      "unusual",
+      "odd",
+      "different",
+      "unconventional"
+    ],
+    "antonyms": [
+      "usual",
+      "normal",
+      "ordinary",
+      "traditional"
+    ],
+    "sentence": "Her unorthodox idea solved the puzzle."
+  },
+  {
+    "word": "Unrequited",
+    "pos": "adjective",
+    "definition": "Giving something but not having it returned.",
+    "synonyms": [
+      "unreturned",
+      "one-sided",
+      "unanswered",
+      "rejected"
+    ],
+    "antonyms": [
+      "returned",
+      "shared",
+      "mutual",
+      "accepted"
+    ],
+    "sentence": "His unrequited crush soon faded away."
+  },
+  {
+    "word": "Untoward",
+    "pos": "adjective",
+    "definition": "Something unexpected and unfortunate.",
+    "synonyms": [
+      "unfortunate",
+      "awkward",
+      "improper",
+      "unexpected"
+    ],
+    "antonyms": [
+      "fortunate",
+      "proper",
+      "suitable",
+      "expected"
+    ],
+    "sentence": "Nothing untoward happened on the trip."
+  },
+  {
+    "word": "Valiantly",
+    "pos": "adverb",
+    "definition": "Acting with determination and persevering when something is difficult.",
+    "synonyms": [
+      "bravely",
+      "boldly",
+      "nobly",
+      "courageously"
+    ],
+    "antonyms": [
+      "cowardly",
+      "timidly",
+      "fearfully",
+      "weakly"
+    ],
+    "sentence": "She fought valiantly for her team."
+  },
+  {
+    "word": "Vapour",
+    "pos": "noun",
+    "definition": "Small drops of liquid that appear as a cloud.",
+    "synonyms": [
+      "mist",
+      "steam",
+      "haze",
+      "fume"
+    ],
+    "antonyms": [
+      "solid",
+      "liquid",
+      "ice",
+      "water"
+    ],
+    "sentence": "Warm vapour rose from the kettle."
+  },
+  {
+    "word": "Vast",
+    "pos": "adjective",
+    "definition": "Very big.",
+    "synonyms": [
+      "huge",
+      "enormous",
+      "immense",
+      "wide"
+    ],
+    "antonyms": [
+      "tiny",
+      "small",
+      "little",
+      "narrow"
+    ],
+    "sentence": "The desert looked vast and empty."
+  },
+  {
+    "word": "Vaticinate",
+    "pos": "verb",
+    "definition": "Make a prediction about what is going to happen in the future.",
+    "synonyms": [
+      "predict",
+      "foresee",
+      "foretell",
+      "prophesy"
+    ],
+    "antonyms": [
+      "ignore",
+      "doubt",
+      "hide",
+      "misread"
+    ],
+    "sentence": "Some people vaticinate the weather badly."
+  },
+  {
+    "word": "Veil",
+    "pos": "noun",
+    "definition": "A thin piece of material used to cover the face.",
+    "synonyms": [
+      "covering",
+      "screen",
+      "layer",
+      "shroud"
+    ],
+    "antonyms": [
+      "opening",
+      "reveal",
+      "exposure",
+      "display"
+    ],
+    "sentence": "A thin veil covered the moon."
+  },
+  {
+    "word": "Ventilation",
+    "pos": "noun",
+    "definition": "The circulation of fresh air.",
+    "synonyms": [
+      "airflow",
+      "fresh air",
+      "airing",
+      "circulation"
+    ],
+    "antonyms": [
+      "stoppage",
+      "blockage",
+      "sealing",
+      "closure"
+    ],
+    "sentence": "Good ventilation keeps classrooms comfortable."
+  },
+  {
+    "word": "Vessel",
+    "pos": "noun",
+    "definition": "A boat or a ship that is large in size.",
+    "synonyms": [
+      "container",
+      "ship",
+      "boat",
+      "holder"
+    ],
+    "antonyms": [
+      "contents",
+      "cargo",
+      "load",
+      "filling"
+    ],
+    "sentence": "The old vessel crossed the bay."
+  },
+  {
+    "word": "Vicarious",
+    "pos": "adjective",
+    "definition": "Experiencing things through another person.",
+    "synonyms": [
+      "shared",
+      "second-hand",
+      "indirect",
+      "imagined"
+    ],
+    "antonyms": [
+      "direct",
+      "personal",
+      "firsthand",
+      "real"
+    ],
+    "sentence": "I felt vicarious joy watching them."
+  },
+  {
+    "word": "Vile",
+    "pos": "adjective",
+    "definition": "Very unpleasant.",
+    "synonyms": [
+      "awful",
+      "nasty",
+      "horrible",
+      "foul"
+    ],
+    "antonyms": [
+      "pleasant",
+      "nice",
+      "lovely",
+      "delightful"
+    ],
+    "sentence": "The rubbish gave off a vile smell."
+  },
+  {
+    "word": "Vixen",
+    "pos": "noun",
+    "definition": "A female fox.",
+    "synonyms": [
+      "female fox",
+      "fox",
+      "animal",
+      "creature"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "A vixen hid near the trees."
+  },
+  {
+    "word": "Voluminous",
+    "pos": "adjective",
+    "definition": "Something that is very large and bulky.",
+    "synonyms": [
+      "bulky",
+      "roomy",
+      "loose",
+      "large"
+    ],
+    "antonyms": [
+      "tight",
+      "small",
+      "slim",
+      "narrow"
+    ],
+    "sentence": "She wore a voluminous winter coat."
+  },
+  {
+    "word": "Weary",
+    "pos": "adjective",
+    "definition": "Feeling tired either mentally or physically.",
+    "synonyms": [
+      "tired",
+      "exhausted",
+      "worn-out",
+      "sleepy"
+    ],
+    "antonyms": [
+      "rested",
+      "fresh",
+      "lively",
+      "energetic"
+    ],
+    "sentence": "After hiking, we felt weary."
+  },
+  {
+    "word": "Weird",
+    "pos": "adjective",
+    "definition": "Something unusual and different to what is expected.",
+    "synonyms": [
+      "strange",
+      "odd",
+      "unusual",
+      "quirky"
+    ],
+    "antonyms": [
+      "normal",
+      "usual",
+      "ordinary",
+      "familiar"
+    ],
+    "sentence": "That weird noise came from outside."
+  },
+  {
+    "word": "Whimsical",
+    "pos": "adjective",
+    "definition": "Something that is playful and unpredictable. Often impractical.",
+    "synonyms": [
+      "playful",
+      "fanciful",
+      "quirky",
+      "imaginative"
+    ],
+    "antonyms": [
+      "serious",
+      "plain",
+      "practical",
+      "dull"
+    ],
+    "sentence": "The artist drew whimsical flying cats."
+  },
+  {
+    "word": "Whining",
+    "pos": "adjective",
+    "definition": "Persistently complaining about something small.",
+    "synonyms": [
+      "complaining",
+      "grumbling",
+      "moaning",
+      "nagging"
+    ],
+    "antonyms": [
+      "cheerful",
+      "thankful",
+      "content",
+      "quiet"
+    ],
+    "sentence": "The whining child wanted more sweets."
+  },
+  {
+    "word": "Wholesome",
+    "pos": "adjective",
+    "definition": "Something good for you that can improve your life.",
+    "synonyms": [
+      "healthy",
+      "good",
+      "nourishing",
+      "decent"
+    ],
+    "antonyms": [
+      "harmful",
+      "unhealthy",
+      "nasty",
+      "corrupt"
+    ],
+    "sentence": "We packed a wholesome lunch today."
+  },
+  {
+    "word": "Wilful",
+    "pos": "adjective",
+    "definition": "Intentionally carrying out a damaging act.",
+    "synonyms": [
+      "stubborn",
+      "headstrong",
+      "obstinate",
+      "determined"
+    ],
+    "antonyms": [
+      "obedient",
+      "compliant",
+      "flexible",
+      "agreeable"
+    ],
+    "sentence": "His wilful choice caused more trouble."
+  },
+  {
+    "word": "Wistful",
+    "pos": "adjective",
+    "definition": "Longing for something from the past.",
+    "synonyms": [
+      "thoughtful",
+      "longing",
+      "dreamy",
+      "reflective"
+    ],
+    "antonyms": [
+      "cheerful",
+      "joyful",
+      "lively",
+      "excited"
+    ],
+    "sentence": "She gave a wistful look outside."
+  },
+  {
+    "word": "Wit",
+    "pos": "noun",
+    "definition": "Being sharp and clever with words.",
+    "synonyms": [
+      "humour",
+      "cleverness",
+      "sharpness",
+      "intelligence"
+    ],
+    "antonyms": [
+      "dullness",
+      "foolishness",
+      "stupidity",
+      "slowness"
+    ],
+    "sentence": "His wit made the whole class laugh."
+  },
+  {
+    "word": "Wither",
+    "pos": "verb",
+    "definition": "Drying up and disappearing.",
+    "synonyms": [
+      "dry up",
+      "wilt",
+      "fade",
+      "shrivel"
+    ],
+    "antonyms": [
+      "bloom",
+      "grow",
+      "flourish",
+      "thrive"
+    ],
+    "sentence": "Plants wither without enough water."
+  },
+  {
+    "word": "Witticism",
+    "pos": "noun",
+    "definition": "A witty comment.",
+    "synonyms": [
+      "joke",
+      "quip",
+      "wisecrack",
+      "remark"
+    ],
+    "antonyms": [
+      "seriousness",
+      "silence",
+      "lecture",
+      "statement"
+    ],
+    "sentence": "Her witticism made everyone chuckle."
+  },
+  {
+    "word": "Witty",
+    "pos": "adjective",
+    "definition": "Being quick and clever with words for a humorous effect.",
+    "synonyms": [
+      "funny",
+      "clever",
+      "sharp",
+      "amusing"
+    ],
+    "antonyms": [
+      "dull",
+      "boring",
+      "slow",
+      "humourless"
+    ],
+    "sentence": "He gave a witty reply."
+  },
+  {
+    "word": "Worthy",
+    "pos": "adjective",
+    "definition": "Having value and being deserving of something.",
+    "synonyms": [
+      "deserving",
+      "good",
+      "admirable",
+      "honourable"
+    ],
+    "antonyms": [
+      "undeserving",
+      "poor",
+      "shameful",
+      "unworthy"
+    ],
+    "sentence": "She is worthy of the prize."
+  },
+  {
+    "word": "Wound",
+    "pos": "noun",
+    "definition": "An open injury to your body.",
+    "synonyms": [
+      "injury",
+      "cut",
+      "hurt",
+      "gash"
+    ],
+    "antonyms": [
+      "healing",
+      "health",
+      "recovery",
+      "wholeness"
+    ],
+    "sentence": "He cleaned the wound carefully."
+  },
+  {
+    "word": "Yacht",
+    "pos": "noun",
+    "definition": "A boat that is often used for sailing.",
+    "synonyms": [
+      "boat",
+      "ship",
+      "vessel",
+      "cruiser"
+    ],
+    "antonyms": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ],
+    "sentence": "A white yacht sailed past us."
+  },
+  {
+    "word": "Yield",
+    "pos": "verb",
+    "definition": "The amount of produce that is created.",
+    "synonyms": [
+      "give",
+      "surrender",
+      "produce",
+      "provide"
+    ],
+    "antonyms": [
+      "withhold",
+      "resist",
+      "refuse",
+      "keep"
+    ],
+    "sentence": "Apple trees yield fruit in autumn."
+  },
+  {
+    "word": "Zestful",
+    "pos": "adjective",
+    "definition": "Having a lot of enthusiasm.",
+    "synonyms": [
+      "lively",
+      "eager",
+      "energetic",
+      "enthusiastic"
+    ],
+    "antonyms": [
+      "dull",
+      "bored",
+      "tired",
+      "listless"
+    ],
+    "sentence": "She gave a zestful dance performance."
+  },
+  {
+    "word": "Zeitgeist",
+    "pos": "noun",
+    "definition": "The opinions and beliefs people have at a specific period in time.",
+    "synonyms": [
+      "spirit of the age",
+      "mood",
+      "culture",
+      "outlook"
+    ],
+    "antonyms": [
+      "tradition",
+      "past",
+      "history",
+      "old ways"
+    ],
+    "sentence": "That song captured the zeitgeist well."
+  }
+]

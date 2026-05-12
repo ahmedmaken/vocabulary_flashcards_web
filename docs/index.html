@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f2ebe2">
+  <title>Vocabulary Flashcards</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="top-panel">
+      <div class="top-row">
+        <div class="badge" id="header-badge">20 tests • all words</div>
+        <button class="back-button hidden" id="back-button" type="button">Back to all tests</button>
+      </div>
+
+      <div class="sub-row">
+        <p class="subtitle" id="header-subtitle">Choose a test or all words</p>
+        <button class="sort-toggle hidden" id="sort-toggle" type="button" aria-pressed="false">Alphabetical order</button>
+      </div>
+    </header>
+
+    <main class="main-panel">
+      <section class="picker-screen" id="picker-screen">
+        <button class="selection-card all-words-card" id="all-words-card" type="button">
+          <span class="selection-title">All words</span>
+          <span class="selection-meta" id="all-words-count">0 cards</span>
+          <span class="selection-status" id="all-words-status">Not started</span>
+        </button>
+
+        <div class="tests-grid" id="tests-grid"></div>
+      </section>
+
+      <section class="study-screen hidden" id="study-screen">
+        <div class="flashcard-shell" id="flashcard-shell" tabindex="0" aria-live="polite">
+          <article class="flashcard is-front" id="flashcard">
+            <div class="flashcard-face flashcard-front">
+              <div class="front-word" id="front-word"></div>
+              <div class="front-hint">Tap anywhere to reveal</div>
+            </div>
+
+            <div class="flashcard-face flashcard-back">
+              <div class="back-head">
+                <div>
+                  <h1 class="back-word" id="back-word"></h1>
+                  <div class="back-pos" id="back-pos"></div>
+                </div>
+                <button class="speak-button" id="speak-button" type="button" aria-label="Speak word">Speak</button>
+              </div>
+
+              <div class="back-sections">
+                <section class="info-block">
+                  <div class="info-label">Definition</div>
+                  <p class="info-text" id="definition"></p>
+                </section>
+
+                <section class="info-block">
+                  <div class="info-label">Synonyms</div>
+                  <div class="chip-row" id="synonyms"></div>
+                </section>
+
+                <section class="info-block">
+                  <div class="info-label">Antonyms</div>
+                  <div class="chip-row" id="antonyms"></div>
+                </section>
+
+                <section class="info-block">
+                  <div class="info-label">Sentence</div>
+                  <p class="info-text" id="sentence"></p>
+                </section>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <section class="scrubber-panel">
+          <div class="scrubber-label" id="scrubber-label">Card 1 of 1</div>
+          <input class="scrubber" id="scrubber" type="range" min="0" max="0" value="0" step="1">
+        </section>
+
+        <section class="nav-panel">
+          <button class="nav-button" id="previous-button" type="button">Previous</button>
+          <button class="nav-button" id="next-button" type="button">Next</button>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <template id="test-card-template">
+    <button class="selection-card test-card" type="button">
+      <span class="selection-title"></span>
+      <span class="selection-meta"></span>
+      <span class="selection-status"></span>
+    </button>
+  </template>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
