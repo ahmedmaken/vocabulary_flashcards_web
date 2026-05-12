@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=20260512b">
 </head>
 <body>
   <div class="page-shell">
@@ -28,8 +28,8 @@
       <section class="picker-screen" id="picker-screen">
         <button class="selection-card all-words-card" id="all-words-card" type="button">
           <span class="selection-title">All words</span>
-          <span class="selection-meta" id="all-words-count">0 cards</span>
-          <span class="selection-status" id="all-words-status">Not started</span>
+          <span class="selection-meta" id="all-words-count">Loading cards...</span>
+          <span class="selection-status" id="all-words-status">Please wait</span>
         </button>
 
         <div class="tests-grid" id="tests-grid"></div>
@@ -98,6 +98,6 @@
     </button>
   </template>
 
-  <script src="./app.js" defer></script>
+  <script src="./app.js?v=20260512b" defer></script>
 </body>
 </html>

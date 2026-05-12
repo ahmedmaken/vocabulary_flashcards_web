@@ -6,6 +6,8 @@ const STORAGE_KEYS = {
   randomOrder: "allWordsSortRandom",
 };
 
+const ASSET_VERSION = "20260512b";
+
 const TOTAL_TESTS = 20;
 const PALETTE = [
   { page: "#e6d7c8", card: "#f0e4d8" },
@@ -53,6 +55,11 @@ const elements = {
   previousButton: document.getElementById("previous-button"),
   nextButton: document.getElementById("next-button"),
 };
+
+function setLoadingState() {
+  elements.allWordsCount.textContent = "Loading cards...";
+  elements.allWordsStatus.textContent = "Please wait";
+}
 
 function stableShuffleKey(word) {
   let hash = 1469598103934665603n;
@@ -525,7 +532,11 @@ function setupEvents() {
 }
 
 async function bootstrap() {
-  const response = await fetch("./assets/flashcards.json");
+  setLoadingState();
+
+  const response = await fetch(`./assets/flashcards.json?v=${ASSET_VERSION}`, {
+    cache: "no-store",
+  });
 
   if (!response.ok) {
     throw new Error(`Failed to load flashcards: ${response.status}`);
@@ -540,6 +551,8 @@ async function bootstrap() {
 }
 
 bootstrap().catch((error) => {
+  elements.allWordsCount.textContent = "Could not load cards";
+  elements.allWordsStatus.textContent = "Refresh and try again";
   elements.pickerScreen.innerHTML = `<div class="selection-card"><span class="selection-title">Could not load cards</span><span class="selection-meta">${error.message}</span></div>`;
   console.error(error);
 });
