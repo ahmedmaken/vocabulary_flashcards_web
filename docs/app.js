@@ -6,9 +6,7 @@ const STORAGE_KEYS = {
   randomOrder: "allWordsSortRandom",
 };
 
-const ASSET_VERSION = "20260512e";
-const PAGE_VIEWS_NAMESPACE = "ahmedmaken-vocabulary-flashcards-web";
-const PAGE_VIEWS_KEY = "site-views";
+const ASSET_VERSION = "20260512f";
 
 const TOTAL_TESTS = 20;
 const PALETTE = [
@@ -26,7 +24,6 @@ const state = {
   selection: null,
   selectedIndex: 0,
   isRandomOrder: false,
-  pageViews: null,
   revealedCards: new Set(),
 };
 
@@ -68,35 +65,6 @@ function setLoadingState() {
 function setUnavailableState(message) {
   elements.allWordsCount.textContent = message;
   elements.allWordsStatus.textContent = "Try refresh";
-}
-
-function renderPageViews() {
-  if (typeof state.pageViews === "number") {
-    elements.pageCounter.textContent = `Views ${state.pageViews.toLocaleString()}`;
-    return;
-  }
-
-  elements.pageCounter.textContent = "Views ...";
-}
-
-async function incrementPageViews() {
-  try {
-    const response = await fetch(
-      `https://api.countapi.xyz/hit/${PAGE_VIEWS_NAMESPACE}/${PAGE_VIEWS_KEY}?amount=1`,
-      { cache: "no-store" }
-    );
-
-    if (!response.ok) {
-      throw new Error(`Count API failed: ${response.status}`);
-    }
-
-    const payload = await response.json();
-    state.pageViews = typeof payload.value === "number" ? payload.value : null;
-  } catch {
-    state.pageViews = null;
-  }
-
-  renderPageViews();
 }
 
 function stableShuffleKey(word) {
@@ -325,7 +293,6 @@ function renderHeader(cards) {
     elements.headerSubtitle.textContent = "Choose a test or all words";
   }
 
-  renderPageViews();
   elements.backButton.classList.toggle("hidden", !state.selection);
   elements.sortToggle.classList.toggle("hidden", !isAllWordsSelected);
   elements.sortToggle.textContent = state.isRandomOrder ? "Random order" : "Alphabetical order";
@@ -586,9 +553,6 @@ function setupEvents() {
 
 async function bootstrap() {
   setLoadingState();
-  renderPageViews();
-
-  void incrementPageViews();
 
   const response = await fetch(`./assets/flashcards.json?v=${ASSET_VERSION}`, {
     cache: "no-store",
